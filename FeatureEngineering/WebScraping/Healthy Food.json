@@ -1,0 +1,2027 @@
+{
+    "_session": "NKTyvBDYLZzUjpCM_27392020063909999",
+    "id_customer": "0",
+    "message": "Get Successful.",
+    "product": [
+        {
+            "_id": "57991",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Salt & Sugar",
+            "category2_id": "344",
+            "category3": "JAGGERY",
+            "category3_id": "705",
+            "description": "BROWN SUGAR",
+            "id_category": "705",
+            "mrp": 0,
+            "name": "BROWN SUGAR",
+            "pic": [
+                {
+                    "_id": "95940",
+                    "pic": "uploads/product/1004874.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119865",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57991",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "62",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "37.58",
+                    "selling_price": 49,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003250",
+                    "stock": "160",
+                    "tax": "5"
+                },
+                {
+                    "_id": "2120030",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57991",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "110",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "74.51",
+                    "selling_price": 90,
+                    "size": "1000 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1004874",
+                    "stock": "40",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233388",
+                    "specification": "About",
+                    "value": "\r\nBrown sugar has an extra hint of molasses which is responsible for the rich colour and enhanced flavour. Apart from baking, brown sugar with other spices is often used to make sugar syrup used in flavoured beverages. Brown sugar brings an extra glaze and unique flavour when added to desserts. Namdhari's Organic range is cultivated using only organic methods and there is no use of chemical fertilizers or harmful pesticides. "
+                },
+                {
+                    "_id": "1250250",
+                    "specification": "Description",
+                    "value": "BROWN SUGAR"
+                }
+            ],
+            "tags": "BROWN SUGAR",
+            "wishlist": 0
+        },
+        {
+            "_id": "58728",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Organic Staples",
+            "category2_id": "313",
+            "category3": "ORGANIC PEANUT",
+            "category3_id": "694",
+            "description": "ORGANIC FREID GRAM",
+            "id_category": "694",
+            "mrp": 0,
+            "name": "ORGANIC FREID GRAM",
+            "pic": [
+                {
+                    "_id": "95929",
+                    "pic": "uploads/product/1006703.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119901",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "58728",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "70",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "40",
+                    "selling_price": 65,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1006703",
+                    "stock": "122",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233266",
+                    "specification": "About",
+                    "value": "Organic Fried Gram Whole is a great healthy snacking option. It is low in calories and high in fibre. It is also a very good option for adding protein to your diet.  Namdhari's Organic Fried Gram Whole is 100% certified organic product thus totally free from any artificial chemicals or pesticides. "
+                },
+                {
+                    "_id": "1250156",
+                    "specification": "Description",
+                    "value": "ORGANIC FREID GRAM"
+                }
+            ],
+            "tags": "ORGANIC FREID GRAM",
+            "wishlist": 0
+        },
+        {
+            "_id": "57702",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Rice & Rice Products",
+            "category2_id": "336",
+            "category3": "RICE & RICE PRODUCTS",
+            "category3_id": "951",
+            "description": "BASMATI PREMIUM RICE ",
+            "id_category": "951",
+            "mrp": 0,
+            "name": "BASMATI PREMIUM RICE ",
+            "pic": [
+                {
+                    "_id": "95935",
+                    "pic": "uploads/product/1005589.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120028",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57702",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "110",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "63.79",
+                    "selling_price": 99,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1005589",
+                    "stock": "107",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233328",
+                    "specification": "About",
+                    "value": "Basmati Premium Rice from Namdhari's is one of the finest quality rice available in the market. They are cultivated using organic methods with no chemical fertilizers or pesticides. The long grains and the aroma of these premium quality rice makes it perfect for Pulao, Veg Biryani and other authentic Indian delicacies."
+                },
+                {
+                    "_id": "1250199",
+                    "specification": "Description",
+                    "value": "BASMATI PREMIUM RICE "
+                }
+            ],
+            "tags": "BASMATI PREMIUM RICE ",
+            "wishlist": 0
+        },
+        {
+            "_id": "54144",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "URAD DAL",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "URAD DAL",
+            "pic": [
+                {
+                    "_id": "95926",
+                    "pic": "uploads/product/1003491.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119918",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54144",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "110",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "45",
+                    "selling_price": 99,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003491",
+                    "stock": "97",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232580",
+                    "specification": "About",
+                    "value": "Urad dal is an important kitchen staple of Indian. Be it the paper light dosas or the hot and crisp Vadas, urad dal is one of the primary ingredients. Urad dal is high in fibre content which makes it excellent for digestion and is great for diabetes as well. With no use of synthetic chemicals or fertilizers during cultivation makes Organic Urad Dal from Namdhari's perfect for your dietary requirements."
+                },
+                {
+                    "_id": "1249420",
+                    "specification": "Description",
+                    "value": "URAD DAL"
+                }
+            ],
+            "tags": "URAD DAL",
+            "wishlist": 0
+        },
+        {
+            "_id": "54149",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "KODO MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "KODO MILLET",
+            "pic": [
+                {
+                    "_id": "95911",
+                    "pic": "uploads/product/1003497.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119943",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54149",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "80",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "37",
+                    "selling_price": 59,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003497",
+                    "stock": "87",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232936",
+                    "specification": "About",
+                    "value": "Kodo Millets are low glycaemic index food that helps in controlling blood sugar and packed with antioxidants like polyphenols. Rich in dietary fibres and a great source of vitamin makes it a complete food needed for a healthy lifestyle. Namdhari's Organic Kodo Millets are cultivated using 100% organic farming methods like crop rotation, green manure etc. and it is chemical fertilizers and pesticides free. So enjoy our range of Organic products and lead a healthywholesome  life."
+                },
+                {
+                    "_id": "1249809",
+                    "specification": "Description",
+                    "value": "KODO MILLET"
+                }
+            ],
+            "tags": "KODO MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "57180",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "MOONG DAL SPLIT",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "MOONG DAL SPLIT",
+            "pic": [
+                {
+                    "_id": "95930",
+                    "pic": "uploads/product/1003493.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119800",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57180",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "95",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "75.64",
+                    "selling_price": 95,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003493",
+                    "stock": "81",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232582",
+                    "specification": "About",
+                    "value": "Moong dal Split is high in fibre and packed with nutrients like potassium, magnesium, iron, vitamin B6 and high-quality protein. Namdhari's Moong Dal is 100% organic and there is no use of chemical fertilizers and pesticides. Use it to make simple yet comforting daal or use it to make some tasty moong daal halwa. Organic Moong Dal from Namdhari's will never fail to give you a wholesome experience."
+                },
+                {
+                    "_id": "1249421",
+                    "specification": "Description",
+                    "value": "MOONG DAL SPLIT"
+                }
+            ],
+            "tags": "MOONG DAL SPLIT",
+            "wishlist": 0
+        },
+        {
+            "_id": "58785",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "ORGANIC WHOLE WHEAT",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "ORGANIC WHOLE WHEAT",
+            "pic": [
+                {
+                    "_id": "95919",
+                    "pic": "uploads/product/1006789.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119809",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "58785",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "50",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "39.8",
+                    "selling_price": 50,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1006789",
+                    "stock": "70",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232590",
+                    "specification": "About",
+                    "value": "Wheat is a crucial grain in India. Most of the Indian kitchen is incomplete without wheat or wheat products. The wheat flour is commonly used for making delicious parathas, Rotis and puris or fulkas. It is also one of the primary ingredients for baking bread and cakes. Wheat is a great source of vitamins, minerals, antioxidants and fibre. Namdhari's Organic Whole Wheat is cultivated with no harmful chemicals or artificial fertilizers, which makes it safe and healthy for the consumption of you and your family. "
+                },
+                {
+                    "_id": "1249428",
+                    "specification": "Description",
+                    "value": "ORGANIC WHOLE WHEAT"
+                }
+            ],
+            "tags": "ORGANIC WHOLE WHEAT",
+            "wishlist": 0
+        },
+        {
+            "_id": "54145",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "BARNYARD MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "BARNYARD MILLET",
+            "pic": [
+                {
+                    "_id": "95910",
+                    "pic": "uploads/product/1003492.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120378",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54145",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "80",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "51.975",
+                    "selling_price": 65,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003492",
+                    "stock": "56",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232932",
+                    "specification": "About",
+                    "value": "Barnyard Millet is a low glycaemic index food, rich in fibre, iron and a good source of protein. It is gluten-free which makes it a perfect dietary choice for gluten intolerant people. Organic barnyard millet from Namdhari's  is cultivated using only organic farming techniques. We use no chemical fertilizers or insecticides thus make sure no harmful chemical can enter your system. "
+                },
+                {
+                    "_id": "1249807",
+                    "specification": "Description",
+                    "value": "BARNYARD MILLET"
+                }
+            ],
+            "tags": "BARNYARD MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "54150",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "PROSO MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "PROSO MILLET",
+            "pic": [
+                {
+                    "_id": "95913",
+                    "pic": "uploads/product/1003498.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120376",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54150",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "80",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "56.427",
+                    "selling_price": 70,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003498",
+                    "stock": "56",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232938",
+                    "specification": "About",
+                    "value": "Organic Proso Millets are gluten-free and a high source of protein. It is high in vitamins, protein, manganese, iron and potassium. Organic Proso Millets help in weight loss and also reduces the risk of cancer. Namdhari's Organic Proso Millet is cultivated using 100% organic methods. No harmful chemical fertilizers or pesticides are used. Organic food is not just good for your health but for the environment as well. It helps boost your immune system, protects you from heart diseases and helps protect the environment as well."
+                },
+                {
+                    "_id": "1249810",
+                    "specification": "Description",
+                    "value": "PROSO MILLET"
+                }
+            ],
+            "tags": "PROSO MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "56546",
+            "actual_price": 0,
+            "article_no": "800006890",
+            "brand": "ALMOND FRESH",
+            "category1": "Bread, Dairy & Frozen",
+            "category1_id": "199",
+            "category2": "Dairy Products",
+            "category2_id": "216",
+            "category3": "SOYA MILK",
+            "category3_id": "680",
+            "description": "MILK  NATURAL NUTTY & DELICIOUS",
+            "id_category": "680",
+            "mrp": 0,
+            "name": "MILK  NATURAL NUTTY & DELICIOUS",
+            "pic": [
+                {
+                    "_id": "73020",
+                    "pic": "uploads/product/almond_fresh_milk_natural_nutty_&_delicious.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "78930",
+                    "pic": "uploads/product/208439.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "78933",
+                    "pic": "uploads/product/208436.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "82112",
+                    "pic": "uploads/product/208439.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "82115",
+                    "pic": "uploads/product/208436.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "85294",
+                    "pic": "uploads/product/208439.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "85297",
+                    "pic": "uploads/product/208436.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "88476",
+                    "pic": "uploads/product/208439.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "88479",
+                    "pic": "uploads/product/208436.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2117987",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56546",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "70",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "50",
+                    "selling_price": 70,
+                    "size": "200 ML",
+                    "size_measuring_unit": null,
+                    "sku": "1001531",
+                    "stock": "55",
+                    "tax": "12"
+                },
+                {
+                    "_id": "2118139",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56546",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "275",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "196.43",
+                    "selling_price": 275,
+                    "size": "1 LTR",
+                    "size_measuring_unit": null,
+                    "sku": "1001529",
+                    "stock": "41",
+                    "tax": "12"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232057",
+                    "specification": "Description",
+                    "value": "MILK  NATURAL NUTTY & DELICIOUS"
+                },
+                {
+                    "_id": "1232058",
+                    "specification": "About",
+                    "value": "Life Health Foods India brings Almond Fresh a beverages which is conventionally known for its benefits.\r\nFrom ages soaked almonds have been part of grandmother\u2019s recipe for health and beauty.\r\nEvery glass of Almond gives that reason to feel healthy, happy & beautiful.\r\nRich source of Calcium and Vitamin D.\r\nLactose free.\r\nCholesterol free.\r\nNo added preservatives.\r\nInternational expertise.\r\nGluten free."
+                }
+            ],
+            "tags": "MILK  NATURAL NUTTY & DELICIOUS",
+            "wishlist": 0
+        },
+        {
+            "_id": "56191",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Flours & Sooji",
+            "category2_id": "295",
+            "category3": "FLOURS & SOOJI",
+            "category3_id": "932",
+            "description": "WHEAT DALIA",
+            "id_category": "932",
+            "mrp": 0,
+            "name": "WHEAT DALIA",
+            "pic": [
+                {
+                    "_id": "95927",
+                    "pic": "uploads/product/1005011.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2118579",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56191",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "40",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "33.43",
+                    "selling_price": 40,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1005011",
+                    "stock": "53",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232888",
+                    "specification": "About",
+                    "value": "Wheat Dalia or Broken Wheat is a healthy and nutritious breakfast option for you. It is easy to cook and has a grainy taste. Even a simple Dalia Khichdi with some vegetables and ghee tastes delicious. Wheat Dalia from Namdhari's is 100% organic and free from any harmful chemicals or pesticides. They are cultivated in an all-natural environment which makes it safe and healthy for your family. So indulge in this wholesome food without causing any harm to your system."
+                },
+                {
+                    "_id": "1249749",
+                    "specification": "Description",
+                    "value": "WHEAT DALIA"
+                }
+            ],
+            "tags": "WHEAT DALIA",
+            "wishlist": 0
+        },
+        {
+            "_id": "56545",
+            "actual_price": 0,
+            "article_no": "800006890",
+            "brand": "ALMOND FRESH",
+            "category1": "Beverages",
+            "category1_id": "53",
+            "category2": "Energy & Health Drinks",
+            "category2_id": "58",
+            "category3": "ENERGY & HEALTH DRINKS",
+            "category3_id": "930",
+            "description": "MILK CHOCOLATE NUTTY & DELICIOUS",
+            "id_category": "930",
+            "mrp": 0,
+            "name": "MILK CHOCOLATE NUTTY & DELICIOUS",
+            "pic": [
+                {
+                    "_id": "97178",
+                    "pic": "uploads/product/almond_fresh_milk_chocolate_nutty_&_delicious.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97179",
+                    "pic": "uploads/product/208441.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97180",
+                    "pic": "uploads/product/208438.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97181",
+                    "pic": "uploads/product/208441.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97182",
+                    "pic": "uploads/product/208438.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97183",
+                    "pic": "uploads/product/208441.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97184",
+                    "pic": "uploads/product/208438.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97185",
+                    "pic": "uploads/product/208441.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97186",
+                    "pic": "uploads/product/208438.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2117985",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56545",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "70",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "50",
+                    "selling_price": 70,
+                    "size": "200 ML",
+                    "size_measuring_unit": null,
+                    "sku": "1001532",
+                    "stock": "52",
+                    "tax": "12"
+                },
+                {
+                    "_id": "2118138",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56545",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "275",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "196.43",
+                    "selling_price": 275,
+                    "size": "1 LTR",
+                    "size_measuring_unit": null,
+                    "sku": "1001528",
+                    "stock": "25",
+                    "tax": "12"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232059",
+                    "specification": "Description",
+                    "value": "MILK CHOCOLATE NUTTY & DELICIOUS"
+                },
+                {
+                    "_id": "1232060",
+                    "specification": "About",
+                    "value": "Life Health Foods India brings Almond Fresh a beverages which is conventionally known for its benefits.\r\nFrom ages soaked almonds have been part of grandmother\u2019s recipe for health and beauty.\r\nEvery glass of Almond gives that reason to feel healthy, happy & beautiful.\r\nRich source of Calcium and Vitamin D.\r\nLactose free.\r\nCholesterol free.\r\nNo added preservatives.\r\nInternational expertise.\r\nGluten free."
+                }
+            ],
+            "tags": "MILK CHOCOLATE NUTTY & DELICIOUS",
+            "wishlist": 0
+        },
+        {
+            "_id": "57703",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Rice & Rice Products",
+            "category2_id": "336",
+            "category3": "RICE & RICE PRODUCTS",
+            "category3_id": "951",
+            "description": "BASMATI REGULAR RICE",
+            "id_category": "951",
+            "mrp": 0,
+            "name": "BASMATI REGULAR RICE",
+            "pic": [
+                {
+                    "_id": "95937",
+                    "pic": "uploads/product/1005590.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120014",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57703",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "100",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "53.29",
+                    "selling_price": 79,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1005590",
+                    "stock": "49",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233330",
+                    "specification": "About",
+                    "value": "Organic Basmati Regular Rice from Namdhari's is perfect for your kitchen if you are looking for some long, aromatic and  fast cooking rice. These are premium quality rice, uniformly graded and rich in aroma and nutrition. This organic basmati rice gives you an aristocratic dining experience without making a hole on your pocket. No use of chemical fertilizers or harmful pesticides makes it totally safe for you and your family."
+                },
+                {
+                    "_id": "1250200",
+                    "specification": "Description",
+                    "value": "BASMATI REGULAR RICE"
+                }
+            ],
+            "tags": "BASMATI REGULAR RICE",
+            "wishlist": 0
+        },
+        {
+            "_id": "57704",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Rice & Rice Products",
+            "category2_id": "336",
+            "category3": "RICE & RICE PRODUCTS",
+            "category3_id": "951",
+            "description": "BASMATI BROWN RICE",
+            "id_category": "951",
+            "mrp": 0,
+            "name": "BASMATI BROWN RICE",
+            "pic": [
+                {
+                    "_id": "95936",
+                    "pic": "uploads/product/1005591.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119986",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57704",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "95",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "61.69",
+                    "selling_price": 85,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1005591",
+                    "stock": "49",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233332",
+                    "specification": "About",
+                    "value": "Basmati Brown Rice is high in fibre and considered comparatively healthy. Organic Basmati Premium Rice is sourced from organic fields where rice is cultivated using only natural methods without any chemical fertilizers or synthetic pesticides. It is a great source of nutrition that is required for your body."
+                },
+                {
+                    "_id": "1250201",
+                    "specification": "Description",
+                    "value": "BASMATI BROWN RICE"
+                }
+            ],
+            "tags": "BASMATI BROWN RICE",
+            "wishlist": 0
+        },
+        {
+            "_id": "56543",
+            "actual_price": 0,
+            "article_no": "800006890",
+            "brand": "ALMOND FRESH",
+            "category1": "Beverages",
+            "category1_id": "53",
+            "category2": "Energy & Health Drinks",
+            "category2_id": "58",
+            "category3": "ENERGY & HEALTH DRINKS",
+            "category3_id": "930",
+            "description": "MILK  VANILLA NUTTY & DELICIOUS",
+            "id_category": "930",
+            "mrp": 0,
+            "name": "MILK  VANILLA NUTTY & DELICIOUS",
+            "pic": [
+                {
+                    "_id": "97187",
+                    "pic": "uploads/product/vanilla-200ml.png",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97188",
+                    "pic": "uploads/product/208437.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97189",
+                    "pic": "uploads/product/208437.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97190",
+                    "pic": "uploads/product/208437.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "97191",
+                    "pic": "uploads/product/208437.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2117986",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56543",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "70",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "50",
+                    "selling_price": 70,
+                    "size": "200 ML",
+                    "size_measuring_unit": null,
+                    "sku": "1001530",
+                    "stock": "49",
+                    "tax": "12"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232055",
+                    "specification": "Description",
+                    "value": "MILK  VANILLA NUTTY & DELICIOUS"
+                },
+                {
+                    "_id": "1232056",
+                    "specification": "About",
+                    "value": "Life Health Foods India brings Almond Fresh a beverages which is conventionally known for its benefits.\r\nFrom ages soaked almonds have been part of grandmother\u2019s recipe for health and beauty.\r\nEvery glass of Almond gives that reason to feel healthy, happy & beautiful.\r\nRich source of Calcium and Vitamin D.\r\nLactose free.\r\nCholesterol free.\r\nNo added preservatives.\r\nInternational expertise.\r\nGluten free."
+                }
+            ],
+            "tags": "MILK  VANILLA NUTTY & DELICIOUS",
+            "wishlist": 0
+        },
+        {
+            "_id": "58787",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "ORGANIC URAD CHILKA",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "ORGANIC URAD CHILKA",
+            "pic": [
+                {
+                    "_id": "95931",
+                    "pic": "uploads/product/1006791.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119980",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "58787",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "105",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "50",
+                    "selling_price": 89,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1006791",
+                    "stock": "48",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232592",
+                    "specification": "About",
+                    "value": "Urad Chilka or Split Black Gram is a great source of protein and is rich in fibre. These are widely used in preparing vada, papad or a simple and easy black lentil dal. Organic Urad Chilka from Namdhari's has no chemical fertilizers or pesticides used, making it safe and healthy for you and your family. Use it to make a wholesome dal and enjoy with hot roti or a plate full of rice. "
+                },
+                {
+                    "_id": "1249429",
+                    "specification": "Description",
+                    "value": "ORGANIC URAD CHILKA"
+                }
+            ],
+            "tags": "ORGANIC URAD CHILKA",
+            "wishlist": 0
+        },
+        {
+            "_id": "59331",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "ORGANIC MOONG DAL",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "ORGANIC MOONG DAL",
+            "pic": [
+                {
+                    "_id": "96526",
+                    "pic": "uploads/product/210540.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "96527",
+                    "pic": "uploads/product/210540.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "96528",
+                    "pic": "uploads/product/210540.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "96529",
+                    "pic": "uploads/product/210540.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119911",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "59331",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "105",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "54",
+                    "selling_price": 89,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "2003582",
+                    "stock": "38",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232594",
+                    "specification": "About",
+                    "value": "Organic Moong Dal is one of the most commonly used pulses in Indian. Packed with all nutrients, protein and fibre makes it a wholesome food for you and your family. It can be used in making dal, pakoras or some delicious moong dal halwa. Organic Moon Dal from Namdhari's is free from any chemical fertilizers or pesticides. We assure you of 100% naturally cultivated moong dal so you enjoy the taste of the rich golden moong dal without any worry.  "
+                },
+                {
+                    "_id": "1249434",
+                    "specification": "Description",
+                    "value": "ORGANIC MOONG DAL"
+                }
+            ],
+            "tags": "ORGANIC MOONG DAL",
+            "wishlist": 0
+        },
+        {
+            "_id": "53963",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Organic Staples",
+            "category2_id": "313",
+            "category3": "ORGANIC PEANUT",
+            "category3_id": "694",
+            "description": "BAJRA(SAJJE)",
+            "id_category": "694",
+            "mrp": 0,
+            "name": "BAJRA(SAJJE)",
+            "pic": [
+                {
+                    "_id": "95909",
+                    "pic": "uploads/product/1003260.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2118568",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "53963",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "35",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "31.76",
+                    "selling_price": 29,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003260",
+                    "stock": "24",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1015989",
+                    "specification": "",
+                    "value": ""
+                },
+                {
+                    "_id": "1233236",
+                    "specification": "About",
+                    "value": "Bajra is a cereal with a lot of health benefits. It is used for making porridge, desserts and other flatbreads. The high magnesium content helps keep the heart healthy and reduces overall blood pressure. The antioxidants present in bajra helps to delay ageing. Namdhari's organic bajra is cultivated organically without the use of any chemical fertilizers. "
+                },
+                {
+                    "_id": "1250139",
+                    "specification": "Description",
+                    "value": "BAJRA(SAJJE)"
+                }
+            ],
+            "tags": "BAJRA(SAJJE)",
+            "wishlist": 0
+        },
+        {
+            "_id": "54147",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "TUR DAL ",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "TUR DAL ",
+            "pic": [
+                {
+                    "_id": "95921",
+                    "pic": "uploads/product/1003494.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120092",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54147",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "165",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "118.57",
+                    "selling_price": 135,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1003495",
+                    "stock": "28",
+                    "tax": "5"
+                },
+                {
+                    "_id": "2119904",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54147",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "83",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "64.47",
+                    "selling_price": 75,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003494",
+                    "stock": "23",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232586",
+                    "specification": "About",
+                    "value": " Tur dal is an essential ingredient in every India kitchen. They are a great source of carbohydrate which helps boost energy. It also contains good fat, fibre and protein which is quite essential for the body. Organic Tur Dal from Namdhari's is 100% certified organic with absolutely no artificial chemicals or synthetic fertilizers making it perfectly same and healthy for your family."
+                },
+                {
+                    "_id": "1249423",
+                    "specification": "Description",
+                    "value": "TUR DAL "
+                }
+            ],
+            "tags": "TUR DAL ",
+            "wishlist": 0
+        },
+        {
+            "_id": "57179",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Rice & Rice Products",
+            "category2_id": "336",
+            "category3": "RICE & RICE PRODUCTS",
+            "category3_id": "951",
+            "description": "SONA MASOORI BROWN RICE ",
+            "id_category": "951",
+            "mrp": 0,
+            "name": "SONA MASOORI BROWN RICE ",
+            "pic": [
+                {
+                    "_id": "95932",
+                    "pic": "uploads/product/1003258.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119982",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57179",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "93",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "74.45",
+                    "selling_price": 79,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1003258",
+                    "stock": "21",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233318",
+                    "specification": "About",
+                    "value": "Brown Rice is an unpolished whole grain that is believed to have comparatively, more dietary fibres. It is rich in flavour and has a distinct grainy taste. Organic Sona Masoori Brown Rice is grown organically with no use of artificial chemicals or fertilizers. For best results, soak for 20 min in water before cooking. This reduces the cooking time and helps retain the flavours. "
+                },
+                {
+                    "_id": "1250193",
+                    "specification": "Description",
+                    "value": "SONA MASOORI BROWN RICE "
+                }
+            ],
+            "tags": "SONA MASOORI BROWN RICE ",
+            "wishlist": 0
+        },
+        {
+            "_id": "54138",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "PEANUT",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "PEANUT",
+            "pic": [
+                {
+                    "_id": "96525",
+                    "pic": "uploads/product/1003485.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120361",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54138",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "98",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "64.69",
+                    "selling_price": 98,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003485",
+                    "stock": "20",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232572",
+                    "specification": "About",
+                    "value": "Peanut is a great source of vitamin E, protein, good fat and magnesium. Research also shows, these legumes are rich in antioxidants and has cardio-protective benefits. Add it to your chutney, use as a topping on your salad for an extra crunch or just roast a hand full of these and enjoy with a little salt. Namdhari's Peanuts are cultivated using 100% organic methods with no chemical fertilizers or pesticides thus it is totally safe and beneficial for you."
+                },
+                {
+                    "_id": "1249416",
+                    "specification": "Description",
+                    "value": "PEANUT"
+                }
+            ],
+            "tags": "PEANUT",
+            "wishlist": 0
+        },
+        {
+            "_id": "57705",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Rice & Rice Products",
+            "category2_id": "336",
+            "category3": "RICE & RICE PRODUCTS",
+            "category3_id": "951",
+            "description": "BLACK CHANNA",
+            "id_category": "951",
+            "mrp": 0,
+            "name": "BLACK CHANNA",
+            "pic": [
+                {
+                    "_id": "95928",
+                    "pic": "uploads/product/1005592.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119899",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57705",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "70",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "29.3",
+                    "selling_price": 59,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1005592",
+                    "stock": "19",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233334",
+                    "specification": "About",
+                    "value": "Black Channa is an excellent source of nutrients, complex carbohydrates, vitamins and minerals. These are less in fat and high in fibre. Black channa can be used in multiple ways. Just soak it overnight and mix it with your favourite salad or chaat. Make a curry out of it or just boil and have it with some salt and pepper. Chana Jor Garam or Kala Channa Kababs are some of the mouthwatering dishes that can be made with Balck Channa. Namdhari's Organic Black Channa is totally free from any synthetic chemicals or pesticides.  "
+                },
+                {
+                    "_id": "1250202",
+                    "specification": "Description",
+                    "value": "BLACK CHANNA"
+                }
+            ],
+            "tags": "BLACK CHANNA",
+            "wishlist": 0
+        },
+        {
+            "_id": "58709",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "ORGANIC FOX TAIL MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "ORGANIC FOX TAIL MILLET",
+            "pic": [
+                {
+                    "_id": "95916",
+                    "pic": "uploads/product/1006682.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "96530",
+                    "pic": "https://cdn.namdharifresh.com/namdhari/uploads/product/3165.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120364",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "58709",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "155",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "95.5",
+                    "selling_price": 125,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "1006682",
+                    "stock": "13",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232944",
+                    "specification": "About",
+                    "value": "Organic Fox Tail Millet is one of the most easily digestible grains. Fox Tail Millets are gluten-free and helps in optimizing kidney, liver and also helps you in your weight loss journey. Namdhari's Organic range cultivated using authentic organic methods, free from any harmful chemicals making it absolutely safe and healthy for you and your family."
+                },
+                {
+                    "_id": "1249816",
+                    "specification": "Description",
+                    "value": "ORGANIC FOX TAIL MILLET"
+                }
+            ],
+            "tags": "ORGANIC FOX TAIL MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "59518",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Salt & Sugar",
+            "category2_id": "344",
+            "category3": "JAGGERY",
+            "category3_id": "705",
+            "description": "ORGANIC JAGGERY",
+            "id_category": "705",
+            "mrp": 0,
+            "name": "ORGANIC JAGGERY",
+            "pic": [
+                {
+                    "_id": "95876",
+                    "pic": "uploads/product/200786.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95877",
+                    "pic": "uploads/product/200786.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95878",
+                    "pic": "uploads/product/200786.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95879",
+                    "pic": "uploads/product/200786.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95880",
+                    "pic": "uploads/product/2004226.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120333",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "59518",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "99",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "69",
+                    "selling_price": 92,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "2004226",
+                    "stock": "12",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1233410",
+                    "specification": "About",
+                    "value": "Jaggery is one of the most extensively used sweetening product in India. Be it for preparing sweets during festivals, or used as a natural remedy for cough and cold. Packed with minerals, jaggery is quite a popular substitute for sugar. Organic Jaggery from Namdhri's is made from pure sugar canes that are cultivated in an organic environment without any chemical fertilizers or synthetic pesticides. Namdhari's organic range assures you of a real and wholesome experience in every single product."
+                },
+                {
+                    "_id": "1250270",
+                    "specification": "Description",
+                    "value": "ORGANIC JAGGERY"
+                }
+            ],
+            "tags": "ORGANIC JAGGERY",
+            "wishlist": 0
+        },
+        {
+            "_id": "56217",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "FOXTAIL MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "FOXTAIL MILLET",
+            "pic": [
+                {
+                    "_id": "95914",
+                    "pic": "uploads/product/1003487.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120380",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "56217",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "80",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "26.3",
+                    "selling_price": 59,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003487",
+                    "stock": "12",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232928",
+                    "specification": "About",
+                    "value": "Organic Fox Tail Millet is one of the most easily digestible grains. Fox Tail Millets are gluten-free and helps in optimizing kidney, liver and also helps you in your weight loss journey. Namdhari's Organic range are produced using authentic organic methods, free from any harmful chemicals. Thus Organic Fox Millets from Namdhari's  are safe and healthy for you and your family."
+                },
+                {
+                    "_id": "1249805",
+                    "specification": "Description",
+                    "value": "FOXTAIL MILLET"
+                }
+            ],
+            "tags": "FOXTAIL MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "57182",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "FRIED GRAM",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "FRIED GRAM",
+            "pic": [
+                {
+                    "_id": "96524",
+                    "pic": "uploads/product/1003489.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119939",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "57182",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "74",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "121.432",
+                    "selling_price": 74,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003489",
+                    "stock": "10",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232578",
+                    "specification": "About",
+                    "value": "Fried Gram is a very common ingredient in India. It is essential both for daily usage as well as during festive seasons. It is also used as a thickening agent for gravies and chutney. They are a great snacking option on the go as they are low in fat and high in protein and fibre. Namdhari's Organic range of products are cultivated using natural processes without the use of any artificial chemicals or synthetic pesticides. So you can be rest assured, nothing harmful will enter your system as long as you purchase Organic Fried Gram from Namdhari's. "
+                },
+                {
+                    "_id": "1249419",
+                    "specification": "Description",
+                    "value": "FRIED GRAM"
+                }
+            ],
+            "tags": "FRIED GRAM",
+            "wishlist": 0
+        },
+        {
+            "_id": "55656",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "LITTLE MILLET",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "LITTLE MILLET",
+            "pic": [
+                {
+                    "_id": "95918",
+                    "pic": "uploads/product/1004877.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2120348",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "55656",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "155",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "69.86",
+                    "selling_price": 129,
+                    "size": "1000 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1004877",
+                    "stock": "7",
+                    "tax": "5"
+                },
+                {
+                    "_id": "2120379",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "55656",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "80",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "38.75",
+                    "selling_price": 59,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003490",
+                    "stock": "108",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232940",
+                    "specification": "About",
+                    "value": "Comparatively smaller than other millets, little millets are high in antioxidants, dietary fibres great for treating type 2 diabetes and helps to treat stomach related problems. Little Millets from Namdhari's is 100%  certified organic product with no chemical fertilizers or harmful insecticides. These products are safe for your body as well as the environment. "
+                },
+                {
+                    "_id": "1249811",
+                    "specification": "Description",
+                    "value": "LITTLE MILLET"
+                }
+            ],
+            "tags": "LITTLE MILLET",
+            "wishlist": 0
+        },
+        {
+            "_id": "54151",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "DALS & PULSES",
+            "category2_id": "878",
+            "category3": "ORGANICS",
+            "category3_id": "893",
+            "description": "CHANNA DAL",
+            "id_category": "893",
+            "mrp": 0,
+            "name": "CHANNA DAL",
+            "pic": [
+                {
+                    "_id": "95924",
+                    "pic": "uploads/product/1003499.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119917",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "54151",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "75",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "82.86",
+                    "selling_price": 69,
+                    "size": "500 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003499",
+                    "stock": "7",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232588",
+                    "specification": "About",
+                    "value": "Channa Dal is a must in every Indian household. It is used to prepare most of the Indian homemade sweets. Be it the famous Puran Poli of Maharashtra, Mysore Pak in Karnataka or the simple and delicious channa dal halwa. These are rich in vitamins, proteins and the fibres in channa dal is also helpful in controlling your appetite. Organic Channa Dal from Namdhari's is 100% organic and has no synthetic chemicals or fertilizers."
+                },
+                {
+                    "_id": "1249424",
+                    "specification": "Description",
+                    "value": "CHANNA DAL"
+                }
+            ],
+            "tags": "CHANNA DAL",
+            "wishlist": 0
+        },
+        {
+            "_id": "53960",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARIS ORGANIC",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Healthy Grains",
+            "category2_id": "303",
+            "category3": "HEALTHY GRAINS",
+            "category3_id": "939",
+            "description": "ORGANIC FLAX SEEDS ",
+            "id_category": "939",
+            "mrp": 0,
+            "name": "ORGANIC FLAX SEEDS ",
+            "pic": [
+                {
+                    "_id": "95712",
+                    "pic": "uploads/product/3225.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95713",
+                    "pic": "uploads/product/3165.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95714",
+                    "pic": "uploads/product/3165.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95715",
+                    "pic": "uploads/product/3165.jpg",
+                    "pic_thumb": ""
+                },
+                {
+                    "_id": "95716",
+                    "pic": "uploads/product/3165.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2119878",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "53960",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "65",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "22.3",
+                    "selling_price": 65,
+                    "size": "250 GM",
+                    "size_measuring_unit": null,
+                    "sku": "1003257",
+                    "stock": "7",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "262331",
+                    "specification": "Ingredients",
+                    "value": ""
+                },
+                {
+                    "_id": "262332",
+                    "specification": "How To Use",
+                    "value": ""
+                },
+                {
+                    "_id": "262333",
+                    "specification": "Benefits",
+                    "value": ""
+                },
+                {
+                    "_id": "1232926",
+                    "specification": "About",
+                    "value": "Flax seeds are high in omega-3 fat and fibres which makes it a rich source of healthy fat, antioxidants and fibres. It helps in lowering the risk of heart diseases, diabetes, cancer and helps your body to absorb nutrition more effectively.  These Flax seeds are cultivated using purely organic methods without any use of synthetic fertilizers or chemicals. "
+                },
+                {
+                    "_id": "1249801",
+                    "specification": "Description",
+                    "value": "ORGANIC FLAX SEEDS "
+                }
+            ],
+            "tags": "ORGANIC FLAX SEEDS ",
+            "wishlist": 0
+        },
+        {
+            "_id": "61485",
+            "actual_price": 0,
+            "article_no": "800010700",
+            "brand": "NAMDHARI",
+            "category1": "Grocery & Staples",
+            "category1_id": "270",
+            "category2": "Flours & Sooji",
+            "category2_id": "295",
+            "category3": "FLOURS & SOOJI",
+            "category3_id": "932",
+            "description": "Organic Wholewheatatta 1 Kg",
+            "id_category": "932",
+            "mrp": 0,
+            "name": "Organic Wholewheatatta 1 Kg",
+            "pic": [
+                {
+                    "_id": "95711",
+                    "pic": "uploads/product/207209.jpg",
+                    "pic_thumb": ""
+                }
+            ],
+            "selling_price": 0,
+            "sku": [
+                {
+                    "_id": "2125536",
+                    "box_color": null,
+                    "filter_color": null,
+                    "id_product": "61485",
+                    "is_restaurant": "0",
+                    "min_quantity": "1",
+                    "mrp": "50",
+                    "mycart": "0",
+                    "offer": "",
+                    "realization": "16.67",
+                    "selling_price": 45,
+                    "size": "1 KG",
+                    "size_measuring_unit": null,
+                    "sku": "2125409",
+                    "stock": "6",
+                    "tax": "5"
+                }
+            ],
+            "spec": [
+                {
+                    "_id": "1232918",
+                    "specification": "About",
+                    "value": "Whole wheat atta is one of the most popular flours used in Indian Cuisine.  Soft fluffy rotis made from this whole wheat atta completes every Indian meal. Rich in vitamin B1, B3, B5, whole wheat flour is considered a very healthy option for your daily dietary requirements. With no chemical fertilizers or pesticides used, this atta is great for you and your family."
+                },
+                {
+                    "_id": "1249789",
+                    "specification": "Description",
+                    "value": "Organic Wholewheatatta 1 Kg"
+                }
+            ],
+            "tags": "Wheat Atta",
+            "wishlist": 0
+        }
+    ],
+    "status": "success",
+    "summary": {
+        "cart_count": "0",
+        "delivery_charge": "0",
+        "grand_total": "0",
+        "mrp": "0",
+        "realization": "0",
+        "selling_price": "0"
+    },
+    "total_sku": 30
+}

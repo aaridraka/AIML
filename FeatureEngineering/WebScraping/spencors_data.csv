@@ -1,0 +1,1086 @@
+,Product Org,Product ID,Product,Category,Subcategory,Price ID,Price Type,Price,Special Price ID,Special Price Type,Special Price
+0,Spencers,39087,Sunreap Maida 500g,groceries-staples,flour-atta,product-price-39087,finalPrice,₹24,product-price-39087,finalPrice,₹24
+1,Spencers,39086,Sunreap Maida 1kg,groceries-staples,flour-atta,old-price-39086,oldPrice,₹47,product-price-39086,finalPrice,₹45
+2,Spencers,39085,Sunreap Atta Whole Wheat 1kg,groceries-staples,flour-atta,product-price-39085,finalPrice,₹40,product-price-39085,finalPrice,₹40
+3,Spencers,39084,Sunreap Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-39084,oldPrice,₹185,product-price-39084,finalPrice,₹175
+4,Spencers,38302,Aashirvaad Natures Gluten Free Flr 1kg,groceries-staples,flour-atta,old-price-38302,oldPrice,₹190,product-price-38302,finalPrice,₹95
+5,Spencers,37412,Organic Tattva Ragi Flour 500g,groceries-staples,flour-atta,product-price-37412,finalPrice,₹70,product-price-37412,finalPrice,₹70
+6,Spencers,29420,Double Horse Idli Mix 500g,groceries-staples,flour-atta,product-price-29420,finalPrice,₹78,product-price-29420,finalPrice,₹78
+7,Spencers,21615,Shyam's Agro fresh Sooji 500g,groceries-staples,flour-atta,old-price-21615,oldPrice,₹25,product-price-21615,finalPrice,₹20
+8,Spencers,21610,Agro Fresh Sattu 200g,groceries-staples,flour-atta,old-price-21610,oldPrice,₹50,product-price-21610,finalPrice,₹40
+9,Spencers,21592,Shyam's Agro Fresh Chana Besan 500g,groceries-staples,flour-atta,old-price-21592,oldPrice,₹80,product-price-21592,finalPrice,₹64
+10,Spencers,20244,Whole Foods Soya Besan Methi Roti Mix 500g,groceries-staples,flour-atta,product-price-20244,finalPrice,₹135,product-price-20244,finalPrice,₹135
+11,Spencers,20157,Double Horse Idli Mix 500g,groceries-staples,flour-atta,product-price-20157,finalPrice,₹78,product-price-20157,finalPrice,₹78
+12,Spencers,19771,Double Horse Palada Payasam Mix 300g,groceries-staples,flour-atta,product-price-19771,finalPrice,₹87,product-price-19771,finalPrice,₹87
+13,Spencers,19769,Double Horse Rawa Fried 1kg,groceries-staples,flour-atta,product-price-19769,finalPrice,₹110,product-price-19769,finalPrice,₹110
+14,Spencers,19148,Shyam's Agro fresh Sattu 500g,groceries-staples,flour-atta,old-price-19148,oldPrice,₹120,product-price-19148,finalPrice,₹96
+15,Spencers,19146,Shyam's Agro fresh Whole Wheat Atta 5kg,groceries-staples,flour-atta,old-price-19146,oldPrice,₹190,product-price-19146,finalPrice,₹135
+16,Spencers,18996,Shyam's Agro Fresh Maida 500g,groceries-staples,flour-atta,old-price-18996,oldPrice,₹24,product-price-18996,finalPrice,₹19.20
+17,Spencers,18342,Shyam's Agro fresh Maida 1Kg,groceries-staples,flour-atta,old-price-18342,oldPrice,₹48,product-price-18342,finalPrice,₹36
+18,Spencers,18341,Shyam's Agro fresh Whole Wheat Atta 1kg,groceries-staples,flour-atta,old-price-18341,oldPrice,₹40,product-price-18341,finalPrice,₹34
+19,Spencers,14115,Manna Dia Mix 400g,groceries-staples,flour-atta,product-price-14115,finalPrice,₹240,product-price-14115,finalPrice,₹240
+20,Spencers,8067,Aashirvaad Atta Sugar Release Cntrl 1kg,groceries-staples,flour-atta,old-price-8067,oldPrice,₹62,product-price-8067,finalPrice,₹52
+21,Spencers,6332,Aashirvaad Atta Multi Grain 5kg,groceries-staples,flour-atta,old-price-6332,oldPrice,₹295,product-price-6332,finalPrice,₹275
+22,Spencers,6331,Aashirvaad Atta Multi Grain 1kg,groceries-staples,flour-atta,product-price-6331,finalPrice,₹60,product-price-6331,finalPrice,₹60
+23,Spencers,5489,Aashirvaad Atta Select 1kg,groceries-staples,flour-atta,product-price-5489,finalPrice,₹59,product-price-5489,finalPrice,₹59
+24,Spencers,5230,Pillsbury Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5230,oldPrice,₹180,product-price-5230,finalPrice,₹145
+25,Spencers,5229,Pillsbury Atta Whole Wheat 1kg,groceries-staples,flour-atta,old-price-5229,oldPrice,₹39,product-price-5229,finalPrice,₹37
+26,Spencers,5227,Aashirvaad Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5227,oldPrice,₹213,product-price-5227,finalPrice,₹191
+27,Spencers,5225,Aashirvaad Atta Whole Wheat 10kg,groceries-staples,flour-atta,old-price-5225,oldPrice,₹405,product-price-5225,finalPrice,₹370
+28,Spencers,4642,MTR Vada Mix Instant 200g,groceries-staples,flour-atta,product-price-4642,finalPrice,₹95,product-price-4642,finalPrice,₹95
+29,Spencers,5226,Aashirvaad Atta Whole Wheat 1kg,groceries-staples,flour-atta,product-price-5226,finalPrice,₹42,product-price-5226,finalPrice,₹42
+30,Spencers,39090,Sunreap Besan - gram Flour 200g,groceries-staples,flour-atta,product-price-39090,finalPrice,₹27,product-price-39090,finalPrice,₹27
+31,Spencers,5230,Pillsbury Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5230,oldPrice,₹180,product-price-5230,finalPrice,₹145
+32,Spencers,5229,Pillsbury Atta Whole Wheat 1kg,groceries-staples,flour-atta,old-price-5229,oldPrice,₹39,product-price-5229,finalPrice,₹37
+33,Spencers,5227,Aashirvaad Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5227,oldPrice,₹213,product-price-5227,finalPrice,₹191
+34,Spencers,5225,Aashirvaad Atta Whole Wheat 10kg,groceries-staples,flour-atta,old-price-5225,oldPrice,₹405,product-price-5225,finalPrice,₹370
+35,Spencers,4642,MTR Vada Mix Instant 200g,groceries-staples,flour-atta,product-price-4642,finalPrice,₹95,product-price-4642,finalPrice,₹95
+36,Spencers,5226,Aashirvaad Atta Whole Wheat 1kg,groceries-staples,flour-atta,product-price-5226,finalPrice,₹42,product-price-5226,finalPrice,₹42
+37,Spencers,39090,Sunreap Besan - gram Flour 200g,groceries-staples,flour-atta,product-price-39090,finalPrice,₹27,product-price-39090,finalPrice,₹27
+38,Spencers,5230,Pillsbury Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5230,oldPrice,₹180,product-price-5230,finalPrice,₹145
+39,Spencers,5229,Pillsbury Atta Whole Wheat 1kg,groceries-staples,flour-atta,old-price-5229,oldPrice,₹39,product-price-5229,finalPrice,₹37
+40,Spencers,5227,Aashirvaad Atta Whole Wheat 5kg,groceries-staples,flour-atta,old-price-5227,oldPrice,₹213,product-price-5227,finalPrice,₹191
+41,Spencers,5225,Aashirvaad Atta Whole Wheat 10kg,groceries-staples,flour-atta,old-price-5225,oldPrice,₹405,product-price-5225,finalPrice,₹370
+42,Spencers,4642,MTR Vada Mix Instant 200g,groceries-staples,flour-atta,product-price-4642,finalPrice,₹95,product-price-4642,finalPrice,₹95
+43,Spencers,5226,Aashirvaad Atta Whole Wheat 1kg,groceries-staples,flour-atta,product-price-5226,finalPrice,₹42,product-price-5226,finalPrice,₹42
+44,Spencers,39090,Sunreap Besan - gram Flour 200g,groceries-staples,flour-atta,product-price-39090,finalPrice,₹27,product-price-39090,finalPrice,₹27
+45,Spencers,37985,Kohinoor Tibar Basmati Rice  5kg,groceries-staples,rice-cereals,old-price-37985,oldPrice,₹670,product-price-37985,finalPrice,₹635
+46,Spencers,37447,Organic Tattva Basmati Rice Brown 1kg,groceries-staples,rice-cereals,product-price-37447,finalPrice,₹230,product-price-37447,finalPrice,₹230
+47,Spencers,37433,Organic Tattva Mix Dal 500g,groceries-staples,rice-cereals,product-price-37433,finalPrice,₹120,product-price-37433,finalPrice,₹120
+48,Spencers,37212,Kohinoor Biriyani Kit Hydrabadi 327G,groceries-staples,rice-cereals,product-price-37212,finalPrice,₹125,product-price-37212,finalPrice,₹125
+49,Spencers,36614,Kohinoor Dubar Basmati Rice  1kg,groceries-staples,rice-cereals,old-price-36614,oldPrice,₹125,product-price-36614,finalPrice,₹119
+50,Spencers,36613,Kohinoor Tibar Basmati Rice  1kg,groceries-staples,rice-cereals,old-price-36613,oldPrice,₹135,product-price-36613,finalPrice,₹129
+51,Spencers,36612,Kohinoor Charminar Brown Basmati 1kg,groceries-staples,rice-cereals,old-price-36612,oldPrice,₹109,product-price-36612,finalPrice,₹99
+52,Spencers,32276,Spencers Chamarmani Rice Loose 1kg,groceries-staples,rice-cereals,old-price-32276,oldPrice,₹59,product-price-32276,finalPrice,₹53
+53,Spencers,32121,Kohinoor Rozana Basmati Rice   5kg,groceries-staples,rice-cereals,old-price-32121,oldPrice,₹515,product-price-32121,finalPrice,₹439
+54,Spencers,29985,Trusted Value Premium Tulsibhog Rice 1kg,groceries-staples,rice-cereals,old-price-29985,oldPrice,₹60,product-price-29985,finalPrice,₹53
+55,Spencers,29845,Spencer's Premium Biryani Rice 1kg,groceries-staples,rice-cereals,old-price-29845,oldPrice,₹120,product-price-29845,finalPrice,₹99
+56,Spencers,29822,Trusted Value Premium Miniket Rice 1kg,groceries-staples,rice-cereals,old-price-29822,oldPrice,₹52,product-price-29822,finalPrice,₹49
+57,Spencers,29821,Trusted Value Premium Miniket Rice 500g,groceries-staples,rice-cereals,old-price-29821,oldPrice,₹26,product-price-29821,finalPrice,₹24.50
+58,Spencers,29820,Trusted Value Regular Miniket Rice 1kg,groceries-staples,rice-cereals,old-price-29820,oldPrice,₹50,product-price-29820,finalPrice,₹43
+59,Spencers,29819,Trusted Value Regular Miniket Rice 500g,groceries-staples,rice-cereals,old-price-29819,oldPrice,₹25,product-price-29819,finalPrice,₹21.50
+60,Spencers,29818,Trusted Value Regular Bashkathi Rice 1kg,groceries-staples,rice-cereals,old-price-29818,oldPrice,₹63,product-price-29818,finalPrice,₹51
+61,Spencers,29817,Trusted Value Regular Bashkathi Rice 500g,groceries-staples,rice-cereals,old-price-29817,oldPrice,₹31.50,product-price-29817,finalPrice,₹25.50
+62,Spencers,29790,Premium Sona Masoori Rice 1kg,groceries-staples,rice-cereals,old-price-29790,oldPrice,₹69,product-price-29790,finalPrice,₹51
+63,Spencers,29789,Premium Sona Masoori Rice 500g,groceries-staples,rice-cereals,old-price-29789,oldPrice,₹34.50,product-price-29789,finalPrice,₹25.50
+64,Spencers,29784,Trusted Value Premium Tulsibhog Rice 500g,groceries-staples,rice-cereals,old-price-29784,oldPrice,₹30,product-price-29784,finalPrice,₹26.50
+65,Spencers,29759,Spencer's Premium Biryani Rice 500g,groceries-staples,rice-cereals,old-price-29759,oldPrice,₹60,product-price-29759,finalPrice,₹49.50
+66,Spencers,29705,Premium Sharbati Sella Rice 1kg,groceries-staples,rice-cereals,old-price-29705,oldPrice,₹98,product-price-29705,finalPrice,₹69
+67,Spencers,29704,Premium Sharbati Sella Rice 500g,groceries-staples,rice-cereals,old-price-29704,oldPrice,₹49,product-price-29704,finalPrice,₹34.50
+68,Spencers,29703,Trusted Value Premium Basmati Sella Rice 1kg,groceries-staples,rice-cereals,old-price-29703,oldPrice,₹93,product-price-29703,finalPrice,₹82
+69,Spencers,29702,Trusted Value Premium Basmati Sella Rice 500g,groceries-staples,rice-cereals,old-price-29702,oldPrice,₹46.50,product-price-29702,finalPrice,₹41
+70,Spencers,29701,Trusted Value Premium 1121 Basmati Rice 1kg,groceries-staples,rice-cereals,old-price-29701,oldPrice,₹120,product-price-29701,finalPrice,₹95
+71,Spencers,29696,Trusted Value Premium 1121 Basmati Rice 500g,groceries-staples,rice-cereals,old-price-29696,oldPrice,₹60,product-price-29696,finalPrice,₹47.50
+72,Spencers,29296,Kohinoor Super Basmati Rice  1kg,groceries-staples,rice-cereals,old-price-29296,oldPrice,₹169,product-price-29296,finalPrice,₹155
+73,Spencers,20253,Smart Choice Bashkati Rice Premium 1kg,groceries-staples,rice-cereals,product-price-20253,finalPrice,₹60,product-price-20253,finalPrice,₹60
+74,Spencers,20149,Smart Choice Miniket Rice 1kg,groceries-staples,rice-cereals,product-price-20149,finalPrice,₹48,product-price-20149,finalPrice,₹48
+75,Spencers,20148,Smart Choice Bashkati Rice 2kg,groceries-staples,rice-cereals,product-price-20148,finalPrice,₹120,product-price-20148,finalPrice,₹120
+76,Spencers,19536,Smart Choice Tulsibhog Rice 2kg,groceries-staples,rice-cereals,old-price-19536,oldPrice,₹140,product-price-19536,finalPrice,₹115
+77,Spencers,19535,Smart Choice Chamarmani Rice 2kg,groceries-staples,rice-cereals,old-price-19535,oldPrice,₹145,product-price-19535,finalPrice,₹120
+78,Spencers,19469,Smart Choice Daliya 500g,groceries-staples,rice-cereals,product-price-19469,finalPrice,₹30,product-price-19469,finalPrice,₹30
+79,Spencers,19147,Shyam's Agro Fresh Dalia 500g,groceries-staples,rice-cereals,old-price-19147,oldPrice,₹35,product-price-19147,finalPrice,₹28
+80,Spencers,19018,Lalbaba Miniket Rice 25kg,groceries-staples,rice-cereals,old-price-19018,oldPrice,₹1300,product-price-19018,finalPrice,₹1199
+81,Spencers,19013,Atal Miniket Rice 25kg,groceries-staples,rice-cereals,old-price-19013,oldPrice,₹1450,product-price-19013,finalPrice,₹1249
+82,Spencers,18681,Daawat Popular Basmati Sella Rice  10kg,groceries-staples,rice-cereals,old-price-18681,oldPrice,₹971,product-price-18681,finalPrice,₹799
+83,Spencers,18539,Sublabh Bashkati Rice Premium 25kg,groceries-staples,rice-cereals,old-price-18539,oldPrice,₹1900,product-price-18539,finalPrice,₹1499
+84,Spencers,18233,Smart Choice Gobindo Bhog Rice 5kg,groceries-staples,rice-cereals,product-price-18233,finalPrice,₹595,product-price-18233,finalPrice,₹595
+85,Spencers,18232,Smart Choice Gobindo Bhog Rice 2kg,groceries-staples,rice-cereals,old-price-18232,oldPrice,₹240,product-price-18232,finalPrice,₹207
+86,Spencers,18231,Smart Choice Gobindo Bhog Rice 1kg,groceries-staples,rice-cereals,product-price-18231,finalPrice,₹115,product-price-18231,finalPrice,₹115
+87,Spencers,18226,Smart Choice Bashkati Rice 20kg,groceries-staples,rice-cereals,product-price-18226,finalPrice,₹1100,product-price-18226,finalPrice,₹1100
+88,Spencers,18224,Smart Choice Bashkati Rice 5kg,groceries-staples,rice-cereals,product-price-18224,finalPrice,₹280,product-price-18224,finalPrice,₹280
+89,Spencers,18221,Smart Choice Jeerakati Rice 2kg,groceries-staples,rice-cereals,product-price-18221,finalPrice,₹195,product-price-18221,finalPrice,₹195
+90,Spencers,18165,Spencer's Smart Choice Classic Basmati Rice 5kg,groceries-staples,rice-cereals,product-price-18165,finalPrice,₹950,product-price-18165,finalPrice,₹950
+91,Spencers,17940,Shellys Gobindo Bhog Rice 1kg,groceries-staples,rice-cereals,product-price-17940,finalPrice,₹140,product-price-17940,finalPrice,₹140
+92,Spencers,17735,Best Fine Indian Rice Special 5kg,groceries-staples,rice-cereals,old-price-17735,oldPrice,₹750,product-price-17735,finalPrice,₹225
+93,Spencers,17734,Best Fine Indian Rice Special 1kg,groceries-staples,rice-cereals,old-price-17734,oldPrice,₹160,product-price-17734,finalPrice,₹45
+94,Spencers,14384,Double Horse Red Aval 500g,groceries-staples,rice-cereals,product-price-14384,finalPrice,₹74,product-price-14384,finalPrice,₹74
+95,Spencers,13838,Fortune Super Basmati Rice  5kg,groceries-staples,rice-cereals,old-price-13838,oldPrice,₹840,product-price-13838,finalPrice,₹759
+96,Spencers,12984,Aeroplane Season Indian Rice  5kg,groceries-staples,rice-cereals,old-price-12984,oldPrice,₹400,product-price-12984,finalPrice,₹279
+97,Spencers,12160,Shellys Gobindo Bhog Rice 500g,groceries-staples,rice-cereals,old-price-12160,oldPrice,₹75,product-price-12160,finalPrice,₹70
+98,Spencers,11564,Kohinoor Brown Healthy Basmati Jar 1kg,groceries-staples,rice-cereals,old-price-11564,oldPrice,₹179,product-price-11564,finalPrice,₹155
+99,Spencers,11300,Daawat Rozana Gold Basmati Rice  5kg,groceries-staples,rice-cereals,old-price-11300,oldPrice,₹495,product-price-11300,finalPrice,₹469
+100,Spencers,11238,Kohinoor Traditional Basmati Rice  5kg,groceries-staples,rice-cereals,old-price-11238,oldPrice,₹1055,product-price-11238,finalPrice,₹929
+101,Spencers,9414,Kohinoor Charminar Basmati Rice  1kg,groceries-staples,rice-cereals,old-price-9414,oldPrice,₹115,product-price-9414,finalPrice,₹109
+102,Spencers,9187,Patanjali Dalia 500g,groceries-staples,rice-cereals,product-price-9187,finalPrice,₹25,product-price-9187,finalPrice,₹25
+103,Spencers,9147,Organic India Quinoa 500g,groceries-staples,rice-cereals,product-price-9147,finalPrice,₹295,product-price-9147,finalPrice,₹295
+104,Spencers,8952,Daawat Pulav Basmati Rice  5kg,groceries-staples,rice-cereals,old-price-8952,oldPrice,₹600,product-price-8952,finalPrice,₹585
+105,Spencers,37795,Tata Sampann Chawli - Lobia 500g,groceries-staples,dal-beans,product-price-37795,finalPrice,₹66,product-price-37795,finalPrice,₹66
+106,Spencers,37418,Organic Tattva Chana Dal 500g,groceries-staples,dal-beans,product-price-37418,finalPrice,₹95,product-price-37418,finalPrice,₹95
+107,Spencers,29863,Spencer's Smart Choice Navratna Dal 1kg,groceries-staples,dal-beans,old-price-29863,oldPrice,₹215,product-price-29863,finalPrice,₹120
+108,Spencers,29829,Spencer's Smart Choice Regular Moong Dal Dhuli 1kg,groceries-staples,dal-beans,old-price-29829,oldPrice,₹149,product-price-29829,finalPrice,₹139
+109,Spencers,29796,Spencer's Smart Choice Navratna Dal 500g,groceries-staples,dal-beans,old-price-29796,oldPrice,₹107.50,product-price-29796,finalPrice,₹60
+110,Spencers,29778,Spencer's Smart Choice Regular Moong Dal Dhuli 500g,groceries-staples,dal-beans,old-price-29778,oldPrice,₹74.50,product-price-29778,finalPrice,₹69.50
+111,Spencers,29732,Premium Moong Dal 1kg,groceries-staples,dal-beans,old-price-29732,oldPrice,₹209,product-price-29732,finalPrice,₹165
+112,Spencers,29731,Premium Moong Dal 500g,groceries-staples,dal-beans,old-price-29731,oldPrice,₹104.50,product-price-29731,finalPrice,₹82.50
+113,Spencers,29726,Spencer's Smart Choice Chana Dal 1kg,groceries-staples,dal-beans,old-price-29726,oldPrice,₹126,product-price-29726,finalPrice,₹91
+114,Spencers,29725,Spencer's Smart Choice Chana Dal 500g,groceries-staples,dal-beans,old-price-29725,oldPrice,₹63,product-price-29725,finalPrice,₹45.50
+115,Spencers,29719,Premium Arhar Dal 1kg,groceries-staples,dal-beans,old-price-29719,oldPrice,₹188,product-price-29719,finalPrice,₹125
+116,Spencers,29718,Premium Arhar Dal 500g,groceries-staples,dal-beans,old-price-29718,oldPrice,₹94,product-price-29718,finalPrice,₹62.50
+117,Spencers,29717,Regular Arhar Dal 1kg,groceries-staples,dal-beans,old-price-29717,oldPrice,₹139,product-price-29717,finalPrice,₹126
+118,Spencers,29716,Regular Arhar Dal 500g,groceries-staples,dal-beans,old-price-29716,oldPrice,₹69.50,product-price-29716,finalPrice,₹63
+119,Spencers,29715,Premium Masoor Dal 1kg,groceries-staples,dal-beans,old-price-29715,oldPrice,₹131,product-price-29715,finalPrice,₹112
+120,Spencers,29714,Premium Masoor Dal 500g,groceries-staples,dal-beans,old-price-29714,oldPrice,₹65.50,product-price-29714,finalPrice,₹56
+121,Spencers,29331,Smart Choice Chana Dal 1kg,groceries-staples,dal-beans,old-price-29331,oldPrice,₹135,product-price-29331,finalPrice,₹103
+122,Spencers,24958,Smart Choice Masoor Dal Red 500g,groceries-staples,dal-beans,old-price-24958,oldPrice,₹90,product-price-24958,finalPrice,₹80
+123,Spencers,19155,Double Tick Masoor Malka 2kg,groceries-staples,dal-beans,old-price-19155,oldPrice,₹256,product-price-19155,finalPrice,₹230
+124,Spencers,18776,Double Tick Masoor Malka 1kg,groceries-staples,dal-beans,old-price-18776,oldPrice,₹135,product-price-18776,finalPrice,₹116
+125,Spencers,18474,Mark Premium Moong Chilka 500g,groceries-staples,dal-beans,product-price-18474,finalPrice,₹79,product-price-18474,finalPrice,₹79
+126,Spencers,18466,Mark Premium Masoor Special 500g,groceries-staples,dal-beans,product-price-18466,finalPrice,₹72,product-price-18466,finalPrice,₹72
+127,Spencers,18276,Smart Choice Sona Moong Dal 500g,groceries-staples,dal-beans,old-price-18276,oldPrice,₹137,product-price-18276,finalPrice,₹87
+128,Spencers,12180,Tata Sampann Chana Dal 1kg,groceries-staples,dal-beans,product-price-12180,finalPrice,₹125,product-price-12180,finalPrice,₹125
+129,Spencers,12179,Tata Sampann Chana Dal 500g,groceries-staples,dal-beans,product-price-12179,finalPrice,₹58,product-price-12179,finalPrice,₹58
+130,Spencers,11589,Smart Choice Masoor Dal Red 1kg,groceries-staples,dal-beans,old-price-11589,oldPrice,₹163,product-price-11589,finalPrice,₹158
+131,Spencers,11588,Smart Choice Masoor Malka 1kg,groceries-staples,dal-beans,old-price-11588,oldPrice,₹137,product-price-11588,finalPrice,₹124
+132,Spencers,11239,Smart Choice Moong Whole Green 1kg,groceries-staples,dal-beans,old-price-11239,oldPrice,₹208,product-price-11239,finalPrice,₹173
+133,Spencers,9038,Tata Sampann Masoor Malka (Whole) 1kg,groceries-staples,dal-beans,product-price-9038,finalPrice,₹140,product-price-9038,finalPrice,₹140
+134,Spencers,5838,Smart Choice Arhar - Toor Dal 500g,groceries-staples,dal-beans,old-price-5838,oldPrice,₹112,product-price-5838,finalPrice,₹69
+135,Spencers,5828,Smart Choice Moong Whole Green 500g,groceries-staples,dal-beans,old-price-5828,oldPrice,₹115,product-price-5828,finalPrice,₹87
+136,Spencers,5224,Smart Choice Masoor Malka 500g,groceries-staples,dal-beans,product-price-5224,finalPrice,₹60,product-price-5224,finalPrice,₹60
+137,Spencers,5218,Smart Choice Chana Dal 500g,groceries-staples,dal-beans,old-price-5218,oldPrice,₹73,product-price-5218,finalPrice,₹52
+138,Spencers,5212,Smart Choice Moong Dal Dhuli 500g,groceries-staples,dal-beans,old-price-5212,oldPrice,₹123,product-price-5212,finalPrice,₹89
+139,Spencers,5208,Smart Choice Arhar - Toor Dal 1kg,groceries-staples,dal-beans,old-price-5208,oldPrice,₹204,product-price-5208,finalPrice,₹137
+140,Spencers,4520,Deepak Peanut 200g,groceries-staples,dal-beans,product-price-4520,finalPrice,₹50,product-price-4520,finalPrice,₹50
+141,Spencers,4517,Swatch Peanuts 1kg,groceries-staples,dal-beans,product-price-4517,finalPrice,₹149,product-price-4517,finalPrice,₹149
+142,Spencers,4500,Smart Choice Rajma Chitra 2kg,groceries-staples,dal-beans,product-price-4500,finalPrice,₹270,product-price-4500,finalPrice,₹270
+143,Spencers,4497,Smart Choice Rajma Red 1kg,groceries-staples,dal-beans,product-price-4497,finalPrice,₹145,product-price-4497,finalPrice,₹145
+144,Spencers,4493,Rajdhani Rajma Red 500g,groceries-staples,dal-beans,old-price-4493,oldPrice,₹79,product-price-4493,finalPrice,₹64
+145,Spencers,4491,Mangatram Rajma Red 1kg,groceries-staples,dal-beans,old-price-4491,oldPrice,₹159,product-price-4491,finalPrice,₹151.05
+146,Spencers,4487,Mangatram Rajma Jammu 1kg,groceries-staples,dal-beans,old-price-4487,oldPrice,₹180,product-price-4487,finalPrice,₹171
+147,Spencers,4484,Rajdhani Rajma Chitra 500g,groceries-staples,dal-beans,old-price-4484,oldPrice,₹89,product-price-4484,finalPrice,₹75
+148,Spencers,4483,Rajdhani Rajma Chitra 1kg,groceries-staples,dal-beans,old-price-4483,oldPrice,₹177,product-price-4483,finalPrice,₹145
+149,Spencers,4517,Swatch Peanuts 1kg,groceries-staples,dal-beans,product-price-4517,finalPrice,₹149,product-price-4517,finalPrice,₹149
+150,Spencers,4500,Smart Choice Rajma Chitra 2kg,groceries-staples,dal-beans,product-price-4500,finalPrice,₹270,product-price-4500,finalPrice,₹270
+151,Spencers,4497,Smart Choice Rajma Red 1kg,groceries-staples,dal-beans,product-price-4497,finalPrice,₹145,product-price-4497,finalPrice,₹145
+152,Spencers,4493,Rajdhani Rajma Red 500g,groceries-staples,dal-beans,old-price-4493,oldPrice,₹79,product-price-4493,finalPrice,₹64
+153,Spencers,4491,Mangatram Rajma Red 1kg,groceries-staples,dal-beans,old-price-4491,oldPrice,₹159,product-price-4491,finalPrice,₹151.05
+154,Spencers,4487,Mangatram Rajma Jammu 1kg,groceries-staples,dal-beans,old-price-4487,oldPrice,₹180,product-price-4487,finalPrice,₹171
+155,Spencers,4484,Rajdhani Rajma Chitra 500g,groceries-staples,dal-beans,old-price-4484,oldPrice,₹89,product-price-4484,finalPrice,₹75
+156,Spencers,4483,Rajdhani Rajma Chitra 1kg,groceries-staples,dal-beans,old-price-4483,oldPrice,₹177,product-price-4483,finalPrice,₹145
+157,Spencers,39252,Healthy Alternative Detox Mix 50g,groceries-staples,dry-fruits,product-price-39252,finalPrice,₹109,product-price-39252,finalPrice,₹109
+158,Spencers,39251,Healthy Alternative Gluten Free Jeera Bhealthy Alternativekri 200g,groceries-staples,dry-fruits,product-price-39251,finalPrice,₹120,product-price-39251,finalPrice,₹120
+159,Spencers,39199,"True Elements 5 in 1, Roasted Sunflower Pumpkin And Flax Seeds Watermelon And Chia 125gm",groceries-staples,dry-fruits,product-price-39199,finalPrice,₹120,product-price-39199,finalPrice,₹120
+160,Spencers,39198,"True Elements Antioxidant Mix,Roasted Sunflower, Pumpkin, Flax, Watermelon, Chia Seeds and Goji Berries 500gm",groceries-staples,dry-fruits,product-price-39198,finalPrice,₹480,product-price-39198,finalPrice,₹480
+161,Spencers,39197,"True Elements Antioxidant Mix, Roasted Sunflower, Pumpkin, Flax, Watermelon, Chia Seeds and Goji Berries 250gm",groceries-staples,dry-fruits,product-price-39197,finalPrice,₹240,product-price-39197,finalPrice,₹240
+162,Spencers,39196,True Elements Antioxidant Mix Roasted Sunflower Pumpkin Flax Watermelon Chia Seeds And Goji Berries 125gm,groceries-staples,dry-fruits,product-price-39196,finalPrice,₹120,product-price-39196,finalPrice,₹120
+163,Spencers,39190,"True Elements Protein Mix,Roasted Pumpkin Watermelon Almonds and SOYA Nuts, Veg Protein Seeds 500gm",groceries-staples,dry-fruits,product-price-39190,finalPrice,₹480,product-price-39190,finalPrice,₹480
+164,Spencers,39171,True Elements Seeds And Berries Muesli 400gm,groceries-staples,dry-fruits,product-price-39171,finalPrice,₹250,product-price-39171,finalPrice,₹250
+165,Spencers,33834,True Elements Roasted Chia Seeds 125gm,groceries-staples,dry-fruits,product-price-33834,finalPrice,₹145,product-price-33834,finalPrice,₹145
+166,Spencers,33833,True Elements Raw Chia Seeds 150gm,groceries-staples,dry-fruits,product-price-33833,finalPrice,₹175,product-price-33833,finalPrice,₹175
+167,Spencers,11678,Dizzle Silver Softy 200g,groceries-staples,dry-fruits,product-price-11678,finalPrice,₹416,product-price-11678,finalPrice,₹416
+168,Spencers,9632,Lion Dates Delicasy 250g,groceries-staples,dry-fruits,old-price-9632,oldPrice,₹157,product-price-9632,finalPrice,₹133.45
+169,Spencers,9490,Lion Dates Seeded Arabian 500g,groceries-staples,dry-fruits,old-price-9490,oldPrice,₹235,product-price-9490,finalPrice,₹199.75
+170,Spencers,7666,Emperor Dates Deseeded Black 500g,groceries-staples,dry-fruits,old-price-7666,oldPrice,₹145,product-price-7666,finalPrice,₹123.25
+171,Spencers,7409,Emperor Dates 500g,groceries-staples,dry-fruits,old-price-7409,oldPrice,₹250,product-price-7409,finalPrice,₹212.50
+172,Spencers,7335,Crown Dates Buman 500g,groceries-staples,dry-fruits,old-price-7335,oldPrice,₹230,product-price-7335,finalPrice,₹195.50
+173,Spencers,5313,Smart Choice Cashew Whole 320 500g,groceries-staples,dry-fruits,old-price-5313,oldPrice,₹575,product-price-5313,finalPrice,₹485
+174,Spencers,5310,Smart Choice Almond American 500g,groceries-staples,dry-fruits,old-price-5310,oldPrice,₹710,product-price-5310,finalPrice,₹465
+175,Spencers,5308,Smart Choice Almond American 100g,groceries-staples,dry-fruits,product-price-5308,finalPrice,₹155,product-price-5308,finalPrice,₹155
+176,Spencers,5307,Lion Dates Desert King Jar 500g,groceries-staples,dry-fruits,old-price-5307,oldPrice,₹234,product-price-5307,finalPrice,₹198.90
+177,Spencers,5306,Lion Dates Desert King Jar 250g,groceries-staples,dry-fruits,old-price-5306,oldPrice,₹122,product-price-5306,finalPrice,₹103.70
+178,Spencers,5305,Lion Dates Seedless 500g,groceries-staples,dry-fruits,old-price-5305,oldPrice,₹154,product-price-5305,finalPrice,₹130.90
+179,Spencers,5304,Lion Dates Seedless  200g,groceries-staples,dry-fruits,old-price-5304,oldPrice,₹60,product-price-5304,finalPrice,₹51
+180,Spencers,5303,Lion Dates Seeded 500g,groceries-staples,dry-fruits,old-price-5303,oldPrice,₹220,product-price-5303,finalPrice,₹187
+181,Spencers,38476,Apis Dates Deseeded 500g,groceries-staples,dry-fruits,old-price-38476,oldPrice,₹125,product-price-38476,finalPrice,₹106.25
+182,Spencers,38475,Apis Dates Seeded 500g,groceries-staples,dry-fruits,old-price-38475,oldPrice,₹99,product-price-38475,finalPrice,₹84.15
+183,Spencers,38471,Regency  Walnut Shell California 1kg,groceries-staples,dry-fruits,old-price-38471,oldPrice,₹975,product-price-38471,finalPrice,₹955
+184,Spencers,38464,Regency  Walnut Shell California 500g,groceries-staples,dry-fruits,old-price-38464,oldPrice,₹499,product-price-38464,finalPrice,₹489
+185,Spencers,36654,Regency Prunes Dried 240G,groceries-staples,dry-fruits,old-price-36654,oldPrice,₹250,product-price-36654,finalPrice,₹199
+186,Spencers,32339,Mark Premium Trail Mix Nuts&Berry 50g,groceries-staples,dry-fruits,product-price-32339,finalPrice,₹125,product-price-32339,finalPrice,₹125
+187,Spencers,32338,Mark Premium Trail Mix Nuts Cktal 50g,groceries-staples,dry-fruits,product-price-32338,finalPrice,₹100,product-price-32338,finalPrice,₹100
+188,Spencers,32100,Apis Dates Fard Arabian Pearl Prm 500g,groceries-staples,dry-fruits,old-price-32100,oldPrice,₹225,product-price-32100,finalPrice,₹191.25
+189,Spencers,32099,Apis Dates Zahidi Premium 500g,groceries-staples,dry-fruits,old-price-32099,oldPrice,₹88,product-price-32099,finalPrice,₹74.80
+190,Spencers,30253,Smart Choice Walnut Kernel California 250g,groceries-staples,dry-fruits,product-price-30253,finalPrice,₹325,product-price-30253,finalPrice,₹325
+191,Spencers,30251,Smart Choice Walnut Kernel Chile 500g,groceries-staples,dry-fruits,product-price-30251,finalPrice,₹799,product-price-30251,finalPrice,₹799
+192,Spencers,30250,Smart Choice Walnut Kernel 250g,groceries-staples,dry-fruits,product-price-30250,finalPrice,₹425,product-price-30250,finalPrice,₹425
+193,Spencers,28599,Doyen Safawi Premium Seedless Dates 350g,groceries-staples,dry-fruits,product-price-28599,finalPrice,₹550,product-price-28599,finalPrice,₹550
+194,Spencers,28244,Jumbo Royal Dates 400g,groceries-staples,dry-fruits,product-price-28244,finalPrice,₹115,product-price-28244,finalPrice,₹115
+195,Spencers,24801,Smart Choice Walnut Shell California 1kg,groceries-staples,dry-fruits,old-price-24801,oldPrice,₹900,product-price-24801,finalPrice,₹725
+196,Spencers,23972,Puja Sonff Dal Churi 100g,groceries-staples,dry-fruits,product-price-23972,finalPrice,₹74,product-price-23972,finalPrice,₹74
+197,Spencers,22454,Puja Sweet Sonff 100g,groceries-staples,dry-fruits,product-price-22454,finalPrice,₹56,product-price-22454,finalPrice,₹56
+198,Spencers,22450,Puja Gulab Churi 100g,groceries-staples,dry-fruits,product-price-22450,finalPrice,₹65,product-price-22450,finalPrice,₹65
+199,Spencers,22449,Puja Snoff Supari 50g,groceries-staples,dry-fruits,product-price-22449,finalPrice,₹44,product-price-22449,finalPrice,₹44
+200,Spencers,22448,Puja Pan Supari 50g,groceries-staples,dry-fruits,product-price-22448,finalPrice,₹44,product-price-22448,finalPrice,₹44
+201,Spencers,22150,Lion Dates MuSmart Choiceat 500g,groceries-staples,dry-fruits,old-price-22150,oldPrice,₹222,product-price-22150,finalPrice,₹188.70
+202,Spencers,20332,Puja Gulkand Supari 100g,groceries-staples,dry-fruits,product-price-20332,finalPrice,₹65,product-price-20332,finalPrice,₹65
+203,Spencers,20297,Mark Premium Fig - Anjeer 200g,groceries-staples,dry-fruits,product-price-20297,finalPrice,₹375,product-price-20297,finalPrice,₹375
+204,Spencers,20200,Mark Premium Pista Rstd Slt 100g,groceries-staples,dry-fruits,product-price-20200,finalPrice,₹195,product-price-20200,finalPrice,₹195
+205,Spencers,20198,Mark Premium Cashew Rst Salted 100g,groceries-staples,dry-fruits,product-price-20198,finalPrice,₹190,product-price-20198,finalPrice,₹190
+206,Spencers,19623,Mark Premium Cashew Rstd Pepper 200g,groceries-staples,dry-fruits,product-price-19623,finalPrice,₹375,product-price-19623,finalPrice,₹375
+207,Spencers,19622,Mark Premium Almond Rstd Salted 200g,groceries-staples,dry-fruits,product-price-19622,finalPrice,₹320,product-price-19622,finalPrice,₹320
+208,Spencers,19621,Mark Premium Kismis - Raisin Spl 200g,groceries-staples,dry-fruits,product-price-19621,finalPrice,₹165,product-price-19621,finalPrice,₹165
+209,Spencers,19620,Mark Premium Cashew Rstd Slt 200g,groceries-staples,dry-fruits,product-price-19620,finalPrice,₹375,product-price-19620,finalPrice,₹375
+210,Spencers,19619,Mark Premium Walnut Kernel 200g,groceries-staples,dry-fruits,product-price-19619,finalPrice,₹370,product-price-19619,finalPrice,₹370
+211,Spencers,19464,Divinutty Makhana Peri Peri 100g,groceries-staples,dry-fruits,product-price-19464,finalPrice,₹130,product-price-19464,finalPrice,₹130
+212,Spencers,19463,Divinutty Makhana Cheese and Herbs 100g,groceries-staples,dry-fruits,product-price-19463,finalPrice,₹130,product-price-19463,finalPrice,₹130
+213,Spencers,19268,Divinutty Tomato Makhana Foxnuts 45g,groceries-staples,dry-fruits,product-price-19268,finalPrice,₹55,product-price-19268,finalPrice,₹55
+214,Spencers,19253,Mark Premium Dry Fruits Combo 300g,groceries-staples,dry-fruits,product-price-19253,finalPrice,₹325,product-price-19253,finalPrice,₹325
+215,Spencers,18922,Spencer's Smart Choice Whole Walnut 500g,groceries-staples,dry-fruits,product-price-18922,finalPrice,₹255,product-price-18922,finalPrice,₹255
+216,Spencers,18731,Mark Premium Cashew Roasted Chilli 200g,groceries-staples,dry-fruits,product-price-18731,finalPrice,₹375,product-price-18731,finalPrice,₹375
+217,Spencers,38528,Oleev Ext. Virgin Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-38528,oldPrice,₹1499,product-price-38528,finalPrice,₹699
+218,Spencers,38524,Oleev Pomace Olive Oil Jar 5Ltr,groceries-staples,edible-oil,old-price-38524,oldPrice,₹3999,product-price-38524,finalPrice,₹1475
+219,Spencers,38513,Disano Ext. Light Olive Oil Pet 2Ltr,groceries-staples,edible-oil,old-price-38513,oldPrice,₹2395,product-price-38513,finalPrice,₹1049
+220,Spencers,38510,Disano Ext. Virgin Olive Oil Jar 5Ltr,groceries-staples,edible-oil,old-price-38510,oldPrice,₹5695,product-price-38510,finalPrice,₹3299
+221,Spencers,38509,Disano Ext. Virgin Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-38509,oldPrice,₹1250,product-price-38509,finalPrice,₹769
+222,Spencers,38507,Disano Pure Olive Oil Pet 500ml,groceries-staples,edible-oil,old-price-38507,oldPrice,₹675,product-price-38507,finalPrice,₹399
+223,Spencers,38506,Disano Pure Olive Oil Pet 250ml,groceries-staples,edible-oil,old-price-38506,oldPrice,₹255,product-price-38506,finalPrice,₹199
+224,Spencers,38503,Disano Pomace Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-38503,oldPrice,₹855,product-price-38503,finalPrice,₹399
+225,Spencers,36850,Annapurna Brown Ghee Bottle 500ml,groceries-staples,edible-oil,product-price-36850,finalPrice,₹350,product-price-36850,finalPrice,₹350
+226,Spencers,33523,Smart Choice White Ghee Tetra 500ml,groceries-staples,edible-oil,old-price-33523,oldPrice,₹320,product-price-33523,finalPrice,₹245
+227,Spencers,32368,Saffola Vgn Olive  & Flax Oil Pet 1Ltr,groceries-staples,edible-oil,product-price-32368,finalPrice,₹999,product-price-32368,finalPrice,₹999
+228,Spencers,32366,Saffola Vgn Olive  & Flax Oil Jar 250ml,groceries-staples,edible-oil,product-price-32366,finalPrice,₹330,product-price-32366,finalPrice,₹330
+229,Spencers,31732,Oleev Smart Pp 1Ltr,groceries-staples,edible-oil,product-price-31732,finalPrice,₹145,product-price-31732,finalPrice,₹145
+230,Spencers,31730,Oleev Health Jar 5Ltr,groceries-staples,edible-oil,product-price-31730,finalPrice,₹825,product-price-31730,finalPrice,₹825
+231,Spencers,30234,Oleev Smart Jar 5Ltr,groceries-staples,edible-oil,product-price-30234,finalPrice,₹725,product-price-30234,finalPrice,₹725
+232,Spencers,29323,Smart Choice Mustard Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-29323,oldPrice,₹140,product-price-29323,finalPrice,₹112
+233,Spencers,26224,Rs Healthy & Spice Oil Pet 175ml,groceries-staples,edible-oil,old-price-26224,oldPrice,₹290,product-price-26224,finalPrice,₹254
+234,Spencers,24917,Shellys Brown Ghee Pet 100ml,groceries-staples,edible-oil,product-price-24917,finalPrice,₹80,product-price-24917,finalPrice,₹80
+235,Spencers,24902,Delmonte Ext. Light Olive Oil Jar 2Ltr,groceries-staples,edible-oil,old-price-24902,oldPrice,₹2400,product-price-24902,finalPrice,₹1020
+236,Spencers,20029,Alom Canola Rapeseed Oil 3L,groceries-staples,edible-oil,old-price-20029,oldPrice,₹1175,product-price-20029,finalPrice,₹499
+237,Spencers,19692,Olifam Pomace Olive Oil Tin 1Ltr,groceries-staples,edible-oil,old-price-19692,oldPrice,₹3200,product-price-19692,finalPrice,₹799
+238,Spencers,19580,Kalyani's Nature Pure Refined Cooking Oil 5L,groceries-staples,edible-oil,old-price-19580,oldPrice,₹565,product-price-19580,finalPrice,₹545
+239,Spencers,19344,Rs Pomace Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-19344,oldPrice,₹999,product-price-19344,finalPrice,₹439
+240,Spencers,18849,Alom Canola Refined Rapeseed Oil 1L,groceries-staples,edible-oil,old-price-18849,oldPrice,₹450,product-price-18849,finalPrice,₹199
+241,Spencers,18203,Anik White Ghee Tetra 1Ltr,groceries-staples,edible-oil,old-price-18203,oldPrice,₹535,product-price-18203,finalPrice,₹520
+242,Spencers,18191,Dhara Mustard Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-18191,oldPrice,₹145,product-price-18191,finalPrice,₹118
+243,Spencers,13161,Shellys Brown Ghee Pet 250ml,groceries-staples,edible-oil,product-price-13161,finalPrice,₹185,product-price-13161,finalPrice,₹185
+244,Spencers,11946,Smart Choice White Ghee Tetra 1Ltr,groceries-staples,edible-oil,old-price-11946,oldPrice,₹540,product-price-11946,finalPrice,₹445
+245,Spencers,11262,Nature Fresh Pure Soya Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-11262,oldPrice,₹125,product-price-11262,finalPrice,₹105
+246,Spencers,11067,Rs Ext. Light Olive Oil Jar 2Ltr,groceries-staples,edible-oil,old-price-11067,oldPrice,₹2699,product-price-11067,finalPrice,₹1081
+247,Spencers,10900,Borges Ext. Light Olive Oil Jar 250ml,groceries-staples,edible-oil,old-price-10900,oldPrice,₹375,product-price-10900,finalPrice,₹315
+248,Spencers,9171,Delmonte Pomace Olive Oil Tin 5Ltr,groceries-staples,edible-oil,old-price-9171,oldPrice,₹3900,product-price-9171,finalPrice,₹1714
+249,Spencers,9170,Delmonte Pomace Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-9170,oldPrice,₹850,product-price-9170,finalPrice,₹414
+250,Spencers,9169,Delmonte Ext. Light Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-9169,oldPrice,₹1250,product-price-9169,finalPrice,₹612
+251,Spencers,8955,Borges Pure Olive Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-8955,oldPrice,₹1350,product-price-8955,finalPrice,₹767
+252,Spencers,8946,Jivo Canola Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-8946,oldPrice,₹250,product-price-8946,finalPrice,₹206
+253,Spencers,8940,Rs Ext. Virgin Olive Oil Jar 250ml,groceries-staples,edible-oil,old-price-8940,oldPrice,₹350,product-price-8940,finalPrice,₹328
+254,Spencers,8938,Rs Pure Olive Oil Pp 1Ltr,groceries-staples,edible-oil,old-price-8938,oldPrice,₹1499,product-price-8938,finalPrice,₹764
+255,Spencers,7933,Leonardo Ext. Light Olive Oil Jar 2Ltr,groceries-staples,edible-oil,old-price-7933,oldPrice,₹2799,product-price-7933,finalPrice,₹1223
+256,Spencers,7910,Patanjali Cow Ghee Tetra 500ml,groceries-staples,edible-oil,product-price-7910,finalPrice,₹295,product-price-7910,finalPrice,₹295
+257,Spencers,7475,Borges Ext. Light Olive Oil Pet 2Ltr,groceries-staples,edible-oil,old-price-7475,oldPrice,₹2600,product-price-7475,finalPrice,₹1163
+258,Spencers,7433,Rs Pomace Olive Oil Jar 2Ltr,groceries-staples,edible-oil,old-price-7433,oldPrice,₹2299,product-price-7433,finalPrice,₹921
+259,Spencers,7367,Patanjali Cow Ghee Tetra 1Ltr,groceries-staples,edible-oil,product-price-7367,finalPrice,₹565,product-price-7367,finalPrice,₹565
+260,Spencers,6757,Oleev Active Pp 1Ltr,groceries-staples,edible-oil,product-price-6757,finalPrice,₹185,product-price-6757,finalPrice,₹185
+261,Spencers,6585,Rs Pure Olive Oil Pet 175ml,groceries-staples,edible-oil,old-price-6585,oldPrice,₹289,product-price-6585,finalPrice,₹229
+262,Spencers,6498,Borges Pomace Olive Oil Pet 5Ltr,groceries-staples,edible-oil,old-price-6498,oldPrice,₹3400,product-price-6498,finalPrice,₹1398
+263,Spencers,6497,Borges Pomace Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-6497,oldPrice,₹700,product-price-6497,finalPrice,₹291
+264,Spencers,6232,Gowardhan Cow Ghee Pet 1Ltr,groceries-staples,edible-oil,old-price-6232,oldPrice,₹599,product-price-6232,finalPrice,₹589
+265,Spencers,6231,Gowardhan Cow Ghee Pet 500ml,groceries-staples,edible-oil,old-price-6231,oldPrice,₹310,product-price-6231,finalPrice,₹305
+266,Spencers,6010,Saffola Active Pp 1Ltr,groceries-staples,edible-oil,old-price-6010,oldPrice,₹135,product-price-6010,finalPrice,₹125
+267,Spencers,5937,Borges Ext. Light Olive Oil Pet 500ml,groceries-staples,edible-oil,old-price-5937,oldPrice,₹700,product-price-5937,finalPrice,₹485
+268,Spencers,5756,Borges Pure Olive Oil Jar 250ml,groceries-staples,edible-oil,old-price-5756,oldPrice,₹375,product-price-5756,finalPrice,₹275
+269,Spencers,5755,Borges Ext. Virgin Olive Oil Jar 250ml,groceries-staples,edible-oil,old-price-5755,oldPrice,₹400,product-price-5755,finalPrice,₹340
+270,Spencers,5626,Borges Ext. Virgin Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-5626,oldPrice,₹1400,product-price-5626,finalPrice,₹824
+271,Spencers,5588,Borges Pure Olive Oil Pet 500ml,groceries-staples,edible-oil,old-price-5588,oldPrice,₹700,product-price-5588,finalPrice,₹435
+272,Spencers,5587,Borges Ext. Virgin Olive Oil Pet 500ml,groceries-staples,edible-oil,old-price-5587,oldPrice,₹750,product-price-5587,finalPrice,₹510
+273,Spencers,5586,Borges Ext. Light Olive Oil Pet 1Ltr,groceries-staples,edible-oil,old-price-5586,oldPrice,₹1350,product-price-5586,finalPrice,₹748
+274,Spencers,5328,Saffola Gold Oil Jar 5Ltr,groceries-staples,edible-oil,product-price-5328,finalPrice,₹825,product-price-5328,finalPrice,₹825
+275,Spencers,5326,Saffola Gold Oil Pp 1Ltr,groceries-staples,edible-oil,product-price-5326,finalPrice,₹139,product-price-5326,finalPrice,₹139
+276,Spencers,37614,Shellys Fish  Jhol Masala 100g,groceries-staples,masala-spice,product-price-37614,finalPrice,₹80,product-price-37614,finalPrice,₹80
+277,Spencers,37612,Shellys Dalna Mix Masala 100g,groceries-staples,masala-spice,product-price-37612,finalPrice,₹80,product-price-37612,finalPrice,₹80
+278,Spencers,37402,Organic Tattva Coriander Powder 100g,groceries-staples,masala-spice,product-price-37402,finalPrice,₹45,product-price-37402,finalPrice,₹45
+279,Spencers,35322,Kohinoor Garam Masala   E Khaas 40G,groceries-staples,masala-spice,product-price-35322,finalPrice,₹69,product-price-35322,finalPrice,₹69
+280,Spencers,34693,By Nature Pink Salt 400g,groceries-staples,masala-spice,product-price-34693,finalPrice,₹160,product-price-34693,finalPrice,₹160
+281,Spencers,33448,Keya Pepper  Black grinder 50g,groceries-staples,masala-spice,product-price-33448,finalPrice,₹159,product-price-33448,finalPrice,₹159
+282,Spencers,32525,Kesari Saffron 5G,groceries-staples,masala-spice,product-price-32525,finalPrice,₹195,product-price-32525,finalPrice,₹195
+283,Spencers,32493,DNV Poppy- Khus Khus 500g,groceries-staples,masala-spice,product-price-32493,finalPrice,₹822,product-price-32493,finalPrice,₹822
+284,Spencers,30767,Keya Piri Piri 80G,groceries-staples,masala-spice,product-price-30767,finalPrice,₹99,product-price-30767,finalPrice,₹99
+285,Spencers,30220,Kohinoor Chicken Masala Butter 15G,groceries-staples,masala-spice,product-price-30220,finalPrice,₹20,product-price-30220,finalPrice,₹20
+286,Spencers,30219,Kohinoor Meat Masala Kashmiri 15G,groceries-staples,masala-spice,product-price-30219,finalPrice,₹20,product-price-30219,finalPrice,₹20
+287,Spencers,29400,Everest Jeera Powder 100g,groceries-staples,masala-spice,product-price-29400,finalPrice,₹50,product-price-29400,finalPrice,₹50
+288,Spencers,27604,Tata Sampann Turmeric Powder 100g,groceries-staples,masala-spice,product-price-27604,finalPrice,₹31,product-price-27604,finalPrice,₹31
+289,Spencers,26305,Smart Choice Monosodium glutamate 100g,groceries-staples,masala-spice,product-price-26305,finalPrice,₹40,product-price-26305,finalPrice,₹40
+290,Spencers,26092,Keya Cinnamon Powder Srilanka 50g,groceries-staples,masala-spice,product-price-26092,finalPrice,₹159,product-price-26092,finalPrice,₹159
+291,Spencers,25322,Mark Premium Jeera Whole 100g,groceries-staples,masala-spice,product-price-25322,finalPrice,₹49,product-price-25322,finalPrice,₹49
+292,Spencers,25321,Mark Premium Panchphoran 100g,groceries-staples,masala-spice,product-price-25321,finalPrice,₹35,product-price-25321,finalPrice,₹35
+293,Spencers,25147,Parampara Paneer Makhanwala Ready Masala 60g,groceries-staples,masala-spice,product-price-25147,finalPrice,₹48,product-price-25147,finalPrice,₹48
+294,Spencers,24691,Smart Choice Mustard  Fine 100g,groceries-staples,masala-spice,product-price-24691,finalPrice,₹25,product-price-24691,finalPrice,₹25
+295,Spencers,23836,Shelly's Spice Pack of 4 500g,groceries-staples,masala-spice,product-price-23836,finalPrice,₹204,product-price-23836,finalPrice,₹204
+296,Spencers,23247,Shelly's Combo Large Box 1653g,groceries-staples,masala-spice,product-price-23247,finalPrice,₹410,product-price-23247,finalPrice,₹410
+297,Spencers,22360,Shelly's Combo Pack 200g,groceries-staples,masala-spice,product-price-22360,finalPrice,₹243,product-price-22360,finalPrice,₹243
+298,Spencers,21786,Spencer's Smart Choice Ginger Garlic Paste 200g,groceries-staples,masala-spice,old-price-21786,oldPrice,₹39,product-price-21786,finalPrice,₹35.10
+299,Spencers,21462,Parampara Ready To Cook Kolhapuri Gravy Mix 80g,groceries-staples,masala-spice,product-price-21462,finalPrice,₹48,product-price-21462,finalPrice,₹48
+300,Spencers,21442,Tata Sampann Coriander Powder 100g,groceries-staples,masala-spice,product-price-21442,finalPrice,₹31,product-price-21442,finalPrice,₹31
+301,Spencers,20132,Knorr Chinese Noodles/Fried Rice Masala 30g,groceries-staples,masala-spice,product-price-20132,finalPrice,₹30,product-price-20132,finalPrice,₹30
+302,Spencers,20105,Parampara Chicken Moghlai 80g,groceries-staples,masala-spice,product-price-20105,finalPrice,₹48,product-price-20105,finalPrice,₹48
+303,Spencers,19975,Tata Sampann Chicken Masala 100g,groceries-staples,masala-spice,product-price-19975,finalPrice,₹77,product-price-19975,finalPrice,₹77
+304,Spencers,19927,Parampara Vegetable Biryani 80g,groceries-staples,masala-spice,product-price-19927,finalPrice,₹48,product-price-19927,finalPrice,₹48
+305,Spencers,19631,Everest Shahi Paneer Masala 100g,groceries-staples,masala-spice,product-price-19631,finalPrice,₹78,product-price-19631,finalPrice,₹78
+306,Spencers,19629,Mark Premium Ajwain 100g,groceries-staples,masala-spice,product-price-19629,finalPrice,₹55,product-price-19629,finalPrice,₹55
+307,Spencers,19628,Mark Premium Mustard Black 100g,groceries-staples,masala-spice,product-price-19628,finalPrice,₹18,product-price-19628,finalPrice,₹18
+308,Spencers,19627,Mark Premium Kala Jeera - Kalonji 100g,groceries-staples,masala-spice,product-price-19627,finalPrice,₹55,product-price-19627,finalPrice,₹55
+309,Spencers,19625,Mark Premium Cloves 25g,groceries-staples,masala-spice,product-price-19625,finalPrice,₹35,product-price-19625,finalPrice,₹35
+310,Spencers,19494,Knorr Dal Makhani 31g,groceries-staples,masala-spice,product-price-19494,finalPrice,₹50,product-price-19494,finalPrice,₹50
+311,Spencers,19198,Khushi's Garlic Ginger Magic Mix 50g,groceries-staples,masala-spice,product-price-19198,finalPrice,₹50,product-price-19198,finalPrice,₹50
+312,Spencers,19153,Mark Premium Jeera Powder 200g,groceries-staples,masala-spice,product-price-19153,finalPrice,₹105,product-price-19153,finalPrice,₹105
+313,Spencers,19137,Aashirvaad Jeera Powder 50g,groceries-staples,masala-spice,product-price-19137,finalPrice,₹25,product-price-19137,finalPrice,₹25
+314,Spencers,18992,Smart Choice Poppy- Khus Khus 500g,groceries-staples,masala-spice,product-price-18992,finalPrice,₹999,product-price-18992,finalPrice,₹999
+315,Spencers,18956,DNV Black Pepper Powder 25g,groceries-staples,masala-spice,product-price-18956,finalPrice,₹41,product-price-18956,finalPrice,₹41
+316,Spencers,18910,Everest Hingraj 100g,groceries-staples,masala-spice,product-price-18910,finalPrice,₹160,product-price-18910,finalPrice,₹160
+317,Spencers,18906,Everest Fish Curry 50g,groceries-staples,masala-spice,product-price-18906,finalPrice,₹40,product-price-18906,finalPrice,₹40
+318,Spencers,18863,DNV Mustard Yellow 100g,groceries-staples,masala-spice,product-price-18863,finalPrice,₹19,product-price-18863,finalPrice,₹19
+319,Spencers,18862,DNV Mustard Red 100g,groceries-staples,masala-spice,product-price-18862,finalPrice,₹18,product-price-18862,finalPrice,₹18
+320,Spencers,18861,DNV Ajwain 100g,groceries-staples,masala-spice,product-price-18861,finalPrice,₹50,product-price-18861,finalPrice,₹50
+321,Spencers,18857,DNV Jeera Whole 100g,groceries-staples,masala-spice,product-price-18857,finalPrice,₹52,product-price-18857,finalPrice,₹52
+322,Spencers,18856,DNV Panchphoran 100g,groceries-staples,masala-spice,product-price-18856,finalPrice,₹38,product-price-18856,finalPrice,₹38
+323,Spencers,18855,DNV Panchphoran 50g,groceries-staples,masala-spice,product-price-18855,finalPrice,₹19,product-price-18855,finalPrice,₹19
+324,Spencers,18854,DNV Kala Jeera - Kalonji 100g,groceries-staples,masala-spice,product-price-18854,finalPrice,₹48,product-price-18854,finalPrice,₹48
+325,Spencers,18853,DNV Kala Jeera - Kalonji 50g,groceries-staples,masala-spice,product-price-18853,finalPrice,₹24,product-price-18853,finalPrice,₹24
+326,Spencers,18851,DNV Sounf  Moti 50g,groceries-staples,masala-spice,product-price-18851,finalPrice,₹20,product-price-18851,finalPrice,₹20
+327,Spencers,18850,DNV Jeera  Whole 50g,groceries-staples,masala-spice,product-price-18850,finalPrice,₹26,product-price-18850,finalPrice,₹26
+328,Spencers,18827,Khushi's Pizza Magic Mix 50g,groceries-staples,masala-spice,product-price-18827,finalPrice,₹69,product-price-18827,finalPrice,₹69
+329,Spencers,18818,Punjab Di Rasoi Mutton Biryani Ready Paste 200g,groceries-staples,masala-spice,product-price-18818,finalPrice,₹65,product-price-18818,finalPrice,₹65
+330,Spencers,18734,Mark Premium Jeera Whole 200g,groceries-staples,masala-spice,product-price-18734,finalPrice,₹95,product-price-18734,finalPrice,₹95
+331,Spencers,18733,Mark Premium Turmeric Powder 200g,groceries-staples,masala-spice,product-price-18733,finalPrice,₹55,product-price-18733,finalPrice,₹55
+332,Spencers,18729,Mark Premium Chilli  Flakes 20g,groceries-staples,masala-spice,product-price-18729,finalPrice,₹15,product-price-18729,finalPrice,₹15
+333,Spencers,18728,Mark Premium Coriander Whole 100g,groceries-staples,masala-spice,product-price-18728,finalPrice,₹35,product-price-18728,finalPrice,₹35
+334,Spencers,18727,Mark Premium Mustard Yellow 100g,groceries-staples,masala-spice,product-price-18727,finalPrice,₹20,product-price-18727,finalPrice,₹20
+335,Spencers,18726,Mark Premium Methi  100g,groceries-staples,masala-spice,product-price-18726,finalPrice,₹19,product-price-18726,finalPrice,₹19
+336,Spencers,5319,Tata Iodised Salt 1kg,groceries-staples,salt-sugar,product-price-5319,finalPrice,₹20,product-price-5319,finalPrice,₹20
+337,Spencers,5744,Tata Lite Salt 1kg,groceries-staples,salt-sugar,product-price-5744,finalPrice,₹35,product-price-5744,finalPrice,₹35
+338,Spencers,29736,Sugar loose 1kg,groceries-staples,salt-sugar,old-price-29736,oldPrice,₹70,product-price-29736,finalPrice,₹38
+339,Spencers,5317,Aashirvaad Iodised Salt 1kg,groceries-staples,salt-sugar,old-price-5317,oldPrice,₹20,product-price-5317,finalPrice,₹19
+340,Spencers,37617,Tata Rock Salt 1kg,groceries-staples,salt-sugar,product-price-37617,finalPrice,₹110,product-price-37617,finalPrice,₹110
+341,Spencers,37609,Zydus Sugarlite Pouch 500g,groceries-staples,salt-sugar,old-price-37609,oldPrice,₹99,product-price-37609,finalPrice,₹79
+342,Spencers,37547,Dhampure Green Cinnamon Sug Cube 500g,groceries-staples,salt-sugar,product-price-37547,finalPrice,₹80,product-price-37547,finalPrice,₹80
+343,Spencers,36769,Tata Nx Zero Sugar Jar 120g,groceries-staples,salt-sugar,product-price-36769,finalPrice,₹275,product-price-36769,finalPrice,₹275
+344,Spencers,32922,Puro Healthy Salt 1kg,groceries-staples,salt-sugar,old-price-32922,oldPrice,₹110,product-price-32922,finalPrice,₹99
+345,Spencers,32810,Sugar Free Green Stevia 100-Tab,groceries-staples,salt-sugar,old-price-32810,oldPrice,₹75,product-price-32810,finalPrice,₹65
+346,Spencers,32723,Gaia Stevia Natural Sweetener 175g,groceries-staples,salt-sugar,old-price-32723,oldPrice,₹350,product-price-32723,finalPrice,₹315
+347,Spencers,25936,Sugar Free Natura 100 Sachets,groceries-staples,salt-sugar,product-price-25936,finalPrice,₹150,product-price-25936,finalPrice,₹150
+348,Spencers,18714,Mark Premium Nakul Dana 200g,groceries-staples,salt-sugar,product-price-18714,finalPrice,₹35,product-price-18714,finalPrice,₹35
+349,Spencers,17973,Smart Choice Sendha Namak 100g,groceries-staples,salt-sugar,old-price-17973,oldPrice,₹9,product-price-17973,finalPrice,₹8
+350,Spencers,13843,Shellys Tal Mishri 500g,groceries-staples,salt-sugar,product-price-13843,finalPrice,₹60,product-price-13843,finalPrice,₹60
+351,Spencers,12407,Naturally Sweet Steviocal Sweetener Box 50g,groceries-staples,salt-sugar,product-price-12407,finalPrice,₹125,product-price-12407,finalPrice,₹125
+352,Spencers,11585,Mawana White Crystal Sugar 1kg,groceries-staples,salt-sugar,old-price-11585,oldPrice,₹65,product-price-11585,finalPrice,₹56
+353,Spencers,11038,Gaia Lite Stevia Tablets 100 U (units),groceries-staples,salt-sugar,old-price-11038,oldPrice,₹100,product-price-11038,finalPrice,₹90
+354,Spencers,10133,Sugar Free Natura Sweet Drops 10ml,groceries-staples,salt-sugar,product-price-10133,finalPrice,₹140,product-price-10133,finalPrice,₹140
+355,Spencers,9465,Sugar Free Gold 50 Sachets (37.5g),groceries-staples,salt-sugar,product-price-9465,finalPrice,₹72,product-price-9465,finalPrice,₹72
+356,Spencers,8863,Sugar Free Natura Tablets 300 U (units) 25.5g,groceries-staples,salt-sugar,product-price-8863,finalPrice,₹190,product-price-8863,finalPrice,₹190
+357,Spencers,6035,Sugar Free Gold Tablets 500 U (units) 50g,groceries-staples,salt-sugar,product-price-6035,finalPrice,₹250,product-price-6035,finalPrice,₹250
+358,Spencers,5470,Sugar Free Natura Powder 100g,groceries-staples,salt-sugar,old-price-5470,oldPrice,₹145,product-price-5470,finalPrice,₹135
+359,Spencers,4974,Sugar Free Gold Tablets 300 U (units) 30g,groceries-staples,salt-sugar,product-price-4974,finalPrice,₹180,product-price-4974,finalPrice,₹180
+360,Spencers,18714,Mark Premium Nakul Dana 200g,groceries-staples,salt-sugar,product-price-18714,finalPrice,₹35,product-price-18714,finalPrice,₹35
+361,Spencers,17973,Smart Choice Sendha Namak 100g,groceries-staples,salt-sugar,old-price-17973,oldPrice,₹9,product-price-17973,finalPrice,₹8
+362,Spencers,13843,Shellys Tal Mishri 500g,groceries-staples,salt-sugar,product-price-13843,finalPrice,₹60,product-price-13843,finalPrice,₹60
+363,Spencers,12407,Naturally Sweet Steviocal Sweetener Box 50g,groceries-staples,salt-sugar,product-price-12407,finalPrice,₹125,product-price-12407,finalPrice,₹125
+364,Spencers,11585,Mawana White Crystal Sugar 1kg,groceries-staples,salt-sugar,old-price-11585,oldPrice,₹65,product-price-11585,finalPrice,₹56
+365,Spencers,11038,Gaia Lite Stevia Tablets 100 U (units),groceries-staples,salt-sugar,old-price-11038,oldPrice,₹100,product-price-11038,finalPrice,₹90
+366,Spencers,10133,Sugar Free Natura Sweet Drops 10ml,groceries-staples,salt-sugar,product-price-10133,finalPrice,₹140,product-price-10133,finalPrice,₹140
+367,Spencers,9465,Sugar Free Gold 50 Sachets (37.5g),groceries-staples,salt-sugar,product-price-9465,finalPrice,₹72,product-price-9465,finalPrice,₹72
+368,Spencers,8863,Sugar Free Natura Tablets 300 U (units) 25.5g,groceries-staples,salt-sugar,product-price-8863,finalPrice,₹190,product-price-8863,finalPrice,₹190
+369,Spencers,6035,Sugar Free Gold Tablets 500 U (units) 50g,groceries-staples,salt-sugar,product-price-6035,finalPrice,₹250,product-price-6035,finalPrice,₹250
+370,Spencers,5470,Sugar Free Natura Powder 100g,groceries-staples,salt-sugar,old-price-5470,oldPrice,₹145,product-price-5470,finalPrice,₹135
+371,Spencers,4974,Sugar Free Gold Tablets 300 U (units) 30g,groceries-staples,salt-sugar,product-price-4974,finalPrice,₹180,product-price-4974,finalPrice,₹180
+372,Spencers,18714,Mark Premium Nakul Dana 200g,groceries-staples,salt-sugar,product-price-18714,finalPrice,₹35,product-price-18714,finalPrice,₹35
+373,Spencers,17973,Smart Choice Sendha Namak 100g,groceries-staples,salt-sugar,old-price-17973,oldPrice,₹9,product-price-17973,finalPrice,₹8
+374,Spencers,13843,Shellys Tal Mishri 500g,groceries-staples,salt-sugar,product-price-13843,finalPrice,₹60,product-price-13843,finalPrice,₹60
+375,Spencers,12407,Naturally Sweet Steviocal Sweetener Box 50g,groceries-staples,salt-sugar,product-price-12407,finalPrice,₹125,product-price-12407,finalPrice,₹125
+376,Spencers,11585,Mawana White Crystal Sugar 1kg,groceries-staples,salt-sugar,old-price-11585,oldPrice,₹65,product-price-11585,finalPrice,₹56
+377,Spencers,11038,Gaia Lite Stevia Tablets 100 U (units),groceries-staples,salt-sugar,old-price-11038,oldPrice,₹100,product-price-11038,finalPrice,₹90
+378,Spencers,10133,Sugar Free Natura Sweet Drops 10ml,groceries-staples,salt-sugar,product-price-10133,finalPrice,₹140,product-price-10133,finalPrice,₹140
+379,Spencers,9465,Sugar Free Gold 50 Sachets (37.5g),groceries-staples,salt-sugar,product-price-9465,finalPrice,₹72,product-price-9465,finalPrice,₹72
+380,Spencers,8863,Sugar Free Natura Tablets 300 U (units) 25.5g,groceries-staples,salt-sugar,product-price-8863,finalPrice,₹190,product-price-8863,finalPrice,₹190
+381,Spencers,6035,Sugar Free Gold Tablets 500 U (units) 50g,groceries-staples,salt-sugar,product-price-6035,finalPrice,₹250,product-price-6035,finalPrice,₹250
+382,Spencers,5470,Sugar Free Natura Powder 100g,groceries-staples,salt-sugar,old-price-5470,oldPrice,₹145,product-price-5470,finalPrice,₹135
+383,Spencers,4974,Sugar Free Gold Tablets 300 U (units) 30g,groceries-staples,salt-sugar,product-price-4974,finalPrice,₹180,product-price-4974,finalPrice,₹180
+384,Spencers,18714,Mark Premium Nakul Dana 200g,groceries-staples,salt-sugar,product-price-18714,finalPrice,₹35,product-price-18714,finalPrice,₹35
+385,Spencers,17973,Smart Choice Sendha Namak 100g,groceries-staples,salt-sugar,old-price-17973,oldPrice,₹9,product-price-17973,finalPrice,₹8
+386,Spencers,13843,Shellys Tal Mishri 500g,groceries-staples,salt-sugar,product-price-13843,finalPrice,₹60,product-price-13843,finalPrice,₹60
+387,Spencers,12407,Naturally Sweet Steviocal Sweetener Box 50g,groceries-staples,salt-sugar,product-price-12407,finalPrice,₹125,product-price-12407,finalPrice,₹125
+388,Spencers,11585,Mawana White Crystal Sugar 1kg,groceries-staples,salt-sugar,old-price-11585,oldPrice,₹65,product-price-11585,finalPrice,₹56
+389,Spencers,11038,Gaia Lite Stevia Tablets 100 U (units),groceries-staples,salt-sugar,old-price-11038,oldPrice,₹100,product-price-11038,finalPrice,₹90
+390,Spencers,10133,Sugar Free Natura Sweet Drops 10ml,groceries-staples,salt-sugar,product-price-10133,finalPrice,₹140,product-price-10133,finalPrice,₹140
+391,Spencers,9465,Sugar Free Gold 50 Sachets (37.5g),groceries-staples,salt-sugar,product-price-9465,finalPrice,₹72,product-price-9465,finalPrice,₹72
+392,Spencers,8863,Sugar Free Natura Tablets 300 U (units) 25.5g,groceries-staples,salt-sugar,product-price-8863,finalPrice,₹190,product-price-8863,finalPrice,₹190
+393,Spencers,6035,Sugar Free Gold Tablets 500 U (units) 50g,groceries-staples,salt-sugar,product-price-6035,finalPrice,₹250,product-price-6035,finalPrice,₹250
+394,Spencers,5470,Sugar Free Natura Powder 100g,groceries-staples,salt-sugar,old-price-5470,oldPrice,₹145,product-price-5470,finalPrice,₹135
+395,Spencers,4974,Sugar Free Gold Tablets 300 U (units) 30g,groceries-staples,salt-sugar,product-price-4974,finalPrice,₹180,product-price-4974,finalPrice,₹180
+1274,Spencers,38374,Cadbury Fuse Home Treats 170.5g,packaged-food,biscuits-confectionary,product-price-38374,finalPrice,₹149,product-price-38374,finalPrice,₹149
+1275,Spencers,38358,Cadbury Dairy Milk Crispello 33G 33g,packaged-food,biscuits-confectionary,product-price-38358,finalPrice,₹30,product-price-38358,finalPrice,₹30
+1276,Spencers,37085,Cadbury Silk Home Treats 180g,packaged-food,biscuits-confectionary,product-price-37085,finalPrice,₹200,product-price-37085,finalPrice,₹200
+1277,Spencers,31810,Cadbury Dairy Milk Lickables 20g,packaged-food,biscuits-confectionary,product-price-31810,finalPrice,₹45,product-price-31810,finalPrice,₹45
+1278,Spencers,26906,Cadbury Dairy Milk Silk Oreo 60g,packaged-food,biscuits-confectionary,product-price-26906,finalPrice,₹80,product-price-26906,finalPrice,₹80
+1279,Spencers,26731,Cadbury Dairy Milk Silk Fruit and Nut 60g,packaged-food,biscuits-confectionary,product-price-26731,finalPrice,₹70,product-price-26731,finalPrice,₹70
+1280,Spencers,26363,Cadbury Dairy Milk Home Treats 7gx20 U (units),packaged-food,biscuits-confectionary,product-price-26363,finalPrice,₹149,product-price-26363,finalPrice,₹149
+1281,Spencers,25978,Cadbury Dairy Milk Silk Roast Almond 60g,packaged-food,biscuits-confectionary,product-price-25978,finalPrice,₹70,product-price-25978,finalPrice,₹70
+1282,Spencers,25871,Cadbury Dairy Milk 25g,packaged-food,biscuits-confectionary,product-price-25871,finalPrice,₹20,product-price-25871,finalPrice,₹20
+1283,Spencers,24784,Cadbury Perk Home Treats 200g,packaged-food,biscuits-confectionary,product-price-24784,finalPrice,₹99,product-price-24784,finalPrice,₹99
+1284,Spencers,23788,Dairy Milk Peppermint Milk Chocolate 200g,packaged-food,biscuits-confectionary,product-price-23788,finalPrice,₹595,product-price-23788,finalPrice,₹595
+1285,Spencers,19855,Cadbury Dairy Milk Top Deck 200g,packaged-food,biscuits-confectionary,product-price-19855,finalPrice,₹595,product-price-19855,finalPrice,₹595
+1286,Spencers,13968,Cadbury Bournvita Crunchy Choco Cookies 250g,packaged-food,biscuits-confectionary,product-price-13968,finalPrice,₹60,product-price-13968,finalPrice,₹60
+1287,Spencers,13546,"Cadbury Dairy Milk Flavours of Joy, Pack of 3 Chocolates 114g",packaged-food,biscuits-confectionary,product-price-13546,finalPrice,₹99,product-price-13546,finalPrice,₹99
+1288,Spencers,11013,Cadbury Shots Chocolate 18g,packaged-food,biscuits-confectionary,product-price-11013,finalPrice,₹10,product-price-11013,finalPrice,₹10
+1289,Spencers,10834,Cadbury Celebration 190.3g,packaged-food,biscuits-confectionary,product-price-10834,finalPrice,₹199,product-price-10834,finalPrice,₹199
+1290,Spencers,8266,Cadbury Fuse Chocolate Bar 25g,packaged-food,biscuits-confectionary,product-price-8266,finalPrice,₹20,product-price-8266,finalPrice,₹20
+1291,Spencers,8083,Bournvita Crunchie Chocolatey Cookies 120g,packaged-food,biscuits-confectionary,product-price-8083,finalPrice,₹30,product-price-8083,finalPrice,₹30
+1292,Spencers,8010,Cadbury Dairy Milk Chocolate 54g,packaged-food,biscuits-confectionary,product-price-8010,finalPrice,₹40,product-price-8010,finalPrice,₹40
+1293,Spencers,7719,Cadbury Dairy Milk Silk Bubbly 120g,packaged-food,biscuits-confectionary,product-price-7719,finalPrice,₹170,product-price-7719,finalPrice,₹170
+1294,Spencers,7718,Cadbury Dairy Milk Silk Bubbly 50g,packaged-food,biscuits-confectionary,product-price-7718,finalPrice,₹80,product-price-7718,finalPrice,₹80
+1295,Spencers,7717,Cadbury Choclairs Gold Toffee 137.5g,packaged-food,biscuits-confectionary,product-price-7717,finalPrice,₹50,product-price-7717,finalPrice,₹50
+1296,Spencers,7552,Cadbury 5 Star Home Treats 200g,packaged-food,biscuits-confectionary,product-price-7552,finalPrice,₹149,product-price-7552,finalPrice,₹149
+1297,Spencers,6850,Cadbury Temptations Rum Raisins 72g,packaged-food,biscuits-confectionary,product-price-6850,finalPrice,₹90,product-price-6850,finalPrice,₹90
+1298,Spencers,6849,Cadbury Temptations Almond Treat Chocolate 72g,packaged-food,biscuits-confectionary,product-price-6849,finalPrice,₹100,product-price-6849,finalPrice,₹100
+1299,Spencers,6797,Cadbury Celebrations 141g,packaged-food,biscuits-confectionary,product-price-6797,finalPrice,₹135,product-price-6797,finalPrice,₹135
+1300,Spencers,6796,Cadbury Celebrations Pack,packaged-food,biscuits-confectionary,product-price-6796,finalPrice,₹50,product-price-6796,finalPrice,₹50
+1301,Spencers,6287,Cadbury Dairy Milk Silk 60g,packaged-food,biscuits-confectionary,product-price-6287,finalPrice,₹70,product-price-6287,finalPrice,₹70
+1302,Spencers,4625,Dairy Milk Roast Almond Chocolate 38g,packaged-food,biscuits-confectionary,product-price-4625,finalPrice,₹45,product-price-4625,finalPrice,₹45
+1303,Spencers,4624,Cadbury Dairy Milk 13g,packaged-food,biscuits-confectionary,product-price-4624,finalPrice,₹10,product-price-4624,finalPrice,₹10
+1304,Spencers,4623,Cadbury Dairy Milk Fruit and Nut 80g,packaged-food,biscuits-confectionary,product-price-4623,finalPrice,₹90,product-price-4623,finalPrice,₹90
+1305,Spencers,4622,Cadbury Dairy Milk Fruit and Nut 38g,packaged-food,biscuits-confectionary,product-price-4622,finalPrice,₹45,product-price-4622,finalPrice,₹45
+1306,Spencers,39280,L Exclusif Orange Choco Bar Rose Almond 75g,packaged-food,biscuits-confectionary,product-price-39280,finalPrice,₹315,product-price-39280,finalPrice,₹315
+1307,Spencers,39279,L Exclusif Orange Choco Bar Seasalt 75g,packaged-food,biscuits-confectionary,product-price-39279,finalPrice,₹315,product-price-39279,finalPrice,₹315
+1308,Spencers,39278,L Exclusif Orange Choco Bar Lemon Ginger 75g,packaged-food,biscuits-confectionary,product-price-39278,finalPrice,₹315,product-price-39278,finalPrice,₹315
+1309,Spencers,39277,L Exclusif Orange Choco Bar Blueberry Walnut 75g,packaged-food,biscuits-confectionary,product-price-39277,finalPrice,₹315,product-price-39277,finalPrice,₹315
+1310,Spencers,39095,Parle Black Bourbon Vanilla 300G,packaged-food,biscuits-confectionary,product-price-39095,finalPrice,₹100,product-price-39095,finalPrice,₹100
+1311,Spencers,38961,Bhikaram Chandmal Dry Fruit Laddu 336g,packaged-food,biscuits-confectionary,product-price-38961,finalPrice,₹360,product-price-38961,finalPrice,₹360
+1312,Spencers,38960,Bhikaram Chandmal Badam Gond Laddu 336g,packaged-food,biscuits-confectionary,product-price-38960,finalPrice,₹270,product-price-38960,finalPrice,₹270
+1313,Spencers,38357,Oreo Cadbury Dipped 150g,packaged-food,biscuits-confectionary,product-price-38357,finalPrice,₹60,product-price-38357,finalPrice,₹60
+1314,Spencers,38253,Unibic Fruit And Nut Crackers Fp 150g,packaged-food,biscuits-confectionary,product-price-38253,finalPrice,₹50,product-price-38253,finalPrice,₹50
+1315,Spencers,38252,Bisk Farm English Cracker 150g,packaged-food,biscuits-confectionary,product-price-38252,finalPrice,₹30,product-price-38252,finalPrice,₹30
+1316,Spencers,38031,Britannia Treat Burst Choco Cream Fills 60g,packaged-food,biscuits-confectionary,product-price-38031,finalPrice,₹15,product-price-38031,finalPrice,₹15
+1317,Spencers,37913,Dukes Nice Cocoa Sprinkled Biscuit 3X150g,packaged-food,biscuits-confectionary,product-price-37913,finalPrice,₹49,product-price-37913,finalPrice,₹49
+1318,Spencers,37604,Fabelle Soft Centres Choco Mousse 130g,packaged-food,biscuits-confectionary,product-price-37604,finalPrice,₹170,product-price-37604,finalPrice,₹170
+1319,Spencers,37588,Amul Milk Chocolate 40g,packaged-food,biscuits-confectionary,product-price-37588,finalPrice,₹25,product-price-37588,finalPrice,₹25
+1320,Spencers,37533,Fabelle Soft Centres Choco Mousse 60g,packaged-food,biscuits-confectionary,product-price-37533,finalPrice,₹80,product-price-37533,finalPrice,₹80
+1321,Spencers,37531,Fabelle Soft Centres Almond Mousse 58.5g,packaged-food,biscuits-confectionary,product-price-37531,finalPrice,₹80,product-price-37531,finalPrice,₹80
+1322,Spencers,37530,Fabelle Choco Deck Milk Chocolate 130g,packaged-food,biscuits-confectionary,product-price-37530,finalPrice,₹160,product-price-37530,finalPrice,₹160
+1323,Spencers,37529,Fabelle Choco Deck Milk Chocolate 60g,packaged-food,biscuits-confectionary,product-price-37529,finalPrice,₹70,product-price-37529,finalPrice,₹70
+1324,Spencers,37528,Fabelle Choco Deck Fruit & Nut 128g,packaged-food,biscuits-confectionary,product-price-37528,finalPrice,₹160,product-price-37528,finalPrice,₹160
+1325,Spencers,37481,Fabelle Dark Mousse Bar 135g,packaged-food,biscuits-confectionary,product-price-37481,finalPrice,₹350,product-price-37481,finalPrice,₹350
+1326,Spencers,37476,Fabelle gianduja 140g,packaged-food,biscuits-confectionary,product-price-37476,finalPrice,₹900,product-price-37476,finalPrice,₹900
+1327,Spencers,37347,Tictac Intensor 15.5g,packaged-food,biscuits-confectionary,product-price-37347,finalPrice,₹20,product-price-37347,finalPrice,₹20
+1328,Spencers,37346,Orbit Mixed Fruit Bottle 66g,packaged-food,biscuits-confectionary,product-price-37346,finalPrice,₹150,product-price-37346,finalPrice,₹150
+1329,Spencers,37345,Orbit Spearmint Bottle 66g,packaged-food,biscuits-confectionary,product-price-37345,finalPrice,₹150,product-price-37345,finalPrice,₹150
+1330,Spencers,37344,Silk Hazelnut 58g,packaged-food,biscuits-confectionary,product-price-37344,finalPrice,₹70,product-price-37344,finalPrice,₹70
+1331,Spencers,37340,Unibic Chocolate Chip Cookies 500g,packaged-food,biscuits-confectionary,old-price-37340,oldPrice,₹165,product-price-37340,finalPrice,₹115.50
+1332,Spencers,37320,Unibic Happy Teddy's Choco 25g,packaged-food,biscuits-confectionary,old-price-37320,oldPrice,₹155,product-price-37320,finalPrice,₹108.50
+1333,Spencers,37317,Unibic Snackbar Choco Nutty Nuts 30g,packaged-food,biscuits-confectionary,product-price-37317,finalPrice,₹40,product-price-37317,finalPrice,₹40
+1334,Spencers,39200,True Elements Protein Mix Roasted Pumpkin Watermelon Almonds & Soyanuts 125gm,packaged-food,snacks-and-chips,product-price-39200,finalPrice,₹120,product-price-39200,finalPrice,₹120
+1335,Spencers,38359,Pringles Pizza 110G 110g,packaged-food,snacks-and-chips,product-price-38359,finalPrice,₹99,product-price-38359,finalPrice,₹99
+1336,Spencers,38021,Too Yumm Multigrain Chips Dahi Papdi Chaat 80g,packaged-food,snacks-and-chips,product-price-38021,finalPrice,₹35,product-price-38021,finalPrice,₹35
+1337,Spencers,38020,Too Yumm Mltigrin Chips Chinese Hot and Sour 80g,packaged-food,snacks-and-chips,product-price-38020,finalPrice,₹35,product-price-38020,finalPrice,₹35
+1338,Spencers,38019,Too Yumm Veggie Stix Sour Cream and Onion 80g,packaged-food,snacks-and-chips,product-price-38019,finalPrice,₹35,product-price-38019,finalPrice,₹35
+1339,Spencers,38018,Too Yumm Veggie Stix Chilli Chataka 80g,packaged-food,snacks-and-chips,product-price-38018,finalPrice,₹35,product-price-38018,finalPrice,₹35
+1340,Spencers,37828,Too Yumm Karare noodle Masala 80g,packaged-food,snacks-and-chips,product-price-37828,finalPrice,₹20,product-price-37828,finalPrice,₹20
+1341,Spencers,37827,Too Yumm Karare noodle Masala 42g,packaged-food,snacks-and-chips,product-price-37827,finalPrice,₹10,product-price-37827,finalPrice,₹10
+1342,Spencers,37826,Too Yumm Karare munchy Masala 80g,packaged-food,snacks-and-chips,product-price-37826,finalPrice,₹20,product-price-37826,finalPrice,₹20
+1343,Spencers,37825,Too Yumm Karare munchy Masala 42g,packaged-food,snacks-and-chips,product-price-37825,finalPrice,₹10,product-price-37825,finalPrice,₹10
+1344,Spencers,37824,Too Yumm Karare chilli Achari 80g,packaged-food,snacks-and-chips,product-price-37824,finalPrice,₹20,product-price-37824,finalPrice,₹20
+1345,Spencers,37823,Too Yumm Karare chilli Achari 42g,packaged-food,snacks-and-chips,product-price-37823,finalPrice,₹10,product-price-37823,finalPrice,₹10
+1346,Spencers,37472,Pipo Popcorn Mixin Peri Peri 60g,packaged-food,snacks-and-chips,product-price-37472,finalPrice,₹30,product-price-37472,finalPrice,₹30
+1347,Spencers,37470,Pipo Popcorn Butter Lovers 90g,packaged-food,snacks-and-chips,product-price-37470,finalPrice,₹67,product-price-37470,finalPrice,₹67
+1348,Spencers,37469,Pipo Popcorn Classic Salted M90g,packaged-food,snacks-and-chips,product-price-37469,finalPrice,₹67,product-price-37469,finalPrice,₹67
+1349,Spencers,37468,Pipo Popcorn Butter Lovers 150g,packaged-food,snacks-and-chips,product-price-37468,finalPrice,₹40,product-price-37468,finalPrice,₹40
+1350,Spencers,37464,Pipo Popcorn Mixin Desi Cocktail 60g,packaged-food,snacks-and-chips,product-price-37464,finalPrice,₹30,product-price-37464,finalPrice,₹30
+1351,Spencers,37462,Pipo Popcorn Mixin Cheese Burst 60g,packaged-food,snacks-and-chips,product-price-37462,finalPrice,₹30,product-price-37462,finalPrice,₹30
+1352,Spencers,37461,Pipo Popcorn Classic Salted 40g,packaged-food,snacks-and-chips,product-price-37461,finalPrice,₹10,product-price-37461,finalPrice,₹10
+1353,Spencers,34547,Cornitos Nachos Cheesy Sour Cream Onion 150g,packaged-food,snacks-and-chips,product-price-34547,finalPrice,₹85,product-price-34547,finalPrice,₹85
+1354,Spencers,34546,Cornitos Nachos Cheesy Sour Cream Onion 60g,packaged-food,snacks-and-chips,product-price-34546,finalPrice,₹35,product-price-34546,finalPrice,₹35
+1355,Spencers,34492,Cornitos Nachos Crisps-Salsa Combo 140g,packaged-food,snacks-and-chips,product-price-34492,finalPrice,₹65,product-price-34492,finalPrice,₹65
+1356,Spencers,33834,True Elements Roasted Chia Seeds 125gm,packaged-food,snacks-and-chips,product-price-33834,finalPrice,₹145,product-price-33834,finalPrice,₹145
+1357,Spencers,33833,True Elements Raw Chia Seeds 150gm,packaged-food,snacks-and-chips,product-price-33833,finalPrice,₹175,product-price-33833,finalPrice,₹175
+1358,Spencers,33529,Doritos 40Gm,packaged-food,snacks-and-chips,product-price-33529,finalPrice,₹95,product-price-33529,finalPrice,₹95
+1359,Spencers,33500,Act ll Diet Popcorn Olive Oil 70g,packaged-food,snacks-and-chips,product-price-33500,finalPrice,₹30,product-price-33500,finalPrice,₹30
+1360,Spencers,33499,Act ll Diet Popcorn Low Salt 70g,packaged-food,snacks-and-chips,product-price-33499,finalPrice,₹30,product-price-33499,finalPrice,₹30
+1361,Spencers,33297,Bhikharam Chandmal Jhal Chanachur 200g,packaged-food,snacks-and-chips,product-price-33297,finalPrice,₹50,product-price-33297,finalPrice,₹50
+1362,Spencers,33212,Jabsons Peanut Classic Salted 160g,packaged-food,snacks-and-chips,product-price-33212,finalPrice,₹55,product-price-33212,finalPrice,₹55
+1363,Spencers,32887,Act II Popcorn Classic Caramel Bliss 70g,packaged-food,snacks-and-chips,product-price-32887,finalPrice,₹65,product-price-32887,finalPrice,₹65
+1364,Spencers,32849,Act II MWPC Cheddar Cheese Popcorn 2+1 297g,packaged-food,snacks-and-chips,product-price-32849,finalPrice,₹180,product-price-32849,finalPrice,₹180
+1365,Spencers,32847,Act II Ready To Eat Butter Popcorn 50g,packaged-food,snacks-and-chips,product-price-32847,finalPrice,₹20,product-price-32847,finalPrice,₹20
+1366,Spencers,32819,Mukharochak Dhania Peanuts 36g,packaged-food,snacks-and-chips,product-price-32819,finalPrice,₹10,product-price-32819,finalPrice,₹10
+1367,Spencers,32818,Mukharochak Hing Jeera Peanuts 36g,packaged-food,snacks-and-chips,product-price-32818,finalPrice,₹10,product-price-32818,finalPrice,₹10
+1368,Spencers,32816,Mukharochak Diet Chira 200g,packaged-food,snacks-and-chips,product-price-32816,finalPrice,₹50,product-price-32816,finalPrice,₹50
+1369,Spencers,32814,Mukharochak Chaal Bhaja 200g,packaged-food,snacks-and-chips,product-price-32814,finalPrice,₹55,product-price-32814,finalPrice,₹55
+1370,Spencers,32693,Daadis Mobile Khakhra Masala 60g,packaged-food,snacks-and-chips,product-price-32693,finalPrice,₹20,product-price-32693,finalPrice,₹20
+1371,Spencers,32620,Act II Popcorn Cheese Flavor 210g B2G1,packaged-food,snacks-and-chips,product-price-32620,finalPrice,₹100,product-price-32620,finalPrice,₹100
+1372,Spencers,32591,Jabsons Cocktail Nuts 120g,packaged-food,snacks-and-chips,product-price-32591,finalPrice,₹70,product-price-32591,finalPrice,₹70
+1373,Spencers,32579,Jabsons Roasted Gud Chana 150g,packaged-food,snacks-and-chips,product-price-32579,finalPrice,₹70,product-price-32579,finalPrice,₹70
+1374,Spencers,32571,Jabsons Peanuts Thai Sweet Chilly 140g,packaged-food,snacks-and-chips,product-price-32571,finalPrice,₹70,product-price-32571,finalPrice,₹70
+1375,Spencers,31817,Too Yumm! Multigrain Chips Dahi Papdi Chaat 60g,packaged-food,snacks-and-chips,product-price-31817,finalPrice,₹20,product-price-31817,finalPrice,₹20
+1376,Spencers,31585,2 Kurkure Plus Triangle,packaged-food,snacks-and-chips,product-price-31585,finalPrice,₹54,product-price-31585,finalPrice,₹54
+1377,Spencers,31414,Too Yumm! Wheat Thins Desi Tadka 70g,packaged-food,snacks-and-chips,product-price-31414,finalPrice,₹40,product-price-31414,finalPrice,₹40
+1378,Spencers,31412,Too Yumm! Wheat Thins Minty Pudina 70g,packaged-food,snacks-and-chips,product-price-31412,finalPrice,₹40,product-price-31412,finalPrice,₹40
+1379,Spencers,31411,Too Yumm! Wheat Thins Minty Pudina 32g,packaged-food,snacks-and-chips,product-price-31411,finalPrice,₹20,product-price-31411,finalPrice,₹20
+1380,Spencers,30941,Whole Foods Low Cal Multigrain Bhel 200g,packaged-food,snacks-and-chips,product-price-30941,finalPrice,₹95,product-price-30941,finalPrice,₹95
+1381,Spencers,30717,Bittu's Sonar Bangla Sweet Hot Sour Namkeen Mixture 200g,packaged-food,snacks-and-chips,product-price-30717,finalPrice,₹40,product-price-30717,finalPrice,₹40
+1382,Spencers,30403,Too Yumm! Fox Nuts Homestyle Classic 38g,packaged-food,snacks-and-chips,product-price-30403,finalPrice,₹30,product-price-30403,finalPrice,₹30
+1383,Spencers,30397,Too Yumm Foxnuts Wasabi 23g,packaged-food,snacks-and-chips,product-price-30397,finalPrice,₹20,product-price-30397,finalPrice,₹20
+1384,Spencers,30396,Too Yumm Foxnuts Tandoori 23g,packaged-food,snacks-and-chips,product-price-30396,finalPrice,₹30,product-price-30396,finalPrice,₹30
+1385,Spencers,30395,Too Yumm Foxnuts Homestyle 23g,packaged-food,snacks-and-chips,product-price-30395,finalPrice,₹30,product-price-30395,finalPrice,₹30
+1386,Spencers,30394,Too Yumm Foxnuts Chatpata Masala 23g,packaged-food,snacks-and-chips,product-price-30394,finalPrice,₹30,product-price-30394,finalPrice,₹30
+1387,Spencers,30393,Too Yumm Foxnuts Wasabi 38g,packaged-food,snacks-and-chips,product-price-30393,finalPrice,₹40,product-price-30393,finalPrice,₹40
+1388,Spencers,30392,Too Yumm Foxnuts Tandoori 38g,packaged-food,snacks-and-chips,product-price-30392,finalPrice,₹50,product-price-30392,finalPrice,₹50
+1389,Spencers,30391,Too Yumm Foxnuts Homestyle 38g,packaged-food,snacks-and-chips,product-price-30391,finalPrice,₹50,product-price-30391,finalPrice,₹50
+1390,Spencers,30390,Too Yumm Foxnuts Chatpata Masala 38g,packaged-food,snacks-and-chips,product-price-30390,finalPrice,₹50,product-price-30390,finalPrice,₹50
+1391,Spencers,30380,Too Yumm Veggie Stix Sour Cream & Onion 60g,packaged-food,snacks-and-chips,product-price-30380,finalPrice,₹20,product-price-30380,finalPrice,₹20
+1392,Spencers,30192,Flavors of Punjab Til Meethi Mathri 200 g,packaged-food,snacks-and-chips,product-price-30192,finalPrice,₹55,product-price-30192,finalPrice,₹55
+1393,Spencers,29567,Spencer's Smart Choice Savories Sil Ladoo 12 U (Units),packaged-food,snacks-and-chips,product-price-29567,finalPrice,₹49,product-price-29567,finalPrice,₹49
+1394,Spencers,39266,Healthy Alternative Steel Cut Oats 500g,packaged-food,breakfast-cereals,product-price-39266,finalPrice,₹215,product-price-39266,finalPrice,₹215
+1395,Spencers,39253,Healthy Alternative Quinoa Puff Olive N Herbs 100g,packaged-food,breakfast-cereals,product-price-39253,finalPrice,₹149,product-price-39253,finalPrice,₹149
+1396,Spencers,39194,True Elements Butterscotch Muesli 400gm,packaged-food,breakfast-cereals,product-price-39194,finalPrice,₹220,product-price-39194,finalPrice,₹220
+1397,Spencers,39188,True Elements Chatpati Protein Muesli 1000gm,packaged-food,breakfast-cereals,product-price-39188,finalPrice,₹520,product-price-39188,finalPrice,₹520
+1398,Spencers,39186,True Elements Cranberry And Blueberry Muesli 1000gm,packaged-food,breakfast-cereals,product-price-39186,finalPrice,₹520,product-price-39186,finalPrice,₹520
+1399,Spencers,39185,True Elements Cranberry And Blueberry Muesli 400gm,packaged-food,breakfast-cereals,product-price-39185,finalPrice,₹250,product-price-39185,finalPrice,₹250
+1400,Spencers,39183,True Elements Fruit And Nut Muesli 400gm,packaged-food,breakfast-cereals,product-price-39183,finalPrice,₹220,product-price-39183,finalPrice,₹220
+1401,Spencers,39181,True Elements No Added Sugar Muesli 1000gm,packaged-food,breakfast-cereals,product-price-39181,finalPrice,₹450,product-price-39181,finalPrice,₹450
+1402,Spencers,39170,True Elements Steel Cut Oats Gluten Free 1000gm,packaged-food,breakfast-cereals,product-price-39170,finalPrice,₹325,product-price-39170,finalPrice,₹325
+1403,Spencers,39080,Kelloggs Oats 1.5Kg,packaged-food,breakfast-cereals,old-price-39080,oldPrice,₹260,product-price-39080,finalPrice,₹235
+1404,Spencers,39071,Saffola Masala Oats Classic Masala 120G,packaged-food,breakfast-cereals,product-price-39071,finalPrice,₹49,product-price-39071,finalPrice,₹49
+1405,Spencers,38991,Kelloggs Cornflakes 1.2Kg,packaged-food,breakfast-cereals,product-price-38991,finalPrice,₹425,product-price-38991,finalPrice,₹425
+1406,Spencers,37354,Britannia Marie gold 1Kg,packaged-food,breakfast-cereals,product-price-37354,finalPrice,₹120,product-price-37354,finalPrice,₹120
+1407,Spencers,37323,Kellogg Corn Flakes Kesarpista Badam 280g,packaged-food,breakfast-cereals,product-price-37323,finalPrice,₹160,product-price-37323,finalPrice,₹160
+1408,Spencers,36499,Kellogg'S Muesli Nuts Delight 160g,packaged-food,breakfast-cereals,product-price-36499,finalPrice,₹99,product-price-36499,finalPrice,₹99
+1409,Spencers,35821,Spl Sc Oats 400g,packaged-food,breakfast-cereals,product-price-35821,finalPrice,₹75,product-price-35821,finalPrice,₹75
+1410,Spencers,35021,Rite Bite Max Prot Green Coffee Bean 70g,packaged-food,breakfast-cereals,product-price-35021,finalPrice,₹125,product-price-35021,finalPrice,₹125
+1411,Spencers,34859,Rite Bite Choco Almond Pack Of 6 300g,packaged-food,breakfast-cereals,product-price-34859,finalPrice,₹360,product-price-34859,finalPrice,₹360
+1412,Spencers,34858,Rite Bite Workout Choco Berry 50g,packaged-food,breakfast-cereals,product-price-34858,finalPrice,₹65,product-price-34858,finalPrice,₹65
+1413,Spencers,33830,True Elements Steel Cut Oats Gluten Free 500gm,packaged-food,breakfast-cereals,product-price-33830,finalPrice,₹200,product-price-33830,finalPrice,₹200
+1414,Spencers,33828,True Elements Rolled Oats Gluten Free 500gm,packaged-food,breakfast-cereals,product-price-33828,finalPrice,₹200,product-price-33828,finalPrice,₹200
+1415,Spencers,33267,Ritebite Max Protein Professional Choco Berry 100g,packaged-food,breakfast-cereals,product-price-33267,finalPrice,₹170,product-price-33267,finalPrice,₹170
+1416,Spencers,33266,Ritebite Green Tea Orange Pack Of 6 420g,packaged-food,breakfast-cereals,product-price-33266,finalPrice,₹695,product-price-33266,finalPrice,₹695
+1417,Spencers,33191,Ritebite Workout Choco Almond 50g,packaged-food,breakfast-cereals,product-price-33191,finalPrice,₹65,product-price-33191,finalPrice,₹65
+1418,Spencers,32506,Kellogg's Corn Flakes Breakfast Pack 70g,packaged-food,breakfast-cereals,product-price-32506,finalPrice,₹20,product-price-32506,finalPrice,₹20
+1419,Spencers,31803,Kellogg's Choco Fills 250g,packaged-food,breakfast-cereals,product-price-31803,finalPrice,₹175,product-price-31803,finalPrice,₹175
+1420,Spencers,30142,MTR 3 Minute Breakfast Vegetable Upma 60 g,packaged-food,breakfast-cereals,product-price-30142,finalPrice,₹20,product-price-30142,finalPrice,₹20
+1421,Spencers,26119,Kellogg's Strawberry Cornflakes 26g,packaged-food,breakfast-cereals,product-price-26119,finalPrice,₹10,product-price-26119,finalPrice,₹10
+1422,Spencers,26104,Kellogg's Chocos Fundoo Pack 12g,packaged-food,breakfast-cereals,product-price-26104,finalPrice,₹40,product-price-26104,finalPrice,₹40
+1423,Spencers,24960,Quaker Oats Jar 1kg,packaged-food,breakfast-cereals,product-price-24960,finalPrice,₹232,product-price-24960,finalPrice,₹232
+1424,Spencers,24857,Quaker Homestyle Masala Oats 40g,packaged-food,breakfast-cereals,product-price-24857,finalPrice,₹10,product-price-24857,finalPrice,₹10
+1425,Spencers,24720,Quaker Oats Refill Pack 1kg,packaged-food,breakfast-cereals,old-price-24720,oldPrice,₹190,product-price-24720,finalPrice,₹180
+1426,Spencers,23415,Soulfull Vanilla-Fills Flavoured Ragi Bites 100g,packaged-food,breakfast-cereals,product-price-23415,finalPrice,₹69,product-price-23415,finalPrice,₹69
+1427,Spencers,23167,Steel Cut Oats,packaged-food,breakfast-cereals,product-price-23167,finalPrice,₹500,product-price-23167,finalPrice,₹500
+1428,Spencers,23117,Soulfull Choco Fills (3N) and Vanilla Fills (3N) 6X25g,packaged-food,breakfast-cereals,product-price-23117,finalPrice,₹99,product-price-23117,finalPrice,₹99
+1429,Spencers,22237,Bagrry's Muesli Combo Pack 400g,packaged-food,breakfast-cereals,product-price-22237,finalPrice,₹359,product-price-22237,finalPrice,₹359
+1430,Spencers,22126,Soulfull Choco Fills Ragi Bites 100g,packaged-food,breakfast-cereals,product-price-22126,finalPrice,₹69,product-price-22126,finalPrice,₹69
+1431,Spencers,21899,Soulfull Strawberry-Fills Flavoured Ragi Bites 100g,packaged-food,breakfast-cereals,product-price-21899,finalPrice,₹69,product-price-21899,finalPrice,₹69
+1432,Spencers,21646,Gluten Free Museli,packaged-food,breakfast-cereals,product-price-21646,finalPrice,₹1320,product-price-21646,finalPrice,₹1320
+1433,Spencers,20347,Puffed Amaranth,packaged-food,breakfast-cereals,product-price-20347,finalPrice,₹400,product-price-20347,finalPrice,₹400
+1434,Spencers,18674,Kellogg's Oat Bites 450g,packaged-food,breakfast-cereals,product-price-18674,finalPrice,₹155,product-price-18674,finalPrice,₹155
+1435,Spencers,13789,Saffola Oats 1kg,packaged-food,breakfast-cereals,product-price-13789,finalPrice,₹199,product-price-13789,finalPrice,₹199
+1436,Spencers,13242,Quaker Oats Plus 300g,packaged-food,breakfast-cereals,product-price-13242,finalPrice,₹72,product-price-13242,finalPrice,₹72
+1437,Spencers,12390,Bagrry's Oats For Atta 500g,packaged-food,breakfast-cereals,product-price-12390,finalPrice,₹99,product-price-12390,finalPrice,₹99
+1438,Spencers,12376,Soulfull Choco-Fills Flavoured Ragi Bites 250g,packaged-food,breakfast-cereals,product-price-12376,finalPrice,₹169,product-price-12376,finalPrice,₹169
+1439,Spencers,12262,Saffola Masala Oats Peppy Tomato 400g,packaged-food,breakfast-cereals,old-price-12262,oldPrice,₹190,product-price-12262,finalPrice,₹165
+1440,Spencers,12261,Saffola Masala Oats Classic Masala 400g,packaged-food,breakfast-cereals,old-price-12261,oldPrice,₹190,product-price-12261,finalPrice,₹165
+1441,Spencers,12072,Saffola Masala Oats Peppy Tomato 40g,packaged-food,breakfast-cereals,product-price-12072,finalPrice,₹15,product-price-12072,finalPrice,₹15
+1442,Spencers,12071,Saffola Masala Oats Classic Masala 40g,packaged-food,breakfast-cereals,product-price-12071,finalPrice,₹15,product-price-12071,finalPrice,₹15
+1443,Spencers,11728,Kellogg's Chocos Duet 375g,packaged-food,breakfast-cereals,product-price-11728,finalPrice,₹180,product-price-11728,finalPrice,₹180
+1444,Spencers,11041,Gaia Crunchy Muesli Fruit & Nut 400g,packaged-food,breakfast-cereals,old-price-11041,oldPrice,₹230,product-price-11041,finalPrice,₹195
+1445,Spencers,11040,Gaia Crunchy Muesli Fruit And Nut 1kg,packaged-food,breakfast-cereals,old-price-11040,oldPrice,₹510,product-price-11040,finalPrice,₹433.50
+1446,Spencers,11039,Gaia Real Fruit Muesli 400g,packaged-food,breakfast-cereals,old-price-11039,oldPrice,₹240,product-price-11039,finalPrice,₹205
+1447,Spencers,9522,Kellogg's Oats Chocos Loops 350g,packaged-food,breakfast-cereals,product-price-9522,finalPrice,₹165,product-price-9522,finalPrice,₹165
+1448,Spencers,9388,Kellogg's Special K Protein & Fibre 445g,packaged-food,breakfast-cereals,product-price-9388,finalPrice,₹210,product-price-9388,finalPrice,₹210
+1449,Spencers,9365,Kellogg's Oats Shahi Kheer 39g,packaged-food,breakfast-cereals,product-price-9365,finalPrice,₹15,product-price-9365,finalPrice,₹15
+1450,Spencers,9122,Bagrry's Oats For Suji And Rava 200g,packaged-food,breakfast-cereals,product-price-9122,finalPrice,₹50,product-price-9122,finalPrice,₹50
+1451,Spencers,9069,Quaker Oats Plus 600g,packaged-food,breakfast-cereals,product-price-9069,finalPrice,₹145,product-price-9069,finalPrice,₹145
+1452,Spencers,9054,Saffola Masala Oats Veggie Twist 400g,packaged-food,breakfast-cereals,old-price-9054,oldPrice,₹190,product-price-9054,finalPrice,₹165
+1453,Spencers,9012,Kellogg's Muesli (No Added Sugar) 500g,packaged-food,breakfast-cereals,product-price-9012,finalPrice,₹315,product-price-9012,finalPrice,₹315
+1454,Spencers,36644,Del Monte Foodcraft Elbow Pasta 500g,packaged-food,pasta-noodles-and-soups,product-price-36644,finalPrice,₹110,product-price-36644,finalPrice,₹110
+1455,Spencers,35913,Spencer's Chinese Egg Noodle 150g,packaged-food,pasta-noodles-and-soups,product-price-35913,finalPrice,₹35,product-price-35913,finalPrice,₹35
+1456,Spencers,32895,Maggi Chicken Cuppa Noodle 67g,packaged-food,pasta-noodles-and-soups,product-price-32895,finalPrice,₹50,product-price-32895,finalPrice,₹50
+1457,Spencers,32875,Nissin Cup Noodles Rich Seafood Curry 70g,packaged-food,pasta-noodles-and-soups,product-price-32875,finalPrice,₹50,product-price-32875,finalPrice,₹50
+1458,Spencers,32791,Nissin Cup Noodles Rogan Josh Mutton Curry 70g,packaged-food,pasta-noodles-and-soups,product-price-32791,finalPrice,₹50,product-price-32791,finalPrice,₹50
+1459,Spencers,32720,Yippee Mood Masala Noodles 280g,packaged-food,pasta-noodles-and-soups,product-price-32720,finalPrice,₹55,product-price-32720,finalPrice,₹55
+1460,Spencers,32719,Yippee Mood Masala Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-32719,finalPrice,₹12,product-price-32719,finalPrice,₹12
+1461,Spencers,32650,Spencer's Chinese Veg Noodle 150g,packaged-food,pasta-noodles-and-soups,product-price-32650,finalPrice,₹34,product-price-32650,finalPrice,₹34
+1462,Spencers,31247,Licia Vokka Noodles 400g,packaged-food,pasta-noodles-and-soups,product-price-31247,finalPrice,₹42,product-price-31247,finalPrice,₹42
+1463,Spencers,26583,Ching's Manchow Instant Soup 30g,packaged-food,pasta-noodles-and-soups,product-price-26583,finalPrice,₹55,product-price-26583,finalPrice,₹55
+1464,Spencers,26582,Bambino Macaroni Springs 180g,packaged-food,pasta-noodles-and-soups,product-price-26582,finalPrice,₹20,product-price-26582,finalPrice,₹20
+1465,Spencers,26321,MTR Seviyan Vermicelli 875g,packaged-food,pasta-noodles-and-soups,product-price-26321,finalPrice,₹80,product-price-26321,finalPrice,₹80
+1466,Spencers,26085,MTR Rice Sevai 400g,packaged-food,pasta-noodles-and-soups,product-price-26085,finalPrice,₹50,product-price-26085,finalPrice,₹50
+1467,Spencers,26083,Wai Wai Chicken Flavoured Instant Noodles 65g,packaged-food,pasta-noodles-and-soups,product-price-26083,finalPrice,₹10,product-price-26083,finalPrice,₹10
+1468,Spencers,26082,Wai Wai Veg Masala Flavoured Instant Noodles 65g,packaged-food,pasta-noodles-and-soups,product-price-26082,finalPrice,₹10,product-price-26082,finalPrice,₹10
+1469,Spencers,26076,Bambino Roasted Vermicelli 170g,packaged-food,pasta-noodles-and-soups,product-price-26076,finalPrice,₹25,product-price-26076,finalPrice,₹25
+1470,Spencers,25869,Bambino Roasted Vermicelli 900g,packaged-food,pasta-noodles-and-soups,product-price-25869,finalPrice,₹95,product-price-25869,finalPrice,₹95
+1471,Spencers,25868,Bambino Roasted Vermicelli 400g,packaged-food,pasta-noodles-and-soups,product-price-25868,finalPrice,₹52,product-price-25868,finalPrice,₹52
+1472,Spencers,25867,Bambino Vermicelli Popular 400g,packaged-food,pasta-noodles-and-soups,product-price-25867,finalPrice,₹42,product-price-25867,finalPrice,₹42
+1473,Spencers,25866,Bambino Vermicelli Popular 160g,packaged-food,pasta-noodles-and-soups,product-price-25866,finalPrice,₹20,product-price-25866,finalPrice,₹20
+1474,Spencers,25865,Bambino Vermicelli 850g,packaged-food,pasta-noodles-and-soups,product-price-25865,finalPrice,₹75,product-price-25865,finalPrice,₹75
+1475,Spencers,24848,Wai Wai 1-2-3 Noodles 65g,packaged-food,pasta-noodles-and-soups,product-price-24848,finalPrice,₹35,product-price-24848,finalPrice,₹35
+1476,Spencers,24808,Nissin Top Ramen Fiery Chilli Masala Noodles 280g,packaged-food,pasta-noodles-and-soups,product-price-24808,finalPrice,₹60,product-price-24808,finalPrice,₹60
+1477,Spencers,24742,Sunfeast Yippee Magic Masala Noodles 280g,packaged-food,pasta-noodles-and-soups,product-price-24742,finalPrice,₹46,product-price-24742,finalPrice,₹46
+1478,Spencers,19492,Maggi Hotheads BBQ Pepper 284g,packaged-food,pasta-noodles-and-soups,product-price-19492,finalPrice,₹75,product-price-19492,finalPrice,₹75
+1479,Spencers,19491,Maggi Hotheads Peri Peri 284g,packaged-food,pasta-noodles-and-soups,product-price-19491,finalPrice,₹75,product-price-19491,finalPrice,₹75
+1480,Spencers,19374,Chef's Basket Schezwan Hakka Noodles 207g,packaged-food,pasta-noodles-and-soups,product-price-19374,finalPrice,₹75,product-price-19374,finalPrice,₹75
+1481,Spencers,19357,Chef's Basket Noodles Khow Suey 182g,packaged-food,pasta-noodles-and-soups,product-price-19357,finalPrice,₹75,product-price-19357,finalPrice,₹75
+1482,Spencers,13974,Sunfeast Sour Cream Onion Pasta 70g,packaged-food,pasta-noodles-and-soups,product-price-13974,finalPrice,₹25,product-price-13974,finalPrice,₹25
+1483,Spencers,13835,Knorr Noodle Chinese Hot N Spicy 140g,packaged-food,pasta-noodles-and-soups,product-price-13835,finalPrice,₹30,product-price-13835,finalPrice,₹30
+1484,Spencers,13834,Knorr Chinese Schezwan Noodles 140g (2 Pack),packaged-food,pasta-noodles-and-soups,product-price-13834,finalPrice,₹30,product-price-13834,finalPrice,₹30
+1485,Spencers,13175,Wai Wai Chicken Cup Noodles 65g,packaged-food,pasta-noodles-and-soups,product-price-13175,finalPrice,₹35,product-price-13175,finalPrice,₹35
+1486,Spencers,11113,Patanjali Atta Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-11113,finalPrice,₹15,product-price-11113,finalPrice,₹15
+1487,Spencers,10981,Sunfeast Yippee Magic Masala Noodles 35g,packaged-food,pasta-noodles-and-soups,product-price-10981,finalPrice,₹5,product-price-10981,finalPrice,₹5
+1488,Spencers,9635,Nilon's Cut Sewaiya 150g,packaged-food,pasta-noodles-and-soups,product-price-9635,finalPrice,₹15,product-price-9635,finalPrice,₹15
+1489,Spencers,8909,Maggi Cuppa Masala 70g,packaged-food,pasta-noodles-and-soups,product-price-8909,finalPrice,₹45,product-price-8909,finalPrice,₹45
+1490,Spencers,8902,Del Monte Gourmet Pasta Penne Rigate 500g,packaged-food,pasta-noodles-and-soups,product-price-8902,finalPrice,₹175,product-price-8902,finalPrice,₹175
+1491,Spencers,8901,Del Monte Quality Gourmet Pasta Spaghetti 500g,packaged-food,pasta-noodles-and-soups,product-price-8901,finalPrice,₹175,product-price-8901,finalPrice,₹175
+1492,Spencers,8892,Maggi Cuppa Chilly Chow 70g,packaged-food,pasta-noodles-and-soups,product-price-8892,finalPrice,₹45,product-price-8892,finalPrice,₹45
+1493,Spencers,8879,Ching's Secret Hot Garlic Instant Noodles 60g,packaged-food,pasta-noodles-and-soups,product-price-8879,finalPrice,₹15,product-price-8879,finalPrice,₹15
+1494,Spencers,7720,Knorr Cup-A-Soup Hot & Sour Veg 11g,packaged-food,pasta-noodles-and-soups,product-price-7720,finalPrice,₹10,product-price-7720,finalPrice,₹10
+1495,Spencers,7465,Nissin Spiced Chicken Cup Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-7465,finalPrice,₹45,product-price-7465,finalPrice,₹45
+1496,Spencers,7464,Nissin Veggi Manchow Cup Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-7464,finalPrice,₹45,product-price-7464,finalPrice,₹45
+1497,Spencers,7463,Nissin Mazedaar Masala Cup Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-7463,finalPrice,₹45,product-price-7463,finalPrice,₹45
+1498,Spencers,7240,Sunfeast Yippee Masala Tricolor Pasta 70g,packaged-food,pasta-noodles-and-soups,product-price-7240,finalPrice,₹25,product-price-7240,finalPrice,₹25
+1499,Spencers,7239,Sunfeast Yippee Creamy Corn Tricolor Pasta 70g,packaged-food,pasta-noodles-and-soups,product-price-7239,finalPrice,₹25,product-price-7239,finalPrice,₹25
+1500,Spencers,6438,Sunfeast Yippee Magic Masala Noodles 70g,packaged-food,pasta-noodles-and-soups,product-price-6438,finalPrice,₹10,product-price-6438,finalPrice,₹10
+1501,Spencers,6203,Del Monte Quality Chifferi Rigati Pasta 500g,packaged-food,pasta-noodles-and-soups,product-price-6203,finalPrice,₹175,product-price-6203,finalPrice,₹175
+1502,Spencers,6202,Del Monte Spirali Gourmet Pasta 500g,packaged-food,pasta-noodles-and-soups,product-price-6202,finalPrice,₹175,product-price-6202,finalPrice,₹175
+1503,Spencers,6176,Ching's Secret Hot Garlic Instant Noodles 240g,packaged-food,pasta-noodles-and-soups,product-price-6176,finalPrice,₹60,product-price-6176,finalPrice,₹60
+1504,Spencers,6174,Ching's Secret Schezwan Instant Noodles 240g,packaged-food,pasta-noodles-and-soups,product-price-6174,finalPrice,₹60,product-price-6174,finalPrice,₹60
+1505,Spencers,6083,Ching's Secret Manchurian Instant Noodles 60g,packaged-food,pasta-noodles-and-soups,product-price-6083,finalPrice,₹15,product-price-6083,finalPrice,₹15
+1506,Spencers,5668,Knorr Classic Mixed Vegetable Soup 45g,packaged-food,pasta-noodles-and-soups,product-price-5668,finalPrice,₹55,product-price-5668,finalPrice,₹55
+1507,Spencers,4612,MTR Seviyan Vermicelli 400g,packaged-food,pasta-noodles-and-soups,product-price-4612,finalPrice,₹42,product-price-4612,finalPrice,₹42
+1508,Spencers,4608,Nissin Top Ramen Chicken Instant Noodles 280g,packaged-food,pasta-noodles-and-soups,product-price-4608,finalPrice,₹60,product-price-4608,finalPrice,₹60
+1509,Spencers,4607,Top Ramen Curry Saucy Flat Noodles Veg 70g,packaged-food,pasta-noodles-and-soups,product-price-4607,finalPrice,₹20,product-price-4607,finalPrice,₹20
+1510,Spencers,5670,Knorr Sweet Corn Chicken Soup 42g,packaged-food,pasta-noodles-and-soups,product-price-5670,finalPrice,₹55,product-price-5670,finalPrice,₹55
+1511,Spencers,38493,Nature'S Treat Zestfl Berry 115G,packaged-food,ready-to-eat-ready-to-cook,product-price-38493,finalPrice,₹120,product-price-38493,finalPrice,₹120
+1512,Spencers,38488,Chandan Majestic Rose 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-38488,finalPrice,₹150,product-price-38488,finalPrice,₹150
+1513,Spencers,38487,Chandan Lush green 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-38487,finalPrice,₹150,product-price-38487,finalPrice,₹150
+1514,Spencers,38481,Nature'S Treat Nutri Pumpkin 75g,packaged-food,ready-to-eat-ready-to-cook,product-price-38481,finalPrice,₹130,product-price-38481,finalPrice,₹130
+1515,Spencers,37585,Dnv Shahi Masala Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-37585,finalPrice,₹95,product-price-37585,finalPrice,₹95
+1516,Spencers,37507,Druk Sweet Corn Cream style 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-37507,finalPrice,₹68,product-price-37507,finalPrice,₹68
+1517,Spencers,37070,Tasty Fresh Malabar Paratha 300g,packaged-food,ready-to-eat-ready-to-cook,product-price-37070,finalPrice,₹95,product-price-37070,finalPrice,₹95
+1518,Spencers,37069,Tasty Fresh Aloo Paratha 400g,packaged-food,ready-to-eat-ready-to-cook,product-price-37069,finalPrice,₹105,product-price-37069,finalPrice,₹105
+1519,Spencers,33707,Delmonte Dried Blueberries 130g,packaged-food,ready-to-eat-ready-to-cook,product-price-33707,finalPrice,₹430,product-price-33707,finalPrice,₹430
+1520,Spencers,33488,Slurrp Farm Millet Dosa Mix Supergrain and Spinach 150g,packaged-food,ready-to-eat-ready-to-cook,product-price-33488,finalPrice,₹89,product-price-33488,finalPrice,₹89
+1521,Spencers,33487,Slurrp Farm Millet Dosa Mix Supergrains and Beetroot 150g,packaged-food,ready-to-eat-ready-to-cook,product-price-33487,finalPrice,₹89,product-price-33487,finalPrice,₹89
+1522,Spencers,32092,Yippee Magic Masala Noodles 360g-420g,packaged-food,ready-to-eat-ready-to-cook,product-price-32092,finalPrice,₹68,product-price-32092,finalPrice,₹68
+1523,Spencers,31727,Natures Treat Banarasi Aloo Papad Chaat Masala 140g,packaged-food,ready-to-eat-ready-to-cook,product-price-31727,finalPrice,₹180,product-price-31727,finalPrice,₹180
+1524,Spencers,31281,Ambika Appalam/Papad 500g,packaged-food,ready-to-eat-ready-to-cook,product-price-31281,finalPrice,₹157,product-price-31281,finalPrice,₹157
+1525,Spencers,30924,MTR Instant Ragi Dosa Breakfast Mix 500g,packaged-food,ready-to-eat-ready-to-cook,product-price-30924,finalPrice,₹88,product-price-30924,finalPrice,₹88
+1526,Spencers,26881,Ta-Daa Boiled Sweet Corn Kernels with Lemon & Pepper Masala 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-26881,finalPrice,₹49,product-price-26881,finalPrice,₹49
+1527,Spencers,26538,DNV Plain Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-26538,finalPrice,₹72,product-price-26538,finalPrice,₹72
+1528,Spencers,26212,Del Monte Pineapple Slices 836g,packaged-food,ready-to-eat-ready-to-cook,product-price-26212,finalPrice,₹190,product-price-26212,finalPrice,₹190
+1529,Spencers,26114,Mother's Recipe Sabudana Papad 75g,packaged-food,ready-to-eat-ready-to-cook,product-price-26114,finalPrice,₹27,product-price-26114,finalPrice,₹27
+1530,Spencers,26084,Mother's Recipe Potato Papad 75g,packaged-food,ready-to-eat-ready-to-cook,product-price-26084,finalPrice,₹27,product-price-26084,finalPrice,₹27
+1531,Spencers,25388,Shiv Shakti's Mini Sabudana Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-25388,finalPrice,₹57,product-price-25388,finalPrice,₹57
+1532,Spencers,25387,Shiv Shakti's Plain Potato Papad 100g,packaged-food,ready-to-eat-ready-to-cook,product-price-25387,finalPrice,₹32,product-price-25387,finalPrice,₹32
+1533,Spencers,24773,Pillsbury Instant Rava Idli Mix 500g,packaged-food,ready-to-eat-ready-to-cook,product-price-24773,finalPrice,₹88,product-price-24773,finalPrice,₹88
+1534,Spencers,23566,Vegit Hara Bhara Kebab Mix 120g,packaged-food,ready-to-eat-ready-to-cook,product-price-23566,finalPrice,₹70,product-price-23566,finalPrice,₹70
+1535,Spencers,23404,Vegit Aloo Mash 1kg,packaged-food,ready-to-eat-ready-to-cook,product-price-23404,finalPrice,₹140,product-price-23404,finalPrice,₹140
+1536,Spencers,23357,Vegit Pav Bhaji Mix 100g,packaged-food,ready-to-eat-ready-to-cook,product-price-23357,finalPrice,₹70,product-price-23357,finalPrice,₹70
+1537,Spencers,23354,Vegit Cheese Balls Mix 120g,packaged-food,ready-to-eat-ready-to-cook,product-price-23354,finalPrice,₹70,product-price-23354,finalPrice,₹70
+1538,Spencers,23352,Vegit Aloo Mash 400g,packaged-food,ready-to-eat-ready-to-cook,product-price-23352,finalPrice,₹70,product-price-23352,finalPrice,₹70
+1539,Spencers,23351,Vegit Aloo Mash 120g,packaged-food,ready-to-eat-ready-to-cook,product-price-23351,finalPrice,₹25,product-price-23351,finalPrice,₹25
+1540,Spencers,21542,Whole Foods Oats Idli Mix 500g,packaged-food,ready-to-eat-ready-to-cook,product-price-21542,finalPrice,₹135,product-price-21542,finalPrice,₹135
+1541,Spencers,20348,Golden Crown Cream Style Corn Soup 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-20348,finalPrice,₹50,product-price-20348,finalPrice,₹50
+1542,Spencers,20346,Whole Black Olive Stuffed,packaged-food,ready-to-eat-ready-to-cook,product-price-20346,finalPrice,₹315,product-price-20346,finalPrice,₹315
+1543,Spencers,20322,Gits South Indian Breakfast Kit 640g,packaged-food,ready-to-eat-ready-to-cook,product-price-20322,finalPrice,₹115,product-price-20322,finalPrice,₹115
+1544,Spencers,20309,Shiv Shakti's Sabudana Kurdai Papad 100g,packaged-food,ready-to-eat-ready-to-cook,product-price-20309,finalPrice,₹44,product-price-20309,finalPrice,₹44
+1545,Spencers,20179,Shiv Shakti's Soyabean Vaddi 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-20179,finalPrice,₹42,product-price-20179,finalPrice,₹42
+1546,Spencers,20178,Shiv Shakti's Bulbul Fryums 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-20178,finalPrice,₹30,product-price-20178,finalPrice,₹30
+1547,Spencers,19925,Golden Crown Beans In Tomato Sauce 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-19925,finalPrice,₹60,product-price-19925,finalPrice,₹60
+1548,Spencers,19884,Shiv Shakti's Potato Papad Plain 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19884,finalPrice,₹62,product-price-19884,finalPrice,₹62
+1549,Spencers,19815,MTR Instant Multigrain Dosa Mix 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19815,finalPrice,₹63,product-price-19815,finalPrice,₹63
+1550,Spencers,19669,Keventers Veg Cheese Corn Bite 400g,packaged-food,ready-to-eat-ready-to-cook,old-price-19669,oldPrice,₹215,product-price-19669,finalPrice,₹195
+1551,Spencers,19570,Shiv Shakti's Jali Fryums 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19570,finalPrice,₹28,product-price-19570,finalPrice,₹28
+1552,Spencers,19566,Vijaya ABCD Cuts Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19566,finalPrice,₹50,product-price-19566,finalPrice,₹50
+1553,Spencers,19444,Knorr Chicken Masaledar Rolls and Wraps Mix 50g,packaged-food,ready-to-eat-ready-to-cook,product-price-19444,finalPrice,₹50,product-price-19444,finalPrice,₹50
+1554,Spencers,19425,Punjab Di Rasoi Ready Marinade For Chicken Tikka 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19425,finalPrice,₹65,product-price-19425,finalPrice,₹65
+1555,Spencers,19396,Del Monte Pitted Black Olives 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-19396,finalPrice,₹190,product-price-19396,finalPrice,₹190
+1556,Spencers,19395,Del Monte Plain Green Olives 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-19395,finalPrice,₹190,product-price-19395,finalPrice,₹190
+1557,Spencers,19266,DNV Punjabi Masala Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19266,finalPrice,₹85,product-price-19266,finalPrice,₹85
+1558,Spencers,19265,DNV Masala Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-19265,finalPrice,₹75,product-price-19265,finalPrice,₹75
+1559,Spencers,19264,DNV Papad Sabudana 100g,packaged-food,ready-to-eat-ready-to-cook,product-price-19264,finalPrice,₹50,product-price-19264,finalPrice,₹50
+1560,Spencers,19190,Whole Foods Moong Dal Flour Idli Mix 500g,packaged-food,ready-to-eat-ready-to-cook,product-price-19190,finalPrice,₹135,product-price-19190,finalPrice,₹135
+1561,Spencers,19121,Keventer Lachha Paratha 400g,packaged-food,ready-to-eat-ready-to-cook,product-price-19121,finalPrice,₹130,product-price-19121,finalPrice,₹130
+1562,Spencers,19107,Keventer Malabar Paratha 400g,packaged-food,ready-to-eat-ready-to-cook,product-price-19107,finalPrice,₹130,product-price-19107,finalPrice,₹130
+1563,Spencers,18989,DNV Special Papad  Masala 100g,packaged-food,ready-to-eat-ready-to-cook,product-price-18989,finalPrice,₹30,product-price-18989,finalPrice,₹30
+1564,Spencers,18988,DNV D'Lite Masala Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-18988,finalPrice,₹85,product-price-18988,finalPrice,₹85
+1565,Spencers,18986,DNV Special Small Masala Papad 200g,packaged-food,ready-to-eat-ready-to-cook,product-price-18986,finalPrice,₹95,product-price-18986,finalPrice,₹95
+1566,Spencers,18900,Chokhi Dhani Gatta Curry 300g,packaged-food,ready-to-eat-ready-to-cook,product-price-18900,finalPrice,₹95,product-price-18900,finalPrice,₹95
+1567,Spencers,18868,DNV Sago Papad 480g,packaged-food,ready-to-eat-ready-to-cook,product-price-18868,finalPrice,₹170,product-price-18868,finalPrice,₹170
+1568,Spencers,18796,Gits Khichadi Mix 250g,packaged-food,ready-to-eat-ready-to-cook,product-price-18796,finalPrice,₹45,product-price-18796,finalPrice,₹45
+1569,Spencers,18171,Druk Baked Beans in Tomato Sauce 450g,packaged-food,ready-to-eat-ready-to-cook,product-price-18171,finalPrice,₹85,product-price-18171,finalPrice,₹85
+1570,Spencers,18057,Golden Crown Pineapple Tidbits 840g,packaged-food,ready-to-eat-ready-to-cook,product-price-18057,finalPrice,₹95,product-price-18057,finalPrice,₹95
+1571,Spencers,39283,Healthy Alternative Natural Apple Cider 500ml,packaged-food,sauces-seasonings,product-price-39283,finalPrice,₹450,product-price-39283,finalPrice,₹450
+1572,Spencers,37815,Wingreens Barbeque Mayo 130g,packaged-food,sauces-seasonings,product-price-37815,finalPrice,₹119,product-price-37815,finalPrice,₹119
+1573,Spencers,37814,Wingreens Mint Mayo 130g,packaged-food,sauces-seasonings,product-price-37814,finalPrice,₹119,product-price-37814,finalPrice,₹119
+1574,Spencers,37812,Wingreens Italian Herb Mayo 130g,packaged-food,sauces-seasonings,product-price-37812,finalPrice,₹119,product-price-37812,finalPrice,₹119
+1575,Spencers,37811,Wingreens Wasabi Mayo 130g,packaged-food,sauces-seasonings,product-price-37811,finalPrice,₹119,product-price-37811,finalPrice,₹119
+1576,Spencers,37810,Wingreens Sriracha Mayo 130g,packaged-food,sauces-seasonings,product-price-37810,finalPrice,₹119,product-price-37810,finalPrice,₹119
+1577,Spencers,37809,Wingreens garlic Mayo (Aioli) 130g,packaged-food,sauces-seasonings,product-price-37809,finalPrice,₹119,product-price-37809,finalPrice,₹119
+1578,Spencers,37808,Wingreens Premium Veg Mayo 130g,packaged-food,sauces-seasonings,product-price-37808,finalPrice,₹119,product-price-37808,finalPrice,₹119
+1579,Spencers,36140,Wingreens Green Daredevil Chili Sauce 100g,packaged-food,sauces-seasonings,product-price-36140,finalPrice,₹99,product-price-36140,finalPrice,₹99
+1580,Spencers,36139,Wingreens Bhut Sriracha Sauce 100g,packaged-food,sauces-seasonings,product-price-36139,finalPrice,₹99,product-price-36139,finalPrice,₹99
+1581,Spencers,36138,Wingreens Peri Peri Ketchup 100g,packaged-food,sauces-seasonings,product-price-36138,finalPrice,₹99,product-price-36138,finalPrice,₹99
+1582,Spencers,33177,Mother's Recipe Delhi Chaat Chutney 370g,packaged-food,sauces-seasonings,product-price-33177,finalPrice,₹45,product-price-33177,finalPrice,₹45
+1583,Spencers,32920,Veeba Eggless Mayonnaise Pouch 100g,packaged-food,sauces-seasonings,product-price-32920,finalPrice,₹34,product-price-32920,finalPrice,₹34
+1584,Spencers,32838,Veeba Peanut Butter Creamy 340g,packaged-food,sauces-seasonings,product-price-32838,finalPrice,₹154,product-price-32838,finalPrice,₹154
+1585,Spencers,32761,Wingreens Sweet Chilli Garlic Sauce 100g,packaged-food,sauces-seasonings,product-price-32761,finalPrice,₹99,product-price-32761,finalPrice,₹99
+1586,Spencers,32760,Wingreens Cheesy Sauce 100g,packaged-food,sauces-seasonings,product-price-32760,finalPrice,₹99,product-price-32760,finalPrice,₹99
+1587,Spencers,32757,Wingreens Farms Chinese Schezwan Chilli Garlic Sauce 100g,packaged-food,sauces-seasonings,product-price-32757,finalPrice,₹99,product-price-32757,finalPrice,₹99
+1588,Spencers,32679,Veeba Garlic Mayonnaise 280g,packaged-food,sauces-seasonings,product-price-32679,finalPrice,₹69,product-price-32679,finalPrice,₹69
+1589,Spencers,32641,Sundrop Peanut Butter Crunchy 924g,packaged-food,sauces-seasonings,product-price-32641,finalPrice,₹285,product-price-32641,finalPrice,₹285
+1590,Spencers,32640,Sundrop Peanut Butter Creamy 924g,packaged-food,sauces-seasonings,product-price-32640,finalPrice,₹285,product-price-32640,finalPrice,₹285
+1591,Spencers,32561,Elmac Synthetic Vinegar 700ml,packaged-food,sauces-seasonings,product-price-32561,finalPrice,₹48,product-price-32561,finalPrice,₹48
+1592,Spencers,29514,Smith & Jones Tomato Ketchup 1kg,packaged-food,sauces-seasonings,product-price-29514,finalPrice,₹125,product-price-29514,finalPrice,₹125
+1593,Spencers,29289,Kissan Fresh Tomato Ketchup 950g,packaged-food,sauces-seasonings,product-price-29289,finalPrice,₹130,product-price-29289,finalPrice,₹130
+1594,Spencers,25392,Nutty Gift Pack 6 U (units),packaged-food,sauces-seasonings,product-price-25392,finalPrice,₹825,product-price-25392,finalPrice,₹825
+1595,Spencers,24844,Fun Foods Peanut Butter Crunchy 340g,packaged-food,sauces-seasonings,product-price-24844,finalPrice,₹159,product-price-24844,finalPrice,₹159
+1596,Spencers,24783,Sundrop Peanut Butter Honey Roasted Creamy 200g,packaged-food,sauces-seasonings,product-price-24783,finalPrice,₹100,product-price-24783,finalPrice,₹100
+1597,Spencers,23323,Pillsbury Choco Spread 350g,packaged-food,sauces-seasonings,product-price-23323,finalPrice,₹210,product-price-23323,finalPrice,₹210
+1598,Spencers,21875,Pillsbury Choco Spread 180g,packaged-food,sauces-seasonings,product-price-21875,finalPrice,₹135,product-price-21875,finalPrice,₹135
+1599,Spencers,21512,Tai Green Chilli Sauce 700g,packaged-food,sauces-seasonings,product-price-21512,finalPrice,₹60,product-price-21512,finalPrice,₹60
+1600,Spencers,21491,Sundrop Peanut Butter Creamy Pouch 30g,packaged-food,sauces-seasonings,product-price-21491,finalPrice,₹30,product-price-21491,finalPrice,₹30
+1601,Spencers,19555,Cremica Sandwich Spread 450g,packaged-food,sauces-seasonings,product-price-19555,finalPrice,₹138,product-price-19555,finalPrice,₹138
+1602,Spencers,18983,DNV Non Fruit Vinegar 350ml,packaged-food,sauces-seasonings,product-price-18983,finalPrice,₹37,product-price-18983,finalPrice,₹37
+1603,Spencers,18817,Funfoods Pasta Lite Salad Dressing 260g,packaged-food,sauces-seasonings,product-price-18817,finalPrice,₹69,product-price-18817,finalPrice,₹69
+1604,Spencers,18138,Ching's Secret Chilli Vinegar 170ml,packaged-food,sauces-seasonings,product-price-18138,finalPrice,₹45,product-price-18138,finalPrice,₹45
+1605,Spencers,13040,Dr.Oetker FunFoods Mayonnaise Veg 875g,packaged-food,sauces-seasonings,product-price-13040,finalPrice,₹159,product-price-13040,finalPrice,₹159
+1606,Spencers,12897,Nutty Schezwan Chutney 250g,packaged-food,sauces-seasonings,old-price-12897,oldPrice,₹60,product-price-12897,finalPrice,₹50
+1607,Spencers,12630,Veeba Thousand Island Dressing 300g,packaged-food,sauces-seasonings,product-price-12630,finalPrice,₹129,product-price-12630,finalPrice,₹129
+1608,Spencers,12626,Veeba Chipotle Southwest Dressing 300g,packaged-food,sauces-seasonings,product-price-12626,finalPrice,₹149,product-price-12626,finalPrice,₹149
+1609,Spencers,12623,Veeba Sweet Chilli Sauce 350g,packaged-food,sauces-seasonings,product-price-12623,finalPrice,₹109,product-price-12623,finalPrice,₹109
+1610,Spencers,12622,Veeba Barbeque Sauce 330g,packaged-food,sauces-seasonings,product-price-12622,finalPrice,₹129,product-price-12622,finalPrice,₹129
+1611,Spencers,11267,Fun Foods Eggless Garlic Mayonnaise 275g,packaged-food,sauces-seasonings,product-price-11267,finalPrice,₹69,product-price-11267,finalPrice,₹69
+1612,Spencers,9444,Kissan No Onion No Garlic Ketchup 450g,packaged-food,sauces-seasonings,product-price-9444,finalPrice,₹101,product-price-9444,finalPrice,₹101
+1613,Spencers,9282,New Nutty Peanut Butter Creamy 340g,packaged-food,sauces-seasonings,old-price-9282,oldPrice,₹170,product-price-9282,finalPrice,₹145
+1614,Spencers,9236,Maggi Hot & Sweet Tomato Chilli Sauce 90g,packaged-food,sauces-seasonings,product-price-9236,finalPrice,₹20,product-price-9236,finalPrice,₹20
+1615,Spencers,9192,Fun Foods Eggless Mayonnaise 100g,packaged-food,sauces-seasonings,product-price-9192,finalPrice,₹35,product-price-9192,finalPrice,₹35
+1616,Spencers,8722,Fun Foods Eggless Mayonnaise 275g,packaged-food,sauces-seasonings,product-price-8722,finalPrice,₹69,product-price-8722,finalPrice,₹69
+1617,Spencers,8680,Fun Foods Eggless Burger Mayonnaise 275g,packaged-food,sauces-seasonings,product-price-8680,finalPrice,₹69,product-price-8680,finalPrice,₹69
+1618,Spencers,7929,Sundrop Crunchy Peanut Butter 462g,packaged-food,sauces-seasonings,product-price-7929,finalPrice,₹215,product-price-7929,finalPrice,₹215
+1619,Spencers,7551,Sundrop Honey Roast Crunchy Peanut Butter Jar 200g,packaged-food,sauces-seasonings,product-price-7551,finalPrice,₹100,product-price-7551,finalPrice,₹100
+1620,Spencers,7540,Ching's Secret Green Chilli Sauce 90g,packaged-food,sauces-seasonings,product-price-7540,finalPrice,₹20,product-price-7540,finalPrice,₹20
+1621,Spencers,7499,Del Monte Eggless Mayonnaise 900g,packaged-food,sauces-seasonings,product-price-7499,finalPrice,₹180,product-price-7499,finalPrice,₹180
+1622,Spencers,7224,Kissan Twist Sweet & Spicy Sauce 200g,packaged-food,sauces-seasonings,product-price-7224,finalPrice,₹65,product-price-7224,finalPrice,₹65
+1623,Spencers,7160,Del Monte Tomato Ketchup 1Kg,packaged-food,sauces-seasonings,product-price-7160,finalPrice,₹130,product-price-7160,finalPrice,₹130
+1624,Spencers,6706,Kissan Twist Sweet & Spicy Sauce 500g,packaged-food,sauces-seasonings,product-price-6706,finalPrice,₹105,product-price-6706,finalPrice,₹105
+1625,Spencers,6330,Spencer's Smart Choice Non-Fruit Vinegar 170ml,packaged-food,sauces-seasonings,product-price-6330,finalPrice,₹45,product-price-6330,finalPrice,₹45
+1626,Spencers,6172,Kissan Squeezo Fresh Tomato Ketchup 450g,packaged-food,sauces-seasonings,product-price-6172,finalPrice,₹105,product-price-6172,finalPrice,₹105
+1627,Spencers,6164,Sundrop Peanut Butter Crunchy 462g,packaged-food,sauces-seasonings,old-price-6164,oldPrice,₹215,product-price-6164,finalPrice,₹199
+1628,Spencers,6163,Sundrop Peanut Butter Creamy 462g,packaged-food,sauces-seasonings,old-price-6163,oldPrice,₹215,product-price-6163,finalPrice,₹199
+1629,Spencers,6077,Spencer's Smart Choice Hot & Sweet Sauce 350g,packaged-food,sauces-seasonings,product-price-6077,finalPrice,₹65,product-price-6077,finalPrice,₹65
+1630,Spencers,6076,Spencer's Smart Choice Kasundi 200g,packaged-food,sauces-seasonings,product-price-6076,finalPrice,₹38,product-price-6076,finalPrice,₹38
+1631,Spencers,39264,Healthy Alternative Floral Honey 300g,packaged-food,pickle-chutneys-honey-jams,product-price-39264,finalPrice,₹335,product-price-39264,finalPrice,₹335
+1632,Spencers,39262,Healthy Alternative Tulsi Honey 300g,packaged-food,pickle-chutneys-honey-jams,product-price-39262,finalPrice,₹335,product-price-39262,finalPrice,₹335
+1633,Spencers,38373,Apis  Mixed Fruit Jam Bogo 450g,packaged-food,pickle-chutneys-honey-jams,product-price-38373,finalPrice,₹140,product-price-38373,finalPrice,₹140
+1634,Spencers,38249,Kitchens Of India Tomato and Chilli Chutney 300g,packaged-food,pickle-chutneys-honey-jams,product-price-38249,finalPrice,₹140,product-price-38249,finalPrice,₹140
+1635,Spencers,32714,Organic India Organic Wild Forest Honey 250g,packaged-food,pickle-chutneys-honey-jams,product-price-32714,finalPrice,₹195,product-price-32714,finalPrice,₹195
+1636,Spencers,31691,Kitchens of India Fruit & Spices Conserve Mango & Saffron 320g,packaged-food,pickle-chutneys-honey-jams,product-price-31691,finalPrice,₹140,product-price-31691,finalPrice,₹140
+1637,Spencers,29297,Twin Birds Fish Thokku 300g,packaged-food,pickle-chutneys-honey-jams,product-price-29297,finalPrice,₹125,product-price-29297,finalPrice,₹125
+1638,Spencers,28652,Mother's Ginger Pickle 300g,packaged-food,pickle-chutneys-honey-jams,product-price-28652,finalPrice,₹82,product-price-28652,finalPrice,₹82
+1639,Spencers,28302,Aachi Mixed Veg Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-28302,finalPrice,₹199,product-price-28302,finalPrice,₹199
+1640,Spencers,26725,Kissan Mango Jam 188g,packaged-food,pickle-chutneys-honey-jams,product-price-26725,finalPrice,₹75,product-price-26725,finalPrice,₹75
+1641,Spencers,26702,Mothers Stuffed Red Chilli Pickle 950g,packaged-food,pickle-chutneys-honey-jams,product-price-26702,finalPrice,₹38,product-price-26702,finalPrice,₹38
+1642,Spencers,23743,Lune De Miel Organic Acacia Honey 250g,packaged-food,pickle-chutneys-honey-jams,product-price-23743,finalPrice,₹1055,product-price-23743,finalPrice,₹1055
+1643,Spencers,23344,Kitchens of India Shredded Mango Chutney 325g,packaged-food,pickle-chutneys-honey-jams,product-price-23344,finalPrice,₹140,product-price-23344,finalPrice,₹140
+1644,Spencers,21841,Dabur Honey Fruit Spread Pulpy Plum Flavour 370g,packaged-food,pickle-chutneys-honey-jams,product-price-21841,finalPrice,₹270,product-price-21841,finalPrice,₹270
+1645,Spencers,21735,Kitchens of India Apple & Cinnamon Fruit & Spice Conserve 330g,packaged-food,pickle-chutneys-honey-jams,product-price-21735,finalPrice,₹90,product-price-21735,finalPrice,₹90
+1646,Spencers,21487,Sakura Fresh Jamun Blossom Honey 200ml,packaged-food,pickle-chutneys-honey-jams,product-price-21487,finalPrice,₹503,product-price-21487,finalPrice,₹503
+1647,Spencers,21486,Sakura Fresh Lychee Blossom Honey 200ml,packaged-food,pickle-chutneys-honey-jams,product-price-21486,finalPrice,₹482,product-price-21486,finalPrice,₹482
+1648,Spencers,20224,Hintz Pure Bee Honey 500g,packaged-food,pickle-chutneys-honey-jams,product-price-20224,finalPrice,₹775,product-price-20224,finalPrice,₹775
+1649,Spencers,20223,Mother's Recipe Stuffed Green Chilly Pickle Packet 200g,packaged-food,pickle-chutneys-honey-jams,product-price-20223,finalPrice,₹46,product-price-20223,finalPrice,₹46
+1650,Spencers,20137,Druk Guava Jelly 500g,packaged-food,pickle-chutneys-honey-jams,product-price-20137,finalPrice,₹117,product-price-20137,finalPrice,₹117
+1651,Spencers,19699,DNV Mixed Pickle 200g,packaged-food,pickle-chutneys-honey-jams,product-price-19699,finalPrice,₹50,product-price-19699,finalPrice,₹50
+1652,Spencers,19685,Sugar Free Orange Marmalade 300g,packaged-food,pickle-chutneys-honey-jams,product-price-19685,finalPrice,₹210,product-price-19685,finalPrice,₹210
+1653,Spencers,19556,VLCC Slimmers Honey Dietary Supplement 225g,packaged-food,pickle-chutneys-honey-jams,product-price-19556,finalPrice,₹110,product-price-19556,finalPrice,₹110
+1654,Spencers,18984,DNV Mixed Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-18984,finalPrice,₹99,product-price-18984,finalPrice,₹99
+1655,Spencers,18977,DNV Mango Pickle 200g,packaged-food,pickle-chutneys-honey-jams,product-price-18977,finalPrice,₹50,product-price-18977,finalPrice,₹50
+1656,Spencers,18973,DNV Green Chilly Pickle 200g,packaged-food,pickle-chutneys-honey-jams,product-price-18973,finalPrice,₹50,product-price-18973,finalPrice,₹50
+1657,Spencers,18972,DNV Mango Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-18972,finalPrice,₹99,product-price-18972,finalPrice,₹99
+1658,Spencers,18828,Pure & Sure Organic Honey 250g,packaged-food,pickle-chutneys-honey-jams,product-price-18828,finalPrice,₹149,product-price-18828,finalPrice,₹149
+1659,Spencers,18789,Mum's Pickle Mango Mix 2x500g,packaged-food,pickle-chutneys-honey-jams,product-price-18789,finalPrice,₹120,product-price-18789,finalPrice,₹120
+1660,Spencers,18787,Mum's Mango Jam 500g + Mix Fruit Jam 500g,packaged-food,pickle-chutneys-honey-jams,product-price-18787,finalPrice,₹160,product-price-18787,finalPrice,₹160
+1661,Spencers,18449,Daadi's Methi Chutney Powder 100g,packaged-food,pickle-chutneys-honey-jams,product-price-18449,finalPrice,₹45,product-price-18449,finalPrice,₹45
+1662,Spencers,18201,Mother's Recipe Rajasthani Sweet Lime Pickle 350g,packaged-food,pickle-chutneys-honey-jams,product-price-18201,finalPrice,₹89,product-price-18201,finalPrice,₹89
+1663,Spencers,18199,Mother's Recipe Stuffed Red Chilli Pickle 200g,packaged-food,pickle-chutneys-honey-jams,product-price-18199,finalPrice,₹52,product-price-18199,finalPrice,₹52
+1664,Spencers,14032,Aachi Garlic Pickle 300g,packaged-food,pickle-chutneys-honey-jams,product-price-14032,finalPrice,₹75,product-price-14032,finalPrice,₹75
+1665,Spencers,14031,Aachi Mixed Veg Pickle 300g,packaged-food,pickle-chutneys-honey-jams,product-price-14031,finalPrice,₹65,product-price-14031,finalPrice,₹65
+1666,Spencers,13570,Tops Mango Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-13570,finalPrice,₹130,product-price-13570,finalPrice,₹130
+1667,Spencers,12675,Nature's Treat Sweet and Sour Black Lime in Sugarcane Juice Pickle 125g,packaged-food,pickle-chutneys-honey-jams,product-price-12675,finalPrice,₹85,product-price-12675,finalPrice,₹85
+1668,Spencers,12674,Nature's Treat Amba Kachi Haldi Pickle 110g,packaged-food,pickle-chutneys-honey-jams,product-price-12674,finalPrice,₹85,product-price-12674,finalPrice,₹85
+1669,Spencers,12673,Nature's Treat Bharwa Lal Mirch Pickle 110g,packaged-food,pickle-chutneys-honey-jams,product-price-12673,finalPrice,₹100,product-price-12673,finalPrice,₹100
+1670,Spencers,12672,Nature's Treat Peppermint Garlic Pickle 135g,packaged-food,pickle-chutneys-honey-jams,product-price-12672,finalPrice,₹100,product-price-12672,finalPrice,₹100
+1671,Spencers,12670,Nature's Treat Tomato Garlic Multipurpose Chutney 110g,packaged-food,pickle-chutneys-honey-jams,product-price-12670,finalPrice,₹100,product-price-12670,finalPrice,₹100
+1672,Spencers,11983,Mothers' Recipe Mixed Pickle Packet 500g,packaged-food,pickle-chutneys-honey-jams,product-price-11983,finalPrice,₹145,product-price-11983,finalPrice,₹145
+1673,Spencers,11919,Tops Tangy Lime Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-11919,finalPrice,₹195,product-price-11919,finalPrice,₹195
+1674,Spencers,11582,Tops Sweet Lime Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-11582,finalPrice,₹130,product-price-11582,finalPrice,₹130
+1675,Spencers,11581,Tops Mixed Pickle 1Kg,packaged-food,pickle-chutneys-honey-jams,product-price-11581,finalPrice,₹210,product-price-11581,finalPrice,₹210
+1676,Spencers,11402,Nilon's Garlic Pickle 200g,packaged-food,pickle-chutneys-honey-jams,product-price-11402,finalPrice,₹45,product-price-11402,finalPrice,₹45
+1677,Spencers,11276,Mother's Recipe Gujarati Choondo Pickle 500g,packaged-food,pickle-chutneys-honey-jams,product-price-11276,finalPrice,₹125,product-price-11276,finalPrice,₹125
+1678,Spencers,11272,Mother's Recipe Punjabi Mango Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-11272,finalPrice,₹50,product-price-11272,finalPrice,₹50
+1679,Spencers,11270,Mother's Recipe Green Chilli Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-11270,finalPrice,₹105,product-price-11270,finalPrice,₹105
+1680,Spencers,11269,Mother's Recipe Garlic Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-11269,finalPrice,₹110,product-price-11269,finalPrice,₹110
+1681,Spencers,10647,Aachi Cut Mango Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-10647,finalPrice,₹150,product-price-10647,finalPrice,₹150
+1682,Spencers,10616,Twin Birds Prawn Curry 280g,packaged-food,pickle-chutneys-honey-jams,product-price-10616,finalPrice,₹125,product-price-10616,finalPrice,₹125
+1683,Spencers,10531,Aachi Garlic Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-10531,finalPrice,₹160,product-price-10531,finalPrice,₹160
+1684,Spencers,10152,Aachi Mango Avakkai Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-10152,finalPrice,₹199,product-price-10152,finalPrice,₹199
+1685,Spencers,10117,Twin Birds Prawn Pickles 300g,packaged-food,pickle-chutneys-honey-jams,product-price-10117,finalPrice,₹125,product-price-10117,finalPrice,₹125
+1686,Spencers,10113,Mother's Recipe Lime Pickle 400g,packaged-food,pickle-chutneys-honey-jams,product-price-10113,finalPrice,₹105,product-price-10113,finalPrice,₹105
+1687,Spencers,9661,Aachi Mango Thokku Pickle 1kg,packaged-food,pickle-chutneys-honey-jams,product-price-9661,finalPrice,₹199,product-price-9661,finalPrice,₹199
+1688,Spencers,9432,Twin Birds Chicken Pickles 300g,packaged-food,pickle-chutneys-honey-jams,product-price-9432,finalPrice,₹125,product-price-9432,finalPrice,₹125
+1689,Spencers,9420,Mother's Recipe Mixed Pickle Packet 200g,packaged-food,pickle-chutneys-honey-jams,product-price-9420,finalPrice,₹47,product-price-9420,finalPrice,₹47
+1690,Spencers,9418,Mother's Recipe Andhra Avakaya Pickle 300g,packaged-food,pickle-chutneys-honey-jams,product-price-9418,finalPrice,₹82,product-price-9418,finalPrice,₹82
+1691,Spencers,25881,MTR Gulab Jamun Mix 190G,packaged-food,baking,product-price-25881,finalPrice,₹65,product-price-25881,finalPrice,₹65
+1692,Spencers,13812,Shellys Payesh 250g,packaged-food,baking,product-price-13812,finalPrice,₹120,product-price-13812,finalPrice,₹120
+1693,Spencers,9055,Betty Crocker No Bake Cheesecake Mix 360g,packaged-food,baking,product-price-9055,finalPrice,₹285,product-price-9055,finalPrice,₹285
+1694,Spencers,8936,Hershey's Chocolate Syrup 623g,packaged-food,baking,product-price-8936,finalPrice,₹200,product-price-8936,finalPrice,₹200
+1695,Spencers,8037,Hershey's Chocolate Syrup 200g,packaged-food,baking,product-price-8037,finalPrice,₹90,product-price-8037,finalPrice,₹90
+1696,Spencers,7458,Pillsbury Fridge Cheesecake Strawberry Mix 165g,packaged-food,baking,product-price-7458,finalPrice,₹150,product-price-7458,finalPrice,₹150
+1697,Spencers,7457,Pillsbury Fridge Cheesecake Mix Chocolate Flavoured 165g,packaged-food,baking,product-price-7457,finalPrice,₹150,product-price-7457,finalPrice,₹150
+1698,Spencers,5595,Gits Rasmalai Mix 150g,packaged-food,baking,product-price-5595,finalPrice,₹85,product-price-5595,finalPrice,₹85
+1699,Spencers,25881,MTR Gulab Jamun Mix 190G,packaged-food,baking,product-price-25881,finalPrice,₹65,product-price-25881,finalPrice,₹65
+1700,Spencers,13812,Shellys Payesh 250g,packaged-food,baking,product-price-13812,finalPrice,₹120,product-price-13812,finalPrice,₹120
+1701,Spencers,9055,Betty Crocker No Bake Cheesecake Mix 360g,packaged-food,baking,product-price-9055,finalPrice,₹285,product-price-9055,finalPrice,₹285
+1702,Spencers,8936,Hershey's Chocolate Syrup 623g,packaged-food,baking,product-price-8936,finalPrice,₹200,product-price-8936,finalPrice,₹200
+1703,Spencers,8037,Hershey's Chocolate Syrup 200g,packaged-food,baking,product-price-8037,finalPrice,₹90,product-price-8037,finalPrice,₹90
+1704,Spencers,7458,Pillsbury Fridge Cheesecake Strawberry Mix 165g,packaged-food,baking,product-price-7458,finalPrice,₹150,product-price-7458,finalPrice,₹150
+1705,Spencers,7457,Pillsbury Fridge Cheesecake Mix Chocolate Flavoured 165g,packaged-food,baking,product-price-7457,finalPrice,₹150,product-price-7457,finalPrice,₹150
+1706,Spencers,5595,Gits Rasmalai Mix 150g,packaged-food,baking,product-price-5595,finalPrice,₹85,product-price-5595,finalPrice,₹85
+1707,Spencers,25881,MTR Gulab Jamun Mix 190G,packaged-food,baking,product-price-25881,finalPrice,₹65,product-price-25881,finalPrice,₹65
+1708,Spencers,13812,Shellys Payesh 250g,packaged-food,baking,product-price-13812,finalPrice,₹120,product-price-13812,finalPrice,₹120
+1709,Spencers,9055,Betty Crocker No Bake Cheesecake Mix 360g,packaged-food,baking,product-price-9055,finalPrice,₹285,product-price-9055,finalPrice,₹285
+1710,Spencers,8936,Hershey's Chocolate Syrup 623g,packaged-food,baking,product-price-8936,finalPrice,₹200,product-price-8936,finalPrice,₹200
+1711,Spencers,8037,Hershey's Chocolate Syrup 200g,packaged-food,baking,product-price-8037,finalPrice,₹90,product-price-8037,finalPrice,₹90
+1712,Spencers,7458,Pillsbury Fridge Cheesecake Strawberry Mix 165g,packaged-food,baking,product-price-7458,finalPrice,₹150,product-price-7458,finalPrice,₹150
+1713,Spencers,7457,Pillsbury Fridge Cheesecake Mix Chocolate Flavoured 165g,packaged-food,baking,product-price-7457,finalPrice,₹150,product-price-7457,finalPrice,₹150
+1714,Spencers,5595,Gits Rasmalai Mix 150g,packaged-food,baking,product-price-5595,finalPrice,₹85,product-price-5595,finalPrice,₹85
+1715,Spencers,25881,MTR Gulab Jamun Mix 190G,packaged-food,baking,product-price-25881,finalPrice,₹65,product-price-25881,finalPrice,₹65
+1716,Spencers,13812,Shellys Payesh 250g,packaged-food,baking,product-price-13812,finalPrice,₹120,product-price-13812,finalPrice,₹120
+1717,Spencers,9055,Betty Crocker No Bake Cheesecake Mix 360g,packaged-food,baking,product-price-9055,finalPrice,₹285,product-price-9055,finalPrice,₹285
+1718,Spencers,8936,Hershey's Chocolate Syrup 623g,packaged-food,baking,product-price-8936,finalPrice,₹200,product-price-8936,finalPrice,₹200
+1719,Spencers,8037,Hershey's Chocolate Syrup 200g,packaged-food,baking,product-price-8037,finalPrice,₹90,product-price-8037,finalPrice,₹90
+1720,Spencers,7458,Pillsbury Fridge Cheesecake Strawberry Mix 165g,packaged-food,baking,product-price-7458,finalPrice,₹150,product-price-7458,finalPrice,₹150
+1721,Spencers,7457,Pillsbury Fridge Cheesecake Mix Chocolate Flavoured 165g,packaged-food,baking,product-price-7457,finalPrice,₹150,product-price-7457,finalPrice,₹150
+1722,Spencers,5595,Gits Rasmalai Mix 150g,packaged-food,baking,product-price-5595,finalPrice,₹85,product-price-5595,finalPrice,₹85
+1723,Spencers,25881,MTR Gulab Jamun Mix 190G,packaged-food,baking,product-price-25881,finalPrice,₹65,product-price-25881,finalPrice,₹65
+1724,Spencers,13812,Shellys Payesh 250g,packaged-food,baking,product-price-13812,finalPrice,₹120,product-price-13812,finalPrice,₹120
+1725,Spencers,9055,Betty Crocker No Bake Cheesecake Mix 360g,packaged-food,baking,product-price-9055,finalPrice,₹285,product-price-9055,finalPrice,₹285
+1726,Spencers,8936,Hershey's Chocolate Syrup 623g,packaged-food,baking,product-price-8936,finalPrice,₹200,product-price-8936,finalPrice,₹200
+1727,Spencers,8037,Hershey's Chocolate Syrup 200g,packaged-food,baking,product-price-8037,finalPrice,₹90,product-price-8037,finalPrice,₹90
+1728,Spencers,7458,Pillsbury Fridge Cheesecake Strawberry Mix 165g,packaged-food,baking,product-price-7458,finalPrice,₹150,product-price-7458,finalPrice,₹150
+1729,Spencers,7457,Pillsbury Fridge Cheesecake Mix Chocolate Flavoured 165g,packaged-food,baking,product-price-7457,finalPrice,₹150,product-price-7457,finalPrice,₹150
+1730,Spencers,5595,Gits Rasmalai Mix 150g,packaged-food,baking,product-price-5595,finalPrice,₹85,product-price-5595,finalPrice,₹85
+1915,Spencers,38430,Hill Cart Blood Orange 14S 100g,coffee-tea-beverages,tea-coffee,product-price-38430,finalPrice,₹425,product-price-38430,finalPrice,₹425
+1916,Spencers,38428,Hill Cart Celestial Chamomile 14S 100g,coffee-tea-beverages,tea-coffee,product-price-38428,finalPrice,₹280,product-price-38428,finalPrice,₹280
+1917,Spencers,38415,Hill Cart Darjeeling Excelsior Caddy 15 15g,coffee-tea-beverages,tea-coffee,product-price-38415,finalPrice,₹1000,product-price-38415,finalPrice,₹1000
+1918,Spencers,38064,Saffola Fittify Green Tea Kahwa 37.5g,coffee-tea-beverages,tea-coffee,product-price-38064,finalPrice,₹220,product-price-38064,finalPrice,₹220
+1919,Spencers,38063,Saffola Fittify Green Tea Mint 37.5g,coffee-tea-beverages,tea-coffee,product-price-38063,finalPrice,₹220,product-price-38063,finalPrice,₹220
+1920,Spencers,37910,Wagh Bakri Good Morning Green Mint Tee Bag 10'S,coffee-tea-beverages,tea-coffee,product-price-37910,finalPrice,₹140,product-price-37910,finalPrice,₹140
+1921,Spencers,37902,Wagh Bakri Instant Tea Premix Ginger 10 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-37902,finalPrice,₹140,product-price-37902,finalPrice,₹140
+1922,Spencers,37901,Wagh Bakri Instant Tea Premix Elaichi 10 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-37901,finalPrice,₹140,product-price-37901,finalPrice,₹140
+1923,Spencers,37900,Wagh Bakri Instant Tea Premix Masala 10 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-37900,finalPrice,₹140,product-price-37900,finalPrice,₹140
+1924,Spencers,37899,Good Morning Green Tea Bag 25'S,coffee-tea-beverages,tea-coffee,product-price-37899,finalPrice,₹140,product-price-37899,finalPrice,₹140
+1925,Spencers,37655,Zago Body Buddy Caramel Coffee 330ml,coffee-tea-beverages,tea-coffee,product-price-37655,finalPrice,₹120,product-price-37655,finalPrice,₹120
+1926,Spencers,37643,Colombain Brew Vanilla Instant Coffee 50g,coffee-tea-beverages,tea-coffee,product-price-37643,finalPrice,₹190,product-price-37643,finalPrice,₹190
+1927,Spencers,36611,Twinings Green Tea Lemon & Honey 100Bags,coffee-tea-beverages,tea-coffee,product-price-36611,finalPrice,₹910,product-price-36611,finalPrice,₹910
+1928,Spencers,36610,Makaibari Apoorva Supreme 100g,coffee-tea-beverages,tea-coffee,product-price-36610,finalPrice,₹180,product-price-36610,finalPrice,₹180
+1929,Spencers,36605,Twinings Green Tea Cranberry 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-36605,finalPrice,₹300,product-price-36605,finalPrice,₹300
+1930,Spencers,36604,Twinings Green Tea Strawberry 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-36604,finalPrice,₹300,product-price-36604,finalPrice,₹300
+1931,Spencers,36603,Twinings Green Tea Pomegranate 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-36603,finalPrice,₹300,product-price-36603,finalPrice,₹300
+1932,Spencers,36602,Twinings Green Tea Green Apple 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-36602,finalPrice,₹300,product-price-36602,finalPrice,₹300
+1933,Spencers,35447,Nescafe Ready To Drink Intense Can 180ml,coffee-tea-beverages,tea-coffee,old-price-35447,oldPrice,₹50,product-price-35447,finalPrice,₹13
+1934,Spencers,35328,Typhoo Organic Root Remedy 20 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-35328,finalPrice,₹210,product-price-35328,finalPrice,₹210
+1935,Spencers,35327,Typhoo Organic Slim Tea 20 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-35327,finalPrice,₹210,product-price-35327,finalPrice,₹210
+1936,Spencers,35034,Lopchu Golden Orange Pekoe 250g,coffee-tea-beverages,tea-coffee,product-price-35034,finalPrice,₹455,product-price-35034,finalPrice,₹455
+1937,Spencers,33812,Cambridge Tea Party Lime Peel & Lemongrass Green Tea 40g,coffee-tea-beverages,tea-coffee,product-price-33812,finalPrice,₹75,product-price-33812,finalPrice,₹75
+1938,Spencers,33443,Hillcart Tales Honey Limon 14 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-33443,finalPrice,₹250,product-price-33443,finalPrice,₹250
+1939,Spencers,33314,Kashmiri Kahwa 15 Teabags,coffee-tea-beverages,tea-coffee,product-price-33314,finalPrice,₹245,product-price-33314,finalPrice,₹245
+1940,Spencers,33313,Signature Darjeeling 15 Teabags,coffee-tea-beverages,tea-coffee,product-price-33313,finalPrice,₹245,product-price-33313,finalPrice,₹245
+1941,Spencers,32806,Castleton Vintage Darjeeling Tea 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-32806,finalPrice,₹200,product-price-32806,finalPrice,₹200
+1942,Spencers,32508,By Nature Green Coffee Beans 200g,coffee-tea-beverages,tea-coffee,product-price-32508,finalPrice,₹349,product-price-32508,finalPrice,₹349
+1943,Spencers,32455,Typhoo Green Tea Tulsi 100 Tea bags,coffee-tea-beverages,tea-coffee,product-price-32455,finalPrice,₹700,product-price-32455,finalPrice,₹700
+1944,Spencers,32354,Typhoo Green Tea Lemon & Honey Tea Bags 25s,coffee-tea-beverages,tea-coffee,product-price-32354,finalPrice,₹195,product-price-32354,finalPrice,₹195
+1945,Spencers,32306,Lopchu Flowery Orange Pekoe 250g,coffee-tea-beverages,tea-coffee,product-price-32306,finalPrice,₹320,product-price-32306,finalPrice,₹320
+1946,Spencers,32305,Lopchu Orange Pekoe Fanning 500g,coffee-tea-beverages,tea-coffee,product-price-32305,finalPrice,₹185,product-price-32305,finalPrice,₹185
+1947,Spencers,32109,Marvel Tea Yellow Tea 1Kg,coffee-tea-beverages,tea-coffee,product-price-32109,finalPrice,₹440,product-price-32109,finalPrice,₹440
+1948,Spencers,30475,Piyala CTC Dust 250g,coffee-tea-beverages,tea-coffee,product-price-30475,finalPrice,₹70,product-price-30475,finalPrice,₹70
+1949,Spencers,29399,Goodricke Roasted Darjeeling Tea 250g,coffee-tea-beverages,tea-coffee,product-price-29399,finalPrice,₹240,product-price-29399,finalPrice,₹240
+1950,Spencers,27490,Wagh Bakri Navchetan Danedaar Tea 250g,coffee-tea-beverages,tea-coffee,product-price-27490,finalPrice,₹60,product-price-27490,finalPrice,₹60
+1951,Spencers,27192,Wagh Bakri Tulsi Green Tea Bags 10 U (units),coffee-tea-beverages,tea-coffee,product-price-27192,finalPrice,₹140,product-price-27192,finalPrice,₹140
+1952,Spencers,27188,Wagh Bakri Green Tea 100g,coffee-tea-beverages,tea-coffee,product-price-27188,finalPrice,₹90,product-price-27188,finalPrice,₹90
+1953,Spencers,26211,Typhoo Lemon and Lime zest 95g,coffee-tea-beverages,tea-coffee,product-price-26211,finalPrice,₹280,product-price-26211,finalPrice,₹280
+1954,Spencers,26008,Wagh Bakri Spiced Tea 200g,coffee-tea-beverages,tea-coffee,product-price-26008,finalPrice,₹130,product-price-26008,finalPrice,₹130
+1955,Spencers,25882,Nestle Everyday Milk Powder 190g,coffee-tea-beverages,tea-coffee,product-price-25882,finalPrice,₹104,product-price-25882,finalPrice,₹104
+1956,Spencers,24664,Nestle Everyday 400g,coffee-tea-beverages,tea-coffee,product-price-24664,finalPrice,₹200,product-price-24664,finalPrice,₹200
+1957,Spencers,23576,Makaibari Supreme Green Tea 100g,coffee-tea-beverages,tea-coffee,product-price-23576,finalPrice,₹180,product-price-23576,finalPrice,₹180
+1958,Spencers,23563,Lopchu Darjeeling Broken Mixed 250g,coffee-tea-beverages,tea-coffee,product-price-23563,finalPrice,₹205,product-price-23563,finalPrice,₹205
+1959,Spencers,22831,Wagh Bakri Instant Tea Premix 12NX14g,coffee-tea-beverages,tea-coffee,product-price-22831,finalPrice,₹150,product-price-22831,finalPrice,₹150
+1960,Spencers,22351,Bru Instant Coffee 8.5g,coffee-tea-beverages,tea-coffee,product-price-22351,finalPrice,₹10,product-price-22351,finalPrice,₹10
+1961,Spencers,22114,Lopchu Golden Orange Pekoe 100g,coffee-tea-beverages,tea-coffee,product-price-22114,finalPrice,₹195,product-price-22114,finalPrice,₹195
+1962,Spencers,21993,Makaibari Silver Green Organic Tea 100g,coffee-tea-beverages,tea-coffee,product-price-21993,finalPrice,₹740,product-price-21993,finalPrice,₹740
+1963,Spencers,21536,Lopchu Darjeeling Broken Mixed 500g,coffee-tea-beverages,tea-coffee,product-price-21536,finalPrice,₹365,product-price-21536,finalPrice,₹365
+1964,Spencers,21535,Lopchu Flowery Orange Pekoe 100g,coffee-tea-beverages,tea-coffee,product-price-21535,finalPrice,₹130,product-price-21535,finalPrice,₹130
+1965,Spencers,21414,Tea City Super Cup Premium 1kg,coffee-tea-beverages,tea-coffee,product-price-21414,finalPrice,₹350,product-price-21414,finalPrice,₹350
+1966,Spencers,20123,Fresh Brew Co. Javas 10 Capsules 50g,coffee-tea-beverages,tea-coffee,product-price-20123,finalPrice,₹350,product-price-20123,finalPrice,₹350
+1967,Spencers,19942,Twinings Jasmine Green 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-19942,finalPrice,₹285,product-price-19942,finalPrice,₹285
+1968,Spencers,19894,Mother Dairy Dailycious Dairy Whitener 500g,coffee-tea-beverages,tea-coffee,product-price-19894,finalPrice,₹190,product-price-19894,finalPrice,₹190
+1969,Spencers,19790,Fuze Tea Black Tea with Peach Flavour 250ml,coffee-tea-beverages,tea-coffee,product-price-19790,finalPrice,₹30,product-price-19790,finalPrice,₹30
+1970,Spencers,19785,Te-A-Me Signature Black Lemon 25 Tea Bags,coffee-tea-beverages,tea-coffee,product-price-19785,finalPrice,₹100,product-price-19785,finalPrice,₹100
+1971,Spencers,19740,Lopchu Flowery Orange Pekoe 500g,coffee-tea-beverages,tea-coffee,product-price-19740,finalPrice,₹590,product-price-19740,finalPrice,₹590
+1972,Spencers,19734,Nestle Everyday Masala Fusion Tea 18g,coffee-tea-beverages,tea-coffee,product-price-19734,finalPrice,₹15,product-price-19734,finalPrice,₹15
+1973,Spencers,19690,Mother Dairy Delicious Dairy Whitener 1kg,coffee-tea-beverages,tea-coffee,product-price-19690,finalPrice,₹365,product-price-19690,finalPrice,₹365
+1974,Spencers,19634,Typhoo Tea Masala Flavour 200g,coffee-tea-beverages,tea-coffee,product-price-19634,finalPrice,₹210,product-price-19634,finalPrice,₹210
+1975,Spencers,38434,Coolberg Non Alcoholic Beverage Cranberry 300ml,coffee-tea-beverages,drinks-juices,product-price-38434,finalPrice,₹69,product-price-38434,finalPrice,₹69
+1976,Spencers,38433,Coolberg Non Alcoholic Beverage Peach 300ml,coffee-tea-beverages,drinks-juices,product-price-38433,finalPrice,₹69,product-price-38433,finalPrice,₹69
+1977,Spencers,38297,B Natural Ratnagiri Alphonso 750ml,coffee-tea-beverages,drinks-juices,product-price-38297,finalPrice,₹120,product-price-38297,finalPrice,₹120
+1978,Spencers,38296,B Natural Himalayan Mixed Fruit 750ml,coffee-tea-beverages,drinks-juices,product-price-38296,finalPrice,₹110,product-price-38296,finalPrice,₹110
+1979,Spencers,37882,Heinz Glucon-D Mango Punch 200g,coffee-tea-beverages,drinks-juices,product-price-37882,finalPrice,₹64,product-price-37882,finalPrice,₹64
+1980,Spencers,37754,Monin Hazelnut 700ml,coffee-tea-beverages,drinks-juices,product-price-37754,finalPrice,₹895,product-price-37754,finalPrice,₹895
+1981,Spencers,37595,Monin Passion Fruit 700ml,coffee-tea-beverages,drinks-juices,product-price-37595,finalPrice,₹895,product-price-37595,finalPrice,₹895
+1982,Spencers,37198,Slice Pet bottle 1.75L,coffee-tea-beverages,drinks-juices,product-price-37198,finalPrice,₹90,product-price-37198,finalPrice,₹90
+1983,Spencers,34672,Raw Pressery Apple 1L,coffee-tea-beverages,drinks-juices,product-price-34672,finalPrice,₹325,product-price-34672,finalPrice,₹325
+1984,Spencers,33923,Real Alphonso Mango 1L,coffee-tea-beverages,drinks-juices,product-price-33923,finalPrice,₹109,product-price-33923,finalPrice,₹109
+1985,Spencers,33921,Real Masala Guava 1L,coffee-tea-beverages,drinks-juices,product-price-33921,finalPrice,₹99,product-price-33921,finalPrice,₹99
+1986,Spencers,33918,Wild Vitamin Drink Lemonade Zero Sugar 300ml,coffee-tea-beverages,drinks-juices,product-price-33918,finalPrice,₹55,product-price-33918,finalPrice,₹55
+1987,Spencers,33917,Wild Vitamin Drink Lemonade 300ml,coffee-tea-beverages,drinks-juices,product-price-33917,finalPrice,₹55,product-price-33917,finalPrice,₹55
+1988,Spencers,33913,Wild Vitamin Drink Orange Mango 300ml,coffee-tea-beverages,drinks-juices,product-price-33913,finalPrice,₹55,product-price-33913,finalPrice,₹55
+1989,Spencers,33722,Heinz Glucon-D Mango Punch 1kg,coffee-tea-beverages,drinks-juices,old-price-33722,oldPrice,₹310,product-price-33722,finalPrice,₹285
+1990,Spencers,33510,Rosscare Amla Honey Juice 1L,coffee-tea-beverages,drinks-juices,product-price-33510,finalPrice,₹200,product-price-33510,finalPrice,₹200
+1991,Spencers,33509,Rosscare Aloe Vera Juice Fibre 1L,coffee-tea-beverages,drinks-juices,product-price-33509,finalPrice,₹200,product-price-33509,finalPrice,₹200
+1992,Spencers,33508,Rosscare Karela Jamun Juice 1L,coffee-tea-beverages,drinks-juices,product-price-33508,finalPrice,₹275,product-price-33508,finalPrice,₹275
+1993,Spencers,33360,Alo Frut Litchi Aloevera Juice 300ml,coffee-tea-beverages,drinks-juices,product-price-33360,finalPrice,₹40,product-price-33360,finalPrice,₹40
+1994,Spencers,33358,Alo Frut Kiwi Aloevera Juice 300ml,coffee-tea-beverages,drinks-juices,product-price-33358,finalPrice,₹40,product-price-33358,finalPrice,₹40
+1995,Spencers,32658,Nestle Milo Ready to Drink 180ml,coffee-tea-beverages,drinks-juices,old-price-32658,oldPrice,₹35,product-price-32658,finalPrice,₹9
+1996,Spencers,32524,Rasna Native Hat - Aampanna - 500g,coffee-tea-beverages,drinks-juices,product-price-32524,finalPrice,₹170,product-price-32524,finalPrice,₹170
+1997,Spencers,32523,Rasna Native Hat - Shikanji - 500g,coffee-tea-beverages,drinks-juices,product-price-32523,finalPrice,₹170,product-price-32523,finalPrice,₹170
+1998,Spencers,32520,Tang Lemon Pillow Pack 100g,coffee-tea-beverages,drinks-juices,product-price-32520,finalPrice,₹30,product-price-32520,finalPrice,₹30
+1999,Spencers,32385,Vinut Lychee Juice 250ml,coffee-tea-beverages,drinks-juices,product-price-32385,finalPrice,₹40,product-price-32385,finalPrice,₹40
+2000,Spencers,32292,Druk Lime Juice Cordial 700ml,coffee-tea-beverages,drinks-juices,product-price-32292,finalPrice,₹115,product-price-32292,finalPrice,₹115
+2001,Spencers,31900,Paper Boat Lychee Ras 200ml,coffee-tea-beverages,drinks-juices,product-price-31900,finalPrice,₹30,product-price-31900,finalPrice,₹30
+2002,Spencers,31595,Axiom Alo frut Mixed Fruit Aloevera Juice 300ml,coffee-tea-beverages,drinks-juices,product-price-31595,finalPrice,₹40,product-price-31595,finalPrice,₹40
+2003,Spencers,31594,Axiom Alo frut Mixed Fruit Aloevera Juice 1L,coffee-tea-beverages,drinks-juices,product-price-31594,finalPrice,₹110,product-price-31594,finalPrice,₹110
+2004,Spencers,31593,Axiom Alo frut Kiwi Aloevera Juice 1L,coffee-tea-beverages,drinks-juices,product-price-31593,finalPrice,₹110,product-price-31593,finalPrice,₹110
+2005,Spencers,31592,Axiom Alo frut Guava Aloevera Juice 1L,coffee-tea-beverages,drinks-juices,product-price-31592,finalPrice,₹110,product-price-31592,finalPrice,₹110
+2006,Spencers,31591,Axiom Alo frut Berries Aloevera Juice 300ml,coffee-tea-beverages,drinks-juices,product-price-31591,finalPrice,₹40,product-price-31591,finalPrice,₹40
+2007,Spencers,31590,Axiom Alo frut Berries Aloevera Juice 1L,coffee-tea-beverages,drinks-juices,product-price-31590,finalPrice,₹110,product-price-31590,finalPrice,₹110
+2008,Spencers,31589,Axiom Alo frut Anaar AloeVera Juice 1L,coffee-tea-beverages,drinks-juices,product-price-31589,finalPrice,₹120,product-price-31589,finalPrice,₹120
+2009,Spencers,31556,PAPER BOAT Santra 200ml,coffee-tea-beverages,drinks-juices,product-price-31556,finalPrice,₹30,product-price-31556,finalPrice,₹30
+2010,Spencers,30407,Paperboat Apple 1L,coffee-tea-beverages,drinks-juices,product-price-30407,finalPrice,₹110,product-price-30407,finalPrice,₹110
+2011,Spencers,30379,Sting Energy Drink Can 250 ml,coffee-tea-beverages,drinks-juices,product-price-30379,finalPrice,₹50,product-price-30379,finalPrice,₹50
+2012,Spencers,26324,Parle Appy Fizz 500ml,coffee-tea-beverages,drinks-juices,product-price-26324,finalPrice,₹30,product-price-26324,finalPrice,₹30
+2013,Spencers,26113,Glucon-D Original Instant Energy 200g,coffee-tea-beverages,drinks-juices,product-price-26113,finalPrice,₹61,product-price-26113,finalPrice,₹61
+2014,Spencers,25997,Red Bull Sleek Can 350ml,coffee-tea-beverages,drinks-juices,product-price-25997,finalPrice,₹145,product-price-25997,finalPrice,₹145
+2015,Spencers,25907,Dabur Glucose-D Cooling Energy 200g,coffee-tea-beverages,drinks-juices,product-price-25907,finalPrice,₹58,product-price-25907,finalPrice,₹58
+2016,Spencers,25305,Frooti Mango Drink 1.5l- 2l,coffee-tea-beverages,drinks-juices,product-price-25305,finalPrice,₹80,product-price-25305,finalPrice,₹80
+2017,Spencers,25167,Dabur GlucoPlus-C Lemon flavour 450g,coffee-tea-beverages,drinks-juices,product-price-25167,finalPrice,₹160,product-price-25167,finalPrice,₹160
+2018,Spencers,25117,Lotte Hot 6 Energy Drink 250ml,coffee-tea-beverages,drinks-juices,product-price-25117,finalPrice,₹75,product-price-25117,finalPrice,₹75
+2019,Spencers,24807,B Natural Apple Awe 1L,coffee-tea-beverages,drinks-juices,product-price-24807,finalPrice,₹105,product-price-24807,finalPrice,₹105
+2020,Spencers,24673,Tropicana Mixed Fruit Delight 1l,coffee-tea-beverages,drinks-juices,product-price-24673,finalPrice,₹100,product-price-24673,finalPrice,₹100
+2021,Spencers,24672,Real Litchi 200ml,coffee-tea-beverages,drinks-juices,product-price-24672,finalPrice,₹20,product-price-24672,finalPrice,₹20
+2022,Spencers,24669,Real Fruit Power Apple 200ml,coffee-tea-beverages,drinks-juices,product-price-24669,finalPrice,₹20,product-price-24669,finalPrice,₹20
+2023,Spencers,22479,Ganesh Rose Petal Sharbat 700ml,coffee-tea-beverages,drinks-juices,product-price-22479,finalPrice,₹170,product-price-22479,finalPrice,₹170
+2024,Spencers,22447,Druk Pineapple Fruit Squash 700ml,coffee-tea-beverages,drinks-juices,product-price-22447,finalPrice,₹120,product-price-22447,finalPrice,₹120
+2025,Spencers,21756,B Natural Pineapple Poise 200ml,coffee-tea-beverages,drinks-juices,product-price-21756,finalPrice,₹22,product-price-21756,finalPrice,₹22
+2026,Spencers,21647,B Natural Festive Delight Gift Pack 7x200ml,coffee-tea-beverages,drinks-juices,product-price-21647,finalPrice,₹150,product-price-21647,finalPrice,₹150
+2027,Spencers,20363,Mala's Rose Syrup 750ml,coffee-tea-beverages,drinks-juices,product-price-20363,finalPrice,₹125,product-price-20363,finalPrice,₹125
+2028,Spencers,20263,Fuze Lemon Flavoured Black Tea 250ml,coffee-tea-beverages,drinks-juices,product-price-20263,finalPrice,₹30,product-price-20263,finalPrice,₹30
+2029,Spencers,20188,Ganesh Lemon Fruit Squash 700ml,coffee-tea-beverages,drinks-juices,product-price-20188,finalPrice,₹105,product-price-20188,finalPrice,₹105
+2030,Spencers,20128,Nestea Watermelon Coconut Iced Tea 100g,coffee-tea-beverages,drinks-juices,product-price-20128,finalPrice,₹60,product-price-20128,finalPrice,₹60
+2031,Spencers,20051,Spencer's Thandai 200ml,coffee-tea-beverages,drinks-juices,product-price-20051,finalPrice,₹60,product-price-20051,finalPrice,₹60
+2032,Spencers,19957,Glucon-D Aam Panna Flavour 450g,coffee-tea-beverages,drinks-juices,product-price-19957,finalPrice,₹135,product-price-19957,finalPrice,₹135
+2033,Spencers,19780,Ganesh Mango Panna 700ml,coffee-tea-beverages,drinks-juices,product-price-19780,finalPrice,₹155,product-price-19780,finalPrice,₹155
+2034,Spencers,19749,Campa Mango Fruit Drink 600ml,coffee-tea-beverages,drinks-juices,product-price-19749,finalPrice,₹35,product-price-19749,finalPrice,₹35
+2035,Spencers,39124,Heineken 0.0% Non Alcohol Beer- Zero Dot Zero 330ml-Pack of 6,coffee-tea-beverages,soft-drinks-cola-water,product-price-39124,finalPrice,₹450,product-price-39124,finalPrice,₹450
+2036,Spencers,39123,KF Radler Mint Lime Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle 4 Pack,coffee-tea-beverages,soft-drinks-cola-water,product-price-39123,finalPrice,₹210,product-price-39123,finalPrice,₹210
+2037,Spencers,39122,KF Radler Ginger Lime Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle 4 Pack,coffee-tea-beverages,soft-drinks-cola-water,product-price-39122,finalPrice,₹210,product-price-39122,finalPrice,₹210
+2038,Spencers,39121,KF Radler Lemon Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle - 4 Pack,coffee-tea-beverages,soft-drinks-cola-water,product-price-39121,finalPrice,₹210,product-price-39121,finalPrice,₹210
+2039,Spencers,39120,KF Radler Mint Lime Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-39120,finalPrice,₹70,product-price-39120,finalPrice,₹70
+2040,Spencers,39119,KF Radler Ginger Lime Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-39119,finalPrice,₹70,product-price-39119,finalPrice,₹70
+2041,Spencers,39118,KF Radler Lemon Non Alcoholic Malt Drink 300 ml Frosted Glass Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-39118,finalPrice,₹70,product-price-39118,finalPrice,₹70
+2042,Spencers,39117,KF Radler Mint Lime Non Alcoholic Malt Drink 300 ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-39117,finalPrice,₹45,product-price-39117,finalPrice,₹45
+2043,Spencers,38432,Coolberg Non Alcoholic Beverage Mint 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-38432,finalPrice,₹69,product-price-38432,finalPrice,₹69
+2044,Spencers,38431,Coolberg Non Alcoholic Beverage Ginger Beer 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-38431,finalPrice,₹69,product-price-38431,finalPrice,₹69
+2045,Spencers,38412,Kf Radler Ginger Lime Non Alcoholic Drink Can 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-38412,finalPrice,₹45,product-price-38412,finalPrice,₹45
+2046,Spencers,38411,Heineken 0.0 Non Alcohol Beer Zoz 200g,coffee-tea-beverages,soft-drinks-cola-water,product-price-38411,finalPrice,₹75,product-price-38411,finalPrice,₹75
+2047,Spencers,38410,Kf Radler Lemon Non Alcoholic Drink Can 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-38410,finalPrice,₹45,product-price-38410,finalPrice,₹45
+2048,Spencers,33301,7UP Pet Bottle 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-33301,finalPrice,₹38,product-price-33301,finalPrice,₹38
+2049,Spencers,33237,Himalayan Natural Mineral Water 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-33237,finalPrice,₹45,product-price-33237,finalPrice,₹45
+2050,Spencers,32874,Glaceau Smartwater Pet Bottle 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-32874,finalPrice,₹50,product-price-32874,finalPrice,₹50
+2051,Spencers,27180,Aquafina Drinking Water 2L,coffee-tea-beverages,soft-drinks-cola-water,product-price-27180,finalPrice,₹35,product-price-27180,finalPrice,₹35
+2052,Spencers,27169,Kinley Soda 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-27169,finalPrice,₹20,product-price-27169,finalPrice,₹20
+2053,Spencers,25598,O'cean Fruit Water Watermelon 500ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-25598,finalPrice,₹45,product-price-25598,finalPrice,₹45
+2054,Spencers,25373,Bisleri Soda 600ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-25373,finalPrice,₹15,product-price-25373,finalPrice,₹15
+2055,Spencers,18339,Himalayan Natural Mineral Water 200ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-18339,finalPrice,₹17,product-price-18339,finalPrice,₹17
+2056,Spencers,18307,Bisleri Vedica 1L,coffee-tea-beverages,soft-drinks-cola-water,product-price-18307,finalPrice,₹100,product-price-18307,finalPrice,₹100
+2057,Spencers,18030,Bisleri Packaged Drinking Water 1L,coffee-tea-beverages,soft-drinks-cola-water,product-price-18030,finalPrice,₹20,product-price-18030,finalPrice,₹20
+2058,Spencers,17976,Bisleri Packaged Drinking Water 500ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-17976,finalPrice,₹10,product-price-17976,finalPrice,₹10
+2059,Spencers,17975,Bisleri Packaged Drinking Water 2L,coffee-tea-beverages,soft-drinks-cola-water,product-price-17975,finalPrice,₹33,product-price-17975,finalPrice,₹33
+2060,Spencers,13824,Pepsi 1.25L,coffee-tea-beverages,soft-drinks-cola-water,product-price-13824,finalPrice,₹60,product-price-13824,finalPrice,₹60
+2061,Spencers,11974,Schweppes Indian Tonic Water 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-11974,finalPrice,₹50,product-price-11974,finalPrice,₹50
+2062,Spencers,11763,Diet Pepsi 600ml Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-11763,finalPrice,₹35,product-price-11763,finalPrice,₹35
+2063,Spencers,11414,Himalayan Natural Mineral Water 500ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-11414,finalPrice,₹35,product-price-11414,finalPrice,₹35
+2064,Spencers,11221,Himalayan Natural Mineral Water 1L,coffee-tea-beverages,soft-drinks-cola-water,product-price-11221,finalPrice,₹65,product-price-11221,finalPrice,₹65
+2065,Spencers,10940,Fanta Mobile Pack 600ml Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-10940,finalPrice,₹35,product-price-10940,finalPrice,₹35
+2066,Spencers,8861,Schweppes Original Ginger Ale 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-8861,finalPrice,₹50,product-price-8861,finalPrice,₹50
+2067,Spencers,6983,Pepsi 250ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6983,finalPrice,₹25,product-price-6983,finalPrice,₹25
+2068,Spencers,6935,Mountain Dew 250ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6935,finalPrice,₹25,product-price-6935,finalPrice,₹25
+2069,Spencers,6934,7UP 250ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6934,finalPrice,₹25,product-price-6934,finalPrice,₹25
+2070,Spencers,6933,Mirinda 250ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6933,finalPrice,₹25,product-price-6933,finalPrice,₹25
+2071,Spencers,6932,Diet Pepsi 250ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6932,finalPrice,₹25,product-price-6932,finalPrice,₹25
+2072,Spencers,6496,Fanta 300ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6496,finalPrice,₹35,product-price-6496,finalPrice,₹35
+2073,Spencers,6495,Sprite Can 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-6495,finalPrice,₹35,product-price-6495,finalPrice,₹35
+2074,Spencers,6494,Thums Up Can 300ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-6494,finalPrice,₹35,product-price-6494,finalPrice,₹35
+2075,Spencers,6493,Coca-Cola 300ml Can,coffee-tea-beverages,soft-drinks-cola-water,product-price-6493,finalPrice,₹35,product-price-6493,finalPrice,₹35
+2076,Spencers,6256,Fanta Fridge Pack 1.25L Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-6256,finalPrice,₹65,product-price-6256,finalPrice,₹65
+2077,Spencers,6153,Qua Natural Mineral Water 500ml,coffee-tea-beverages,soft-drinks-cola-water,old-price-6153,oldPrice,₹65,product-price-6153,finalPrice,₹58.50
+2078,Spencers,5353,Kinley Mineral Water 500ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-5353,finalPrice,₹10,product-price-5353,finalPrice,₹10
+2079,Spencers,5155,Kinley Mineral Water 1L,coffee-tea-beverages,soft-drinks-cola-water,product-price-5155,finalPrice,₹20,product-price-5155,finalPrice,₹20
+2080,Spencers,5154,Aquafina Mineral Drinking Water 1L,coffee-tea-beverages,soft-drinks-cola-water,product-price-5154,finalPrice,₹20,product-price-5154,finalPrice,₹20
+2081,Spencers,5131,Pepsi 2L Bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-5131,finalPrice,₹85,product-price-5131,finalPrice,₹85
+2082,Spencers,5129,Mirinda Party Pack 2L bottle,coffee-tea-beverages,soft-drinks-cola-water,product-price-5129,finalPrice,₹85,product-price-5129,finalPrice,₹85
+2083,Spencers,4706,Aquafina Mineral Drinking Water 500ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-4706,finalPrice,₹10,product-price-4706,finalPrice,₹10
+2084,Spencers,4705,Kinley Mineral Water 2L,coffee-tea-beverages,soft-drinks-cola-water,product-price-4705,finalPrice,₹35,product-price-4705,finalPrice,₹35
+2085,Spencers,32314,Coca Cola 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-32314,finalPrice,₹40,product-price-32314,finalPrice,₹40
+2086,Spencers,32221,Thums Up 750ml,coffee-tea-beverages,soft-drinks-cola-water,product-price-32221,finalPrice,₹40,product-price-32221,finalPrice,₹40
+2087,Spencers,33781,Bournvita Five Star Magic Chocolate Flavour 750g,coffee-tea-beverages,health-drinks,product-price-33781,finalPrice,₹325,product-price-33781,finalPrice,₹325
+2088,Spencers,13944,Cadbury Bournvita Badam Booster Jar 400g,coffee-tea-beverages,health-drinks,product-price-13944,finalPrice,₹250,product-price-13944,finalPrice,₹250
+2089,Spencers,8796,Cadbury Bournvita 75g Packet,coffee-tea-beverages,health-drinks,product-price-8796,finalPrice,₹30,product-price-8796,finalPrice,₹30
+2090,Spencers,6158,Cadbury Bournvita Lil Champs 500g,coffee-tea-beverages,health-drinks,product-price-6158,finalPrice,₹283,product-price-6158,finalPrice,₹283
+2091,Spencers,5179,Cadbury Bournvita 5Star Magic Pack 500g,coffee-tea-beverages,health-drinks,product-price-5179,finalPrice,₹218,product-price-5179,finalPrice,₹218
+2092,Spencers,5174,Cadbury Bournvita 1kg Jar,coffee-tea-beverages,health-drinks,product-price-5174,finalPrice,₹400,product-price-5174,finalPrice,₹400
+2093,Spencers,4740,Cadbury Bournvita 5Star Magic Jar 500g,coffee-tea-beverages,health-drinks,product-price-4740,finalPrice,₹231,product-price-4740,finalPrice,₹231
+2094,Spencers,4739,Cadbury Bournvita 200g Jar,coffee-tea-beverages,health-drinks,product-price-4739,finalPrice,₹107,product-price-4739,finalPrice,₹107
+2095,Spencers,38427,Horlicks Protein No Sugar Vanilla 400g,coffee-tea-beverages,health-drinks,product-price-38427,finalPrice,₹535,product-price-38427,finalPrice,₹535
+2096,Spencers,38417,Protinex Original 750g,coffee-tea-beverages,health-drinks,product-price-38417,finalPrice,₹990,product-price-38417,finalPrice,₹990
+2097,Spencers,38408,VNourish Strawberry 200g,coffee-tea-beverages,health-drinks,product-price-38408,finalPrice,₹315,product-price-38408,finalPrice,₹315
+2098,Spencers,38407,VNourish Kesar Pista 200g,coffee-tea-beverages,health-drinks,product-price-38407,finalPrice,₹315,product-price-38407,finalPrice,₹315
+2099,Spencers,38004,Mothers Horlicks Kesar Refill 500g,coffee-tea-beverages,health-drinks,product-price-38004,finalPrice,₹525,product-price-38004,finalPrice,₹525
+2100,Spencers,35306,Venky's Whey Protein 200g,coffee-tea-beverages,health-drinks,product-price-35306,finalPrice,₹105,product-price-35306,finalPrice,₹105
+2101,Spencers,35305,Venky's Whey Protein 500g,coffee-tea-beverages,health-drinks,product-price-35305,finalPrice,₹215,product-price-35305,finalPrice,₹215
+2102,Spencers,35238,Activkids Immuno Boosters 7+Yrs Choco 30 Chocobites,coffee-tea-beverages,health-drinks,product-price-35238,finalPrice,₹399,product-price-35238,finalPrice,₹399
+2103,Spencers,33942,Pediasure Cookies & Cream 400g,coffee-tea-beverages,health-drinks,product-price-33942,finalPrice,₹520,product-price-33942,finalPrice,₹520
+2104,Spencers,33428,Horlicks Protein+ Vanilla 200g Refill,coffee-tea-beverages,health-drinks,product-price-33428,finalPrice,₹299,product-price-33428,finalPrice,₹299
+2105,Spencers,33394,Horlicks Growth Plus Vanilla 200g,coffee-tea-beverages,health-drinks,product-price-33394,finalPrice,₹299,product-price-33394,finalPrice,₹299
+2106,Spencers,32911,Horlicks Protein+ Chocolate Bib Refill 400g,coffee-tea-beverages,health-drinks,product-price-32911,finalPrice,₹535,product-price-32911,finalPrice,₹535
+2107,Spencers,32910,Horlicks Protein+ Vanilla Bib Refill 400g,coffee-tea-beverages,health-drinks,product-price-32910,finalPrice,₹535,product-price-32910,finalPrice,₹535
+2108,Spencers,32909,Horlicks Protein+ Chocolate Bib Refill 200g,coffee-tea-beverages,health-drinks,product-price-32909,finalPrice,₹295,product-price-32909,finalPrice,₹295
+2109,Spencers,32812,Horlicks Growth Plus Chocolate Bib 200g,coffee-tea-beverages,health-drinks,product-price-32812,finalPrice,₹299,product-price-32812,finalPrice,₹299
+2110,Spencers,31880,Horlicks Growth Plus Health Drink Vanilla Flavor 400 g,coffee-tea-beverages,health-drinks,product-price-31880,finalPrice,₹535,product-price-31880,finalPrice,₹535
+2111,Spencers,30514,Horlicks Refill Pack 2x500g,coffee-tea-beverages,health-drinks,product-price-30514,finalPrice,₹464,product-price-30514,finalPrice,₹464
+2112,Spencers,27182,Boost 3X More Stamina 500g,coffee-tea-beverages,health-drinks,product-price-27182,finalPrice,₹204,product-price-27182,finalPrice,₹204
+2113,Spencers,26482,Complan Classic Chocolate Flavour 500g,coffee-tea-beverages,health-drinks,old-price-26482,oldPrice,₹280,product-price-26482,finalPrice,₹265
+2114,Spencers,26433,Complan Kesar Badam Flavour 500g,coffee-tea-beverages,health-drinks,old-price-26433,oldPrice,₹315,product-price-26433,finalPrice,₹300
+2115,Spencers,21734,Mother's Horlicks Vanilla 200g,coffee-tea-beverages,health-drinks,product-price-21734,finalPrice,₹199,product-price-21734,finalPrice,₹199
+2116,Spencers,18292,Horlicks Classic Malt 2kg Jar,coffee-tea-beverages,health-drinks,product-price-18292,finalPrice,₹780,product-price-18292,finalPrice,₹780
+2117,Spencers,18156,Horlicks Growth Plus Chocolate Flavour 400g,coffee-tea-beverages,health-drinks,product-price-18156,finalPrice,₹535,product-price-18156,finalPrice,₹535
+2118,Spencers,18091,Protinex Elachi Flavour 250g,coffee-tea-beverages,health-drinks,product-price-18091,finalPrice,₹330,product-price-18091,finalPrice,₹330
+2119,Spencers,14183,Junior Horlicks Stage 2 Original Flavour 500g,coffee-tea-beverages,health-drinks,product-price-14183,finalPrice,₹288,product-price-14183,finalPrice,₹288
+2120,Spencers,13124,Protinex Grow Malt Flavour 400g,coffee-tea-beverages,health-drinks,product-price-13124,finalPrice,₹320,product-price-13124,finalPrice,₹320
+2121,Spencers,11233,Protinex Vanilla Flavour 250g,coffee-tea-beverages,health-drinks,product-price-11233,finalPrice,₹340,product-price-11233,finalPrice,₹340
+2122,Spencers,11231,Protinex Original 400g,coffee-tea-beverages,health-drinks,product-price-11231,finalPrice,₹585,product-price-11231,finalPrice,₹585
+2123,Spencers,10988,Complan Pista Badam Flavour 400g,coffee-tea-beverages,health-drinks,product-price-10988,finalPrice,₹315,product-price-10988,finalPrice,₹315
+2124,Spencers,9102,Hershey's Chocolate Milk Booster 475g,coffee-tea-beverages,health-drinks,product-price-9102,finalPrice,₹200,product-price-9102,finalPrice,₹200
+2125,Spencers,8044,Horlicks Chocolate Delight 750g,coffee-tea-beverages,health-drinks,product-price-8044,finalPrice,₹292,product-price-8044,finalPrice,₹292
+2126,Spencers,7225,Horlicks Royal Kesar Badam 400g,coffee-tea-beverages,health-drinks,product-price-7225,finalPrice,₹263,product-price-7225,finalPrice,₹263
+2127,Spencers,7206,PediaSure Premium Chocolate Refill Pack 200g,coffee-tea-beverages,health-drinks,product-price-7206,finalPrice,₹295,product-price-7206,finalPrice,₹295
+2128,Spencers,7205,Pediasure Vanilla Delight Refill Pack 200g,coffee-tea-beverages,health-drinks,product-price-7205,finalPrice,₹295,product-price-7205,finalPrice,₹295
+2129,Spencers,7063,PediaSure Premium Chocolate Refill Pack 400g,coffee-tea-beverages,health-drinks,product-price-7063,finalPrice,₹545,product-price-7063,finalPrice,₹545
+2130,Spencers,7062,Pediasure Vanilla Delight Refill Pack 400g,coffee-tea-beverages,health-drinks,product-price-7062,finalPrice,₹520,product-price-7062,finalPrice,₹520
+2131,Spencers,6861,Women's Horlicks Caramel Flavour Box 400g,coffee-tea-beverages,health-drinks,product-price-6861,finalPrice,₹284,product-price-6861,finalPrice,₹284
+2132,Spencers,6860,Women's Horlicks Chocolate Flavour Box 400g,coffee-tea-beverages,health-drinks,product-price-6860,finalPrice,₹284,product-price-6860,finalPrice,₹284
+2133,Spencers,6427,Horlicks Junior Stage 2 Original 500g,coffee-tea-beverages,health-drinks,product-price-6427,finalPrice,₹273,product-price-6427,finalPrice,₹273
+2134,Spencers,6426,Junior Horlicks Stage 2 Chocolate Flavour 500g,coffee-tea-beverages,health-drinks,product-price-6426,finalPrice,₹273,product-price-6426,finalPrice,₹273
+2135,Spencers,6414,Women's Horlicks Chocolate Flavour Jar 400g,coffee-tea-beverages,health-drinks,product-price-6414,finalPrice,₹299,product-price-6414,finalPrice,₹299
+2136,Spencers,6413,Women's Horlicks Caramel Flavour Jar 400g,coffee-tea-beverages,health-drinks,product-price-6413,finalPrice,₹299,product-price-6413,finalPrice,₹299
+2137,Spencers,5929,MTR Badam Drink Mix Jar 500g,coffee-tea-beverages,health-drinks,product-price-5929,finalPrice,₹205,product-price-5929,finalPrice,₹205
+2138,Spencers,5440,Horlicks Chocolate Delight 1kg,coffee-tea-beverages,health-drinks,product-price-5440,finalPrice,₹355,product-price-5440,finalPrice,₹355
+2139,Spencers,5439,Mother's Horlicks 500g,coffee-tea-beverages,health-drinks,product-price-5439,finalPrice,₹515,product-price-5439,finalPrice,₹515
+2140,Spencers,5438,Horlicks Junior Chocolate Jar 500g,coffee-tea-beverages,health-drinks,product-price-5438,finalPrice,₹288,product-price-5438,finalPrice,₹288
+2141,Spencers,5181,Horlicks Lite 450g,coffee-tea-beverages,health-drinks,product-price-5181,finalPrice,₹298,product-price-5181,finalPrice,₹298
+2142,Spencers,5177,Horlicks Chocolate Delight Box 500g,coffee-tea-beverages,health-drinks,product-price-5177,finalPrice,₹204,product-price-5177,finalPrice,₹204
+2143,Spencers,5172,Horlicks Junior Stage 1 Jar 500g,coffee-tea-beverages,health-drinks,product-price-5172,finalPrice,₹288,product-price-5172,finalPrice,₹288
+2144,Spencers,5169,Horlicks Classic Malt Box 1kg,coffee-tea-beverages,health-drinks,product-price-5169,finalPrice,₹428,product-price-5169,finalPrice,₹428
+2145,Spencers,4738,Horlicks Junior DHA 500g,coffee-tea-beverages,health-drinks,product-price-4738,finalPrice,₹273,product-price-4738,finalPrice,₹273
+2146,Spencers,35118,Horlicks Lite Badam Refill 500g,coffee-tea-beverages,health-drinks,product-price-35118,finalPrice,₹288,product-price-35118,finalPrice,₹288
